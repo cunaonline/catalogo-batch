@@ -1,0 +1,154 @@
+GLN Proveedor CPP                  Descripción                                                                   GTIN13 Pide x unid Unid/c 
+7737001030011 FAR00458B            AEROSOL SS LIGHTNING                                                   7509546004587 N               12 
+7737001030011 FAR00460B            AEROSOL SS AVALANCHE                                                   7509546004600 N               12 
+7737001030011 FAR00690             JABON ASTRAL LIQUIDO                                                   7731024006909 N               12 
+7737001030011 FAR00759A            AEROSOL ALOE PETAL SOFT                                                7509546007595 N               12 
+7737001030011 FAR00760A            AEROSOL ALOE MORNING BREEZE                                            7509546007601 N               12 
+7737001030011 FAR00918F            PUL ODEX AZUL  C/BICLORIN                                              7790630009186 N               12 
+7737001030011 FAR01162             AEROSOL SS VOLCANO                                                     7509546011622 N               12 
+7737001030011 FAR11132B            CDC TRIPLE ACCIÓN  180 GRS.                                            7793100111327 N               48 
+7737001030011 FAR11137A            CDC TRIPLE ACCION 90 GRS.                                              7793100111372 N               48 
+7737001030011 FAR15700             TALCO POLYANA                                                          7793100157004 N               24 
+7737001030011 FAR23143             DESODORANTE PALMOLIVE DE LUJO                                          7793100231438 N              144 
+7737001030011 FAR24100A            TALCO ASTRAL ANTIBACTERIAL                                             7793100241000 N               24 
+7737001030011 FAR24108             TALQUERA PO. EDICION LIMITADA 180 GRS.                                 7793100241086 N               12 
+7737001030011 FAR24109             TALCO DE LUJO                                                          7793100241093 N               24 
+7737001030011 FAR31103C            PULIDOR BAO                                                            7793100311031 N               12 
+7737001030011 FAR31104             PUL ODEX BICARBONATO Y CITRUS                                          7793100311048 N               12 
+7737001030011 FBR02004A            CDK SUPER BLANCO        150 GRS.                                       7891528020044 N               72 
+7737001030011 FBR02873A            CDC  MFP C/CALCIO   90 GRS.                                            7891528028736 N              108 
+7737001030011 FBR02875B            CDC  MFP C/CALCIO     150 GRS.                                         7891528028750 N               72 
+7737001030011 FBR04556A            CDK TRIPLE FRESCURA 90 GRS                                             7891528045566 N               72 
+7737001030011 FBR09171A            CEP DOCTOR ADULTO MEDIANO 2X1                                          7891528091716 N               36 
+7737001030011 FBR10313             CDC JUNIOR SHREK                                                       7891024103135 N               12 
+7737001030011 FBR10616             JAB ASTRAL PROPÓLEO                                                    7891024106167 N               72 
+7737001030011 FBR10617             JAB ASTRAL PROTEX PROPOLIS TRIPACK 125G                                7891024106174 N               24 
+7737001030011 FBR10996             JAB PO NAT MENTA EUCAL 125G                                            7891024109960 N               72 
+7737001030011 FBR11113             CDC TOTAL  180 GRS.                                                    7891024111130 N               48 
+7737001030011 FBR11114C            CDC TOTAL  90 GRS.                                                     7793100111143 N               48 
+7737001030011 FBR11270A            JAB NUTRIMILK REGULAR CAJA 90G                                         7891024112700 N               72 
+7737001030011 FBR11271A            JAB NUTRIMILK EXFOLIANTE CAJA 90G                                      7891024112717 N               72 
+7737001030011 FBR11286             GEL DE DUCHA NUTRIMILK HUMECTANTE                                      7891024112861 N               12 
+7737001030011 FBR11790             GEL DE DUCHA PO AROMATERAPIA RELAX                                     7891024117903 N               12 
+7737001030011 FBR11795             GEL DE DUCHA PO AROMATERAPIA ENERGIA                                   7891024117958 N               12 
+7737001030011 FBR12320             CDC MAX WHITE CRYSTAL MINT 90G                                         7891024123201 N               48 
+7737001030011 FBR12321             CDC MAX WHITE KISS ME MINT                                             7891024123218 N               48 
+7737001030011 FBR13009             COLGATE PLAX MENTA SIN ALCOHOL                                         7891024130094 N               12 
+7737001030011 FBR13010A            COLGATE PLAX  TOTAL CLASSIC/ORIGINAL                                   7891024130100 N               24 
+7737001030011 FBR13030A            COLGATE PLAX TOTAL MENTA FRESCA                                        7891024130308 N               24 
+7737001030011 FBR13041A            COLGATE PLAX OVERNIGHT                                                 7891024130414 N               24 
+7737001030011 FBR13183             CDC MAX FRESH CITRUS MINT                                              7891024131831 N               48 
+7737001030011 FBR13187             CDC MAX FRESH COOL MINT                                                7891024131879 N               48 
+7737001030011 FBR13189             CDC MAX FRESH CLEAN MINT                                               7891024131893 N               48 
+7737001030011 FBR13313             CDC JUNIOR BARBIE                                                      7891024133132 N               12 
+7737001030011 FBR13314             CDC JUNIOR BOB ESPONJA                                                 7891024133149 N               12 
+7737001030011 FBR13318             CDC  BABY BARNEY                                                       7891024133187 N               12 
+7737001030011 FBR13366A            CDC HERBAL BLANQUEADORA                                                7891024133668 N               48 
+7737001030011 FBR13430B            CDC COLGATE SENSITIVE MULTIPROTECTION                                  7891024134306 N               48 
+7737001030011 FBR13440C            CDC COLGATE SENSITIVE                                                  7891024134405 N               48 
+7737001030011 FBR13442B            CDC COLGATE SENSITIVE WHITENING                                        7891024134429 N               48 
+7737001030011 FBR13449             CDC COLGATE SENSITIVE MULTIPROTECTION                                  7891024134498 N               48 
+7737001030011 FBR13502             CDC TOTAL  WHITENING 90GRS                                             7891024135020 N               48 
+7737001030011 FBR13506             CDC COLGATE TOTAL WHITENING 180 GRS                                    7891024135068 N               48 
+7737001030011 FBR13511             CDC TOTAL PROFESSIONAL 166 GRS                                         7509546028026 N               72 
+7737001030011 FBR13512             CDC TOTAL PROFESSIONAL 100 GRS                                         7509546028019 N               48 
+7737001030011 FBR13609             COLGATE PLAX ICE 250ML                                                 7891024136096 N               24 
+7737001030011 FBR13613             COLGATE PLAX ICE 500ML 150 ML GRATIS                                   7891024136133 N               12 
+7737001030011 FBR13620             COLGATE PLAX KIDS                                                      7891024136201 N               24 
+7737001030011 FBR13780B            CDC BLANQUEADORA                                                       7891024137802 N               48 
+7737001030011 FBR17671A            JAB ASTRAL CREAM                                                       7891024176719 N               72 
+7737001030011 FBR17672             JAB ASTRAL AVENA                                                       7891024176726 N               72 
+7737001030011 FBR17674A            JAB ASTRAL PROTEX CREAM TRIPACK 125G                                   7891024176740 N               24 
+7737001030011 FBR17675             JAB ASTRAL OATS TRIPACK 125G                                           7891024176757 N               24 
+7737001030011 FBR17676             JAB ASTRAL TRIPAC 125G                                                 7891024176764 N               24 
+7737001030011 FBR17677             JAB ASTRAL PLATA 125 GRS.                                              7891024176771 N               72 
+7737001030011 FBR17678             JAB ASTRAL PROTEX DEO 12 125G                                          7891024176788 N               72 
+7737001030011 FBR17679             JAB ASTRAL PROTEX DEO 12 TRIPACK 125G                                  7891024176795 N               24 
+7737001030011 FBR17742             JAB PO NAT BALANCEADO Y SUAVE 4X125G                                   7891024177426 N               18 
+7737001030011 FBR17743             JAB PO NAT BALANCEADO Y SUAVE                                          7891024177433 N               72 
+7737001030011 FBR17748             JAB PO NAT EXFOLIACION DIARIA                                          7891024177488 N               72 
+7737001030011 FBR17758             JAB PO NAT EXFOLIACION DIARIA 4X125G                                   7891024177587 N               18 
+7737001030011 FBR17765D            JAB PO NAT ACCION HUMECTANTE                                           7891024177655 N               72 
+7737001030011 FBR17798             JAB PO NAT YOGURT Y FRUTAS                                             7891024177983 N               72 
+7737001030011 FBR17855             JAB PO NAT ACCION EX HUMECTANTE 4X125G                                 7891024178553 N               18 
+7737001030011 FBR17858             GEL DE DUCHA PO NAT MENTA&EUC LIQ 250ML                                7891024178584 N               12 
+7737001030011 FBR17867             GEL DE DUCHA PO NATURALS Y YOGURT                                      7891024178676 N               12 
+7737001030011 FBR18301             HILO DENTAL COLGATE NYLON 50M 2X1                                      7891024183014 N               48 
+7737001030011 FBR18320B            HILO DENTAL COLGATE TOTAL                                              7891024183205 N               24 
+7737001030011 FBR18323             HILO DENTAL FLUOR Y MENTA                                              7891024183236 N               24 
+7737001030011 FBR18326             HILO DENTAL COLGATE TOTAL 2X1                                          7891024183267 N               24 
+7737001030011 FBR18460             CEP COLGATE CLASSIC ADULTO MED.                                        7891024184608 N               12 
+7737001030011 FBR90212A            CEP PLUS TWISTER  C/H MEDIO                                                 78902121 N               12 
+7737001030011 FCH03191             CEP MAX FRESH                                                          7509546031873 N               12 
+7737001030011 FCH31616             CEP COLGATE 360 MEDIO                                                  7891024316160 N               12 
+7737001030011 FCN00837             CEP COLGATE ZIG ZAG PLUS MED    2X1                                    7509546008370 N               48 
+7737001030011 FCN01108             CEP COLGATE SMILES BARNEY 0-2 AÑOS                                     7591083011081 N               24 
+7737001030011 FCN01109             CEP COLGATE  SMILES BARBIE & BOB ESPONJA 2-5 AÑOS                      7591083011098 N               24 
+7737001030011 FCN01110             CEP COLGATE  SMILES BARBIE & ROCKET POWER + 5 AÑOS                     7591083011104 N               24 
+7737001030011 FCN01209             CEP COLGATE MICROSONIC                                                 7509546012094 N               12 
+7737001030011 FCN01254             CEP DEN COLGATE NAVIGATOR 2 X 1                                        7509546012544 N               12 
+7737001030011 FCN02054             CEP SMILES SHREK + 5 AÑOS                                              7509546020549 N               24 
+7737001030011 FCN13034             CEP COLGATE 360 SENSITIVE                                              7702010130342 N               12 
+7737001030011 FCN13036             CEP COLGATE MICROSONIC 360                                             7702010130366 N               12 
+7737001030011 FCN18600             CEP COLGATE MASSAGER                                                   7891024186008 N               12 
+7737001030011 FCN36398A            CEP COLGATE NAVIGATOR PLUS                                             7702010363986 N               48 
+7737001030011 FCO21919             CETER AXION CREMA  **                                                  7702010219191 N               24 
+7737001030011 FMX01007A            ROLL ON COOL FUSION 24/7                                               7509546010076 N               12 
+7737001030011 FMX01008A            ROLL ON ICY SURGE 24/7                                                 7509546010083 N               12 
+7737001030011 FMX01547             ROLL ON DOUBLE DEFENSE ACTIVE FRESH                                    7509546015477 N               12 
+7737001030011 FMX01548             ROLL ON DOUBLE DEFENSE SHOWER FRESH                                    7509546015484 N               12 
+7737001030011 FMX01549             AEROSOL DD ACTIVE FRESH                                                7509546015491 N               12 
+7737001030011 FMX01550             AEROSOL DD SHOWER FRESH                                                7509546015507 N               12 
+7737001030011 FMX02050             ROLL ON GLACIAR POWER 24/7                                             7509546020501 N               12 
+7737001030011 FMX02904             ROLL ON COOL NIGHT 24/7                                                7509546029047 N               12 
+7737001030011 FMX02906             ROLL ON FLORAL FRESH                                                   7509546029061 N               12 
+7737001030011 FMX91170A            ROLL ON ALOEMORNING BREEZE                                             7501035911703 N               12 
+7737001030011 FMX91171A            ROLL ON ALOE PETAL SOFT                                                7501035911710 N               12 
+7737001030011 FPR13014             CEP COLGATE WHITENING MEDIO                                            7702010130144 N               12 
+7737001030011 FTH01024             CEP COLGATE BOB ESPONJA 3 D                                            7591083010244 N               24 
+7737001030011 FTH02055             CEP COLGATE SHREK 3D                                                   7509546020556 N               24 
+7737001030011 FUS00693A            JABON PO LIQ. AROMATERAPIA ENERG.                                      7509546006932 N               12 
+7737001030011 FUS00695A            JABON PO LIQ. AROMATERAPIA RELAX                                       7509546006956 N               12 
+7737001030011 FUS00816A            BARRA  LSS ALOE MORNING BREEZE                                         7509546008165 N               12 
+7737001030011 FUS00817A            BARRA LSS ALOE PETAL SOFT                                              7509546008172 N               12 
+7737001030011 FUS00904             BARRA COOL FUSION  24/7                                                7509546009049 N               12 
+7737001030011 FUS00905             BARRA ICY SURGE   24/7                                                 7509546009056 N               12 
+7737001030011 FUS00907A            DEO GEL COOL FUSION 24/7                                               7509546009070 N               12 
+7737001030011 FUS01551             BARRA DOUBLE DEFENSE ACTIVE FRESH                                      7509546015514 N               12 
+7737001030011 FUS01553             BARRA DOUBLE DEFENSE SHOWER FRESH                                      7509546015538 N               12 
+7737001030011 FUS01582             BONUS PACK BARRA LSS FLORAL                                            7509546015828 N               12 
+7737001030011 FUS02025             BARRA GLACIER POWER                                                    7509546020259 N               12 
+7737001030011 FUS02175             JABON PO LIQ MENTA Y EUCALIPTUS                                        7509546021751 N               12 
+7737001030011 FUS02307             JABON PO LIQ NAT YOGURT Y FRUTAS                                       7509546023076 N               12 
+7737001030011 FUS90008A            BARRA QUANTUM INVISIBLE MUSK                                           7501035900080 N               12 
+7737001030011 FUS90750             BARRA FRESH                                                            7501035907508 N               12 
+7737001030011 FUS90892A            BARRA QUANTUM INVISIBLE FLORAL                                         7501035908925 N               12 
+7737001030011 FUY00438B            FAB FRESCO AMANECER 1LT                                                7731024004387 N               12 
+7737001030011 FUY00447B            FAB LAVANDA  0,5 LT.                                                   7731024004479 N               15 
+7737001030011 FUY00448B            FAB LAVANDA   1 LT.                                                    7731024004486 N               12 
+7737001030011 FUY00449A            FAB LAVANDA    2 LT.                                                   7731024004493 N                6 
+7737001030011 FUY00720             CEP PREMIER ULTRA FH MEDIO                                             6910021007206 N               12 
+7737001030011 FUY00810             DETERJANE ORIGINAL 0,750 LTS.**                                        7731024008101 N               12 
+7737001030011 FUY00811             DETERJANE ORIGINAL 1,25 LTS.**                                         7731024008118 N               12 
+7737001030011 FUY00815             DETERJANE ORIGINAL 2 LTS.**                                            7731024008156 N                9 
+7737001030011 FUY00818             DETERJANE   ANTIBACTERIAL**                                            7731024008187 N               12 
+7737001030011 FUY02001B            CDK SUPER BLANCO           50 GRS.                                     7891528020013 N               12 
+7737001030011 FUY02002A            CDK SUPER BLANCO        90 GRS.                                        7891528020020 N               12 
+7737001030011 FUY18326             HILO DENTAL COLGATE TOTAL 2X1                                          7891024183267 N               24 
+7737001030011 FUY20001             DETER AXION ULTRA  **                                                  7731024200017 N               16 
+7737001030011 FUY20005             DETER AXION ULTRA ANTIBACTERIAL **                                     7731024200055 N               16 
+7737001030011 FUY20007             DETERJANE BICARBONATO Y POMELO **                                      7731024200079 N               12 
+7737001030011 FUY29208             GEL DUCHA PO NAT MENTA Y EUC + ESPONJA                                 7793100292088 N               12 
+7737001030011 FUY33380             ODEX VIDRIOS REPUESTO                                                  7731024333807 N               12 
+7737001030011 FUY33381             ODEX VIDRIOS GATILLO                                                   7731024333814 N               12 
+7737001030011 FUY33387             ODEX AMONIACO                                                          7731024333876 N               12 
+7737001030011 FUY50072             CDC CALCIO 90 G. 3X2                                                   7731024500728 N               36 
+7737001030011 FUY50078A            CDC TRIPLE ACCION MENTA SUAVE                                          7731024500780 N               24 
+7737001030011 FUY52071             ODEX AMONIACO 20% DESCUENTO                                            7731024520719 N               12 
+7737001030011 FUY63029             CEP PREMIER ULTRA NIÑOS                                                7702010630293 N               12 
+7737001030011 FUY70001             FAB PARAISO TROPICAL ANTIBACTERIAL                                     7731024700012 N               12 
+7737001030011 FUY70011             FAB PASION DE FRUTAS                                                   7731024700111 N               12 
+7737001030011 FUY70013             FAB LAVANDA CITRICA                                                    7731024700135 N               12 
+7737001030011 FUY70015             FAB FRESCA MENTA                                                       7731024700159 N               12 
+7737001030011 FUY70018             FAB BICARB. CITRICOS Y FRUTAS 1L                                       7731024700180 N               12 
+7737001030011 FUY70020             FAB FRESCO AMANECER 2 LTS.                                             7731024700203 N                6 

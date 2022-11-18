@@ -1,0 +1,726 @@
+GLN Proveedor CPP                  Descripción                                                                   GTIN13 Pide x unid Unid/c 
+7737001730010 1003   000           S.LINE GEL WET MULT.150 GR.                                            7896014102471 S               12 
+7737001730010 1004   000           S.L.GEL EXT.FIJ.MULT.150 GR.                                           7896014149919 S               12 
+7737001730010 1007   000           S.L.MOUSSE E.F.MULT.150 ML.                                            7790033102422 S               12 
+7737001730010 1009   000           S.L. EXTRA FIJ. POWER SENS. 250ML                                      7790033122192 S               12 
+7737001730010 1022   000           S.L.FX INVISI-GEL 150 GR.                                              7896014102426 S               12 
+7737001730010 1023   000           S.L. FX LIQUID-GEL 150 GR                                              7790033211513 S               12 
+7737001730010 1023   000           S.L. FX LIQUID-GEL 150 GR                                              7896014102679 S               12 
+7737001730010 12   000             SH. ELVIVE ANTICASPA SECOS 400 ML                                      7899026418103 S                1 
+7737001730010 1344   000           PACK REVITALIFT DIA + NOCHE                                            7730317001201 S               16 
+7737001730010 1345   000           PACK PUREZA CONTINUA                                                   7730317000358 S                1 
+7737001730010 1352   000           PACK AGE PERF. DIA+NOCHE                                               7730317001218 S               16 
+7737001730010 1426   000           NUTRIDORE ROSTRO PIELES CLARAS                                         3600521071946 S                6 
+7737001730010 1427   000           NUTRIDORE ROSTRO PIELES OSCURAS                                        3600521071939 S                6 
+7737001730010 1428   000           RELLENADOR COLAGENO OJOS                                               3600521082744 S                6 
+7737001730010 1429   000           AGE RE - PERFECT NOCHE                                                 3600520959955 S                6 
+7737001730010 1429   000           AGE RE - PERFECT NOCHE                                                 7896014183302 S                6 
+7737001730010 1469   000           PURE ZONE DEEP CONTROL                                                 7896014179299 S                1 
+7737001730010 1487   000           AGE PERFECT LECHE                                                      7896014153985 S                6 
+7737001730010 1488   000           AGE PERFECT TONICO                                                     7896014153992 S                6 
+7737001730010 1508   000           REVITALIFT FPS 15                                                      3600520949772 S                6 
+7737001730010 1517   000           AGE RE - PERFECT DIA (50 ML)                                           3600520918631 S                6 
+7737001730010 1517   000           AGE RE - PERFECT DIA (50 ML)                                           7896014183296 S                6 
+7737001730010 1524   000           D.E. LOCION IDEAL BALANCE                                              7501027246950 S                6 
+7737001730010 1524   000           D.E. LOCION IDEAL BALANCE                                              8411300651007 S                6 
+7737001730010 1526   000           D.E.  LECHE DEM. IDEAL BALANCE                                         7501027246967 S                6 
+7737001730010 1526   000           D.E.  LECHE DEM. IDEAL BALANCE                                         8411300652004 S                6 
+7737001730010 1528   000           RELLENADOR COLAGENO                                                    3600520682396 S                6 
+7737001730010 153    10            CASTING 10 NEGRO                                                       7896014124213 S                6 
+7737001730010 153    10            CASTING 10 NEGRO                                                       7896014158928 S                6 
+7737001730010 153    11            CASTING  11 NEGRO AZULADO                                              7896014124220 S                6 
+7737001730010 153    11            CASTING  11 NEGRO AZULADO                                              7896014158935 S                6 
+7737001730010 153    12            CASTING  12 CAST. OSC. VIOLETA                                         7896014158942 S                6 
+7737001730010 153    12            CASTING  12 CAST. OSC. VIOLETA                                         7896014167586 S                6 
+7737001730010 153    14            CASTING  14 CASTAÑO OSCURO                                             7896014124237 S                6 
+7737001730010 153    14            CASTING  14 CASTAÑO OSCURO                                             7896014158959 S                6 
+7737001730010 153    20            CASTING  CASTAÑO CLARO CAOBA                                           7896014124244 S                6 
+7737001730010 153    20            CASTING  CASTAÑO CLARO CAOBA                                           7896014158966 S                6 
+7737001730010 153    21            CASTING  CAST.VIOL.PROF.                                               7896014158973 S                6 
+7737001730010 153    24            CASTING 24 CASTAÑO                                                     7896014124251 S                6 
+7737001730010 153    24            CASTING 24 CASTAÑO                                                     7896014158980 S                6 
+7737001730010 153    25            CASTING  25 CAST. CAOBA ROJIZO                                         7896014124268 S                6 
+7737001730010 153    25            CASTING  25 CAST. CAOBA ROJIZO                                         7896014158997 S                6 
+7737001730010 153    30            CASTING  30 CASTAÑO CLARO MARRON                                       7896014124275 S                6 
+7737001730010 153    30            CASTING  30 CASTAÑO CLARO MARRON                                       7896014159017 S                6 
+7737001730010 153    31            CASTING 31 CASTAÑO ROJIZO                                              7896014131440 S                6 
+7737001730010 153    31            CASTING 31 CASTAÑO ROJIZO                                              7896014170647 S                6 
+7737001730010 153    34            CASTING  34 CASTAÑO CLARO                                              7896014124282 S                6 
+7737001730010 153    34            CASTING  34 CASTAÑO CLARO                                              7896014159024 S                6 
+7737001730010 153    42            CASTING  42 RUBIO OSCURO                                               7896014124312 S                6 
+7737001730010 153    42            CASTING  42 RUBIO OSCURO                                               7896014159048 S                6 
+7737001730010 1566   000           REVIT. DOUBLE LIFTING 2X15 ML                                          3600520624877 S                6 
+7737001730010 1566   000           REVIT. DOUBLE LIFTING 2X15 ML                                          3600520625072 S                6 
+7737001730010 1567   000           DERMO EXP. DEMAQ. OJOS BI FASE 125 ML                                  3054080063780 S                6 
+7737001730010 1823   000           DERMO EXP.LIMP. EXPRESS 200 ML.                                        7896014138968 S                6 
+7737001730010 1823   000           DERMO EXP.LIMP. EXPRESS 200 ML.                                        7896014153367 S                6 
+7737001730010 1869   000           PL.REVITALIF OJOS 15 ML                                                3054080019886 S                6 
+7737001730010 1869   000           PL.REVITALIF OJOS 15 ML                                                7896014155699 S                6 
+7737001730010 1893   000           DERMO EXP.HY.CONF.LECHE DEM 200                                        7896014153268 S                6 
+7737001730010 1894   000           DERMO EXP.HYDRA.CONF.TONICO 200                                        7896014153275 S                6 
+7737001730010 190     3            EXCELL. CREME 3 CAST.OSCURO                                            7804960021715 S               12 
+7737001730010 190     3            EXCELL. CREME 3 CAST.OSCURO                                            7896014161058 S               12 
+7737001730010 190     4            EXCELL. CREME 4 CASTAÑO                                                7804960021722 S               12 
+7737001730010 190     4            EXCELL. CREME 4 CASTAÑO                                                7896014161065 S               12 
+7737001730010 190     5            EXCELL CREME 5 CAST. CLARO                                             7804960021746 S               12 
+7737001730010 190     5            EXCELL CREME 5 CAST. CLARO                                             7896014161072 S               12 
+7737001730010 190     6            EXCELL. CREME 6 RUBIO OSCURO                                           7804960021753 S               12 
+7737001730010 190     6            EXCELL. CREME 6 RUBIO OSCURO                                           7896014161119 S               12 
+7737001730010 190     8            EXCELL. CREME  8 RUBIO CLARO                                           7804960021784 S               12 
+7737001730010 190     8            EXCELL. CREME  8 RUBIO CLARO                                           7896014161225 S               12 
+7737001730010 190    03            EXCELL. CREME  03 RUB.ULT.CL.DOR.                                      7896014161041 S               12 
+7737001730010 190    46            EXCELL. CREME 46 CAST. ROJ. INT.                                       7804960022163 S               12 
+7737001730010 190    51            EXCELL. CREME  51 CAST. CL. CEN.                                       7896014161089 S               12 
+7737001730010 190    53            EXCELL. CREME  53 CAST. CL. DOR.                                       7896014161096 S               12 
+7737001730010 190    61            EXCELL. CREME 61 RUB. OSC. CEN.                                        7804960022002 S               12 
+7737001730010 190    61            EXCELL. CREME 61 RUB. OSC. CEN.                                        7896014161126 S               12 
+7737001730010 190    63            EXCELL. CREME 63 RUB. OSC. DORADO                                      7804960022118 S               12 
+7737001730010 190    63            EXCELL. CREME 63 RUB. OSC. DORADO                                      7896014171408 S               12 
+7737001730010 190    66            EXCELL CREME 66 RUB.OSC.ROJIZO                                         7896014161133 S               12 
+7737001730010 190    71            EXCELL. CREME 71 RUBIO CENIZA                                          7804960022019 S               12 
+7737001730010 190    71            EXCELL. CREME 71 RUBIO CENIZA                                          7896014161188 S               12 
+7737001730010 190    81            EXCELL. CREME 81 RUB. CL. CEN.                                         7804960022026 S               12 
+7737001730010 190    81            EXCELL. CREME 81 RUB. CL. CEN.                                         7896014161232 S               12 
+7737001730010 190    83            EXCELL. CREME 83 RUB. CL. DOR.                                         7896014161249 S               12 
+7737001730010 190    93            EXCELL. CREME 93 RUB. CL.CL.DOR.                                       7896014161294 S               12 
+7737001730010 190   425            EXCELL. CREME 425 MARRON PRALINE                                       7804960039192 S               12 
+7737001730010 190   460            EXCELL CREME 460 CAST.ROJ.INTENSO                                      7804960022163 S               12 
+7737001730010 190   515            EXCELL. CREME 515 MARRON GLACE                                         7804960039208 S               12 
+7737001730010 190   634            EXCELL. CREME 634 RUB.OSC.DOR.COB                                      7804960022156 S               12 
+7737001730010 190   634            EXCELL. CREME 634 RUB.OSC.DOR.COB                                      7896014161140 S               12 
+7737001730010 190   645            EXCELL. CREME 645 MARRON CAOBA                                         7804960039215 S               12 
+7737001730010 190   645            EXCELL. CREME 645 MARRON CAOBA                                         7896014161157 S               12 
+7737001730010 190   652            EXCELL CREME 652 RUB.OSC.CAOB.IRI.                                     7804960022132 S               12 
+7737001730010 190   652            EXCELL CREME 652 RUB.OSC.CAOB.IRI.                                     7896014161324 S               12 
+7737001730010 190   666            EXCELL. CREME 666 RUB.OSC.ROJ.PROF.                                    7804960022187 S               12 
+7737001730010 190   666            EXCELL. CREME 666 RUB.OSC.ROJ.PROF.                                    7896014161164 S               12 
+7737001730010 190   711            EXCELL. CREME  711 RUB.CEN.PROF.                                       7804960021876 S               12 
+7737001730010 190   711            EXCELL. CREME  711 RUB.CEN.PROF.                                       7896014161201 S               12 
+7737001730010 190   731            EXCELL.CREME 731 RUBIO DORADO. CENIZA                                  7804960021913 S               12 
+7737001730010 190   735            EXCELL. CREME 735 RUB.DOR.CAOBA                                        7804960022057 S               12 
+7737001730010 190   735            EXCELL. CREME 735 RUB.DOR.CAOBA                                        7896014174737 S               12 
+7737001730010 190   821            EXCELL. CREME  821 RUB. CL. IRIS. CEN                                  7896014161348 S               12 
+7737001730010 190   831            EXCELL. CREME 831 RUB.CL.DORADO CEN.                                   7804960021920 S               12 
+7737001730010 190   831            EXCELL. CREME 831 RUB.CL.DORADO CEN.                                   7896014171392 S               12 
+7737001730010 190   834            EXCELL. CREME 834 RUB. CL. DOR. COB.                                   7896014161263 S               12 
+7737001730010 1996   000           DERMO EXP. HYDRAFRESH P. MIXTA 50 ML                                   7790033123137 S                6 
+7737001730010 1996   000           DERMO EXP. HYDRAFRESH P. MIXTA 50 ML                                   8411300033605 S                6 
+7737001730010 2   000              SH. ELVIVE ANTICASPANORMAL 400 ML                                      7899026418097 S                1 
+7737001730010 2003   000           DERMO EXP. HYDRAFRESH P. SECA 50 ML                                    7896014158812 S                6 
+7737001730010 2003   000           DERMO EXP. HYDRAFRESH P. SECA 50 ML                                    8411300033612 S                6 
+7737001730010 2009   000           REVITALIFT DIA (50 ML)                                                 7896014155675 S                6 
+7737001730010 2018   000           PLEN. REVIT. SLIM F.FP50ML P.O.                                        8411300040054 S                6 
+7737001730010 2307   000           DERMO EXP. REVITALIFT NOCHE P50 ML                                     7896014155682 S                6 
+7737001730010 2327   000           DERMO EXP. AGE PERF. CR. DE DIA                                        7896014155170 S                6 
+7737001730010 2334   000           DERMO EXP. AGE PERF. NOCHE                                             7896014155200 S                6 
+7737001730010 2507   000           DERMO EXP. DECONTR. RIDES JOUR 49 G.                                   7896014155378 S                6 
+7737001730010 2522   000           DERMO EXP.DECONTR. RIDES NOCHE                                         7896014165643 S                6 
+7737001730010 2529   000           D.E. DEMAQ. SUAVE DE OJOS 125 ML                                       8411300448003 S                6 
+7737001730010 30   000             STUDIO LINE ULTIM FIX 150 ML                                           7896014168019 S               12 
+7737001730010 31   000             TOALLITAS DEMAQ.IDEAL BAL (X25)                                        8411300027024 S                6 
+7737001730010 31751 000            PACK LISS INT. SH250 + AC200 + CEPILLO                                 7730317003700 S                1 
+7737001730010 31752 000            PACK COLORVIVE SH250 + AC200 + CEPILLO                                 7730317003694 S                1 
+7737001730010 31753   000          PACK V. CONTROL SH250 + AC200 + CEPILLO                                7730317003687 S               12 
+7737001730010 31753 000            PACK V. CONTROL SH250 + AC200 + CEPILLO                                7730317003687 S                1 
+7737001730010 31754 000            PACK HYDRAC. SH250 + AC200 + CEPILLO                                   7730317003670 S                1 
+7737001730010 31755 000            PACK ANTIQ. SH250 + AC200 + CEPILLO                                    7730317003663 S                1 
+7737001730010 31756 000            PACK NUTRIGLOS SH250 + AC200 + CEPILLO                                 7730317003656 S                1 
+7737001730010 32   000             TOALLITAS DEMAQ.HYDRA CONF. (X25)                                      8411300052040 S                6 
+7737001730010 33   000             D.E. REMODELADOR COLAGENO                                              3600521147863 S                6 
+7737001730010 4   000              SH. ELVIVE ANTICASPA GRASO 400 ML                                      7899026418110 S                1 
+7737001730010 4017    01           GREAT LASH WASH.BLACK                                                    41554532722 S                6 
+7737001730010 4017    01           GREAT LASH WASH.BLACK                                                  8001960121806 S                6 
+7737001730010 4030    01           VOLUM´EXPRESS MASC. NOIR                                               5021044013332 S                3 
+7737001730010 4030    02           VOLUM´EXPRESS MASC. BRUN PROFOND                                         41554676037 S                3 
+7737001730010 4030    02           VOLUM´EXPRESS MASC. BRUN PROFOND                                       5021044013356 S                3 
+7737001730010 4030   F01           VOLUM´EXPRESS MASC. NOIR FOOD                                          7730317000563 S                1 
+7737001730010 4068    01           XXL VOLUME + LONGITUD NOIR INFINI                                      3600530146475 S              126 
+7737001730010 4068   F01           XXL VOLUME + LONGITUD NOIR INFINI FOOD                                 7730317000730 S              126 
+7737001730010 4073    01           VOLUM TURBO BOOST MASCARA BLACK                                        3600530164158 S                3 
+7737001730010 4075    01           VOLUM EXPRESS WTP MASC. BLACK                                          5021044013455 S               72 
+7737001730010 4078    01           XXL INTENSE NOIR                                                       3600530258437 S                3 
+7737001730010 4087    01           UNSTOPPABLE MASC. BLACK                                                3600530187027 S                3 
+7737001730010 4087   F01           UNSTOPPABLE MASC. BLACK FOOD                                           7730317001744 S                1 
+7737001730010 4094    01           POLVO COMP SN CONTROL BEIGE COGNAC                                     7790033221987 S                1 
+7737001730010 4094    02           POLVO COMP SN CONTROL NATURAL                                          7790033221994 S                1 
+7737001730010 4094    03           POLVO COMP SN CONTROL CARIBE                                           7790033222007 S                1 
+7737001730010 4094    04           POLVO COMP SN CONTROL DORADO                                           7790033222014 S                1 
+7737001730010 4099    01           PACK XXL+ LABIAL + COLORAMA                                            7730317001621 S                1 
+7737001730010 4099   000           PACK XXL + LABIAL + COLORAMA                                           7730317001621 S                1 
+7737001730010 4107    01           VOLUME EXPP. C/SET REGALO NEGRO                                        7730317002925 S                1 
+7737001730010 4107    02           VOLUME EXPP. C/SET REGALO MARRON                                       7730317002932 S                1 
+7737001730010 4107    03           VOLUME EXPP. C/SET REGALO TURBO BOOST                                  7730317002949 S                1 
+7737001730010 443   000            ELVIVE AC. NUTRI GLOSS 200 ML                                          7899026413887 S               12 
+7737001730010 445   000            ELVIVE CR. TRAT. NUTRI GLOSS 350 ML                                    7899026413900 S                6 
+7737001730010 446   000            ELVIVE SH. NUTRI GLOSS 250 ML                                          7899026413870 S               12 
+7737001730010 447   000            P.O. SH. ELVIVE NUTRI GLOSS 350 ML                                     7899026413917 S               12 
+7737001730010 448   000            ELVIVE AC. NUTRI GLOSS 300 ML                                          7899026413924 S               12 
+7737001730010 4503    01           LAPIZ HYDRA EXTREME ROSE BEIGE                                         7899026413115 S                6 
+7737001730010 4503    02           LAPIZ HYDRA EXTREME BEIGE NATURAL                                      7899026413122 S                6 
+7737001730010 4503    03           LAPIZ HYDRA EXTREME SWEET MAUVE                                        7899026413153 S                6 
+7737001730010 4503    06           LAPIZ HYDRA EXTREME RED GLAMOUR                                        7899026413184 S                6 
+7737001730010 4507   101           RAL W.SHINE DIAM.CHERRY SH.                                            7899026402508 S                3 
+7737001730010 4507   101           RAL W.SHINE DIAM.CHERRY SH.                                            7899026415751 S                3 
+7737001730010 4507   102           RAL W.SHINE DIAM.CRYSTAL PK.                                           7899026402546 S                3 
+7737001730010 4507   102           RAL W.SHINE DIAM.CRYSTAL PK.                                           7899026415768 S                3 
+7737001730010 4507   104           RAL W.SHINE DIAM. RUBI STRASS                                          7899026402461 S                3 
+7737001730010 4507   104           RAL W.SHINE DIAM. RUBI STRASS                                          7899026415829 S                3 
+7737001730010 4507   106           RAL W.SHINE DIAM. OURO                                                 7899026402485 S                3 
+7737001730010 4507   106           RAL W.SHINE DIAM. OURO                                                 7899026415836 S                3 
+7737001730010 4507   107           RAL W.SHINE DIAM.PK.DIAMONDS                                           7899026402553 S                3 
+7737001730010 4507   107           RAL W.SHINE DIAM.PK.DIAMONDS                                           7899026415799 S                3 
+7737001730010 4507   108           RAL W.SHINE DIAM. LOLITA STRASS                                        7899026402492 S                3 
+7737001730010 4507   108           RAL W.SHINE DIAM. LOLITA STRASS                                        7899026415775 S                3 
+7737001730010 4507   109           RAL W.SHINE DIAM.PEACH SH.                                             7899026402454 S                3 
+7737001730010 4507   109           RAL W.SHINE DIAM.PEACH SH.                                             7899026415782 S                3 
+7737001730010 4507   110           RAL W.SHINE DIAM. LILAC STASS                                          7899026402447 S                3 
+7737001730010 4507   110           RAL W.SHINE DIAM. LILAC STASS                                          7899026415812 S                3 
+7737001730010 4507   172           RAL W.SHINE DIAM.CORAL DIAMONDS                                        7899026415911 S                3 
+7737001730010 4511    01           SUPER NATURAL POLVO COMP.  TRUE BEIGE                                  7790033207868 S              150 
+7737001730010 4511    02           SUPER NATURAL POLVO COMP.  BEIGE COG                                   7790033207875 S              150 
+7737001730010 4511    03           SUPER NATURAL POLVO COMP.  NATURAL                                     7790033207882 S              150 
+7737001730010 4511    04           SUPER NATURAL POLVO COMP.  CARIBE                                      7790033207899 S              150 
+7737001730010 4511    05           SUPER NATURAL POLVO COMP.  DORADO                                      7790033207905 S              150 
+7737001730010 4511    06           SUPER NATURAL POLVO COMP. CANELA                                       7790033208032 S              150 
+7737001730010 4511    21           SUPER NATURAL POLVO COMP. GODEN SUN                                    7790033208872 S              150 
+7737001730010 4511    21           SUPER NATURAL POLVO COMP. GODEN SUN                                    7790033215832 S              150 
+7737001730010 4511    22           SUPER NATURAL POLVO COMP. TRUE SUN                                     7790033208889 S              150 
+7737001730010 4511    22           SUPER NATURAL POLVO COMP. TRUE SUN                                     7790033215849 S              150 
+7737001730010 4511   F02           SUPER NATURAL POLVO COMP BEIGE COG FOOD                                7730317000617 S              150 
+7737001730010 4511   F04           SUPER NATURAL POLVO COMP.  CARIBE FOOD                                 7730317000600 S              150 
+7737001730010 4511   F06           SUPER NATURAL POLVO COMP. CANELA FOOD                                  7730317000556 S              150 
+7737001730010 4513    01           EXPERT EYES LAPIZ DELIN. ZAL NEGRO                                     7790033206489 S              168 
+7737001730010 4513    02           EXPERT EYES LAPIZ DELIN. ZAL AZUL                                      7790033206496 S              168 
+7737001730010 4513    03           EXPERT EYES LAPIZ DELIN. ZAL MARRON                                    7790033206502 S              168 
+7737001730010 4513   F01           EXPERT EYES LAPIZ DELIN. ZAL NEGRO  FOOD                               7730317000594 S              168 
+7737001730010 4513   F03           EXPERT EYES LAPIZ DELIN. ZAL MARRON  FOO                               7730317000624 S              168 
+7737001730010 4514   105           HYDRA EXTREME PERLA CHARM                                              7899026409118 S                3 
+7737001730010 4514   105           HYDRA EXTREME PERLA CHARM                                              7899026416314 S                3 
+7737001730010 4514   110           HYDRA EXTREME CRISTAL ROSE                                             7899026409125 S                3 
+7737001730010 4514   110           HYDRA EXTREME CRISTAL ROSE                                             7899026416321 S                3 
+7737001730010 4514   120           HYDRA EXTREME SANGRIA ICE                                              7899026409132 S                3 
+7737001730010 4514   120           HYDRA EXTREME SANGRIA ICE                                              7899026416338 S                3 
+7737001730010 4514   170           HYDRA EXTREME SILVER PLUM                                              7899026409149 S                3 
+7737001730010 4514   170           HYDRA EXTREME SILVER PLUM                                              7899026416352 S                3 
+7737001730010 4514   175           HYDRA EXTREME LUMINOUS ORCHID                                          7899026417366 S                3 
+7737001730010 4514   175           HYDRA EXTREME LUMINOUS ORCHID                                          7899026418202 S                3 
+7737001730010 4514   205           HYDRA EXTREME PINK ROSE                                                7899026409163 S                3 
+7737001730010 4514   205           HYDRA EXTREME PINK ROSE                                                7899026416383 S                3 
+7737001730010 4514   210           HYDRA EXTREME SUGAR ROSE                                               7899026409170 S                3 
+7737001730010 4514   210           HYDRA EXTREME SUGAR ROSE                                               7899026416390 S                3 
+7737001730010 4514   220           HYDRA EXTREME ICE MATE                                                 7899026409187 S                3 
+7737001730010 4514   220           HYDRA EXTREME ICE MATE                                                 7899026416406 S                3 
+7737001730010 4514   240           HYDRA EXTREME LUMINOUS PINK                                            7899026417373 S                3 
+7737001730010 4514   305           HYDRA EXTREME MOCHA ICE                                                7899026409217 S                3 
+7737001730010 4514   305           HYDRA EXTREME MOCHA ICE                                                7899026416437 S                3 
+7737001730010 4514   310           HYDRA EXTREME CHAMPAGNE                                                7899026409231 S                3 
+7737001730010 4514   310           HYDRA EXTREME CHAMPAGNE                                                7899026416444 S                3 
+7737001730010 4514   315           HYDRA EXTREME LOMINOUS GOLD                                            7899026417380 S                3 
+7737001730010 4514   320           HYDRA EXTREME MACHACCINO                                               7899026409934 S                3 
+7737001730010 4514   320           HYDRA EXTREME MACHACCINO                                               7899026416451 S                3 
+7737001730010 4514   415           HYDRA EXTREME LOMINOUS SAND                                            7899026417397 S                3 
+7737001730010 4514   425           HYDRA EXTREME LUMINOUS WOOD                                            7899026417403 S                3 
+7737001730010 4514   430           HYDRA EXTREME HONEY / SWEET HONEY                                      7899026409903 S                3 
+7737001730010 4514   430           HYDRA EXTREME HONEY / SWEET HONEY                                      7899026416499 S                3 
+7737001730010 4514   440           HYDRA EXTREME HOT CHOCALATE                                            7899026409910 S                3 
+7737001730010 4514   440           HYDRA EXTREME HOT CHOCALATE                                            7899026416505 S                3 
+7737001730010 4514   505           HYDRA EXTREME RICH BRONZE                                              7899026409255 S                3 
+7737001730010 4514   505           HYDRA EXTREME RICH BRONZE                                              7899026416529 S                3 
+7737001730010 4514   510           HYDRA EXTREME SPICE BOMBOM                                             7899026409941 S                3 
+7737001730010 4514   510           HYDRA EXTREME SPICE BOMBOM                                             7899026416536 S                3 
+7737001730010 4514   515           HYDRA EXTREME LOMINOUS CORAL                                           7899026417410 S                3 
+7737001730010 4514   520           HYDRA EXTREME CORAL CHIC                                               7899026409958 S                3 
+7737001730010 4514   520           HYDRA EXTREME CORAL CHIC                                               7899026416543 S                3 
+7737001730010 4514   605           HYDRA EXTREME RED VIVO                                                 7899026416550 S                3 
+7737001730010 4514   635           HYDRA EXTREME CHERRY CRUSH                                             7899026417434 S                3 
+7737001730010 4514   645           HYDRA EXTREME TEMPRING BERRY                                           7899026417458 S                3 
+7737001730010 4514  F120           HYDRA EXTREME SANGRIA ICE FOOD                                         7899026409286 S                3 
+7737001730010 4514  F205           HYDRA EXTREME PINK ROSE FOOD                                           7899026409316 S                3 
+7737001730010 4514  F210           HYDRA EXTREME SUGAR ROSE FOOD                                          7899026409323 S                3 
+7737001730010 4514  F220           HYDRA EXTREME ICE MATE FOOD                                            7899026409330 S                3 
+7737001730010 4514  F305           HYDRA EXTREME MOCHA ICE FOOD                                           7899026409361 S                3 
+7737001730010 4514  F320           HYDRA EXTREME MACHACCINO FOOD                                          7899026412880 S                3 
+7737001730010 4514  F440           HYDRA EXTREME HOT CHOCALATE FOOD                                       7899026412903 S                3 
+7737001730010 4514  F505           HYDRA EXTREME RICH BRONZE FOOD                                         7899026412910 S                3 
+7737001730010 4514  F510           HYDRA EXTREME SPICE BOMBOM FOOD                                        7899026412927 S                3 
+7737001730010 4514  F605           HYDRA EXTREME RED VIVO FOOD                                            7899026416840 S                3 
+7737001730010 4520   021           WONDER FINISH NUDE                                                     3600530080724 S                3 
+7737001730010 4520   030           WONDER FINISH SAND                                                     3600530080731 S                3 
+7737001730010 4520   032           WONDER FINISH GOLDEN                                                   3600530080748 S                3 
+7737001730010 4520   040           WONDER FINISH FAWN                                                     3600530080762 S                3 
+7737001730010 4520   060           WONDER FINISH CARAMEL                                                  3600530080786 S                3 
+7737001730010 4520   F32           WONDER FINISH GOLDEN FOOD                                              7730317001157 S                1 
+7737001730010 4520   F40           WONDER FINISH FAWN FOOD                                                7730317001164 S               96 
+7737001730010 4524    02           COLORAMA CR. BLANCO FRANCES                                            7899026404892 S               72 
+7737001730010 4524    04           COLORAMA CR. BRILLO                                                    7899026404915 S               72 
+7737001730010 4524    09           COLORAMA CR. ARENA                                                     7899026404960 S               72 
+7737001730010 4524    11           COLORAMA CR. PIEL MARFIL                                               7899026404984 S               72 
+7737001730010 4524    13           COLORAMA CR. VIA LACTEA                                                7899026405004 S               72 
+7737001730010 4524    19           COLORAMA CR. PIEL                                                      7899026405066 S               72 
+7737001730010 4524    26           COLORAMA CR. TENTACION                                                 7899026405134 S               72 
+7737001730010 4524    37           COLORAMA CR. RUBI                                                      7899026405141 S               72 
+7737001730010 4524    38           COLORAMA CR. PIEL BLANCO                                               7899026405158 S               72 
+7737001730010 4524    39           COLORAMA CR. AMANECER                                                  7899026412026 S                6 
+7737001730010 4524    41           COLORAMA CR. PIEL DAMASCO                                              7899026405028 S               72 
+7737001730010 4524   100           COLORAMA  SATIN ROSA                                                   7899026417083 S               72 
+7737001730010 4524   107           COLORAMA CAPPUCCINO                                                    7899026417106 S               72 
+7737001730010 4524   108           COLORAMA CARAMELO                                                      7899026417113 S               72 
+7737001730010 4524   109           COLORAMA ASTRAL                                                        7899026417120 S               72 
+7737001730010 4524   111           COLORAMA CHOCOLATE                                                     7899026417144 S               72 
+7737001730010 4524   112           COLORAMA ZARZAMORA                                                     7899026417151 S               72 
+7737001730010 4524   116           COLORAMA ESTRELLA DE MAR                                               7899026417199 S               72 
+7737001730010 4524   130           COLORAMA PASION                                                        7899026418172 S               72 
+7737001730010 4524   131           COLORAMA PECADO                                                        7899026418189 S               72 
+7737001730010 4524   132           COLORAMA CINT ROMANCE                                                  7899026417298 S                6 
+7737001730010 4524   133           COLORAMA CR UVA                                                        7899026404922 S               72 
+7737001730010 4524   134           COLORAMA CR BLACK                                                      7899026400559 S              432 
+7737001730010 4524   142           COLORAMA GRAPPE GLAZE                                                  7899026417755 S               72 
+7737001730010 4525    03           COLORAMA PERLADO PERLA                                                 7899026405202 S               72 
+7737001730010 4525    04           COLORAMA PERLADO ROSA PERLA                                            7899026405219 S               72 
+7737001730010 4525    06           COLORAMA PERLADO TORNASOL                                              7899026405233 S               72 
+7737001730010 4525    11           COLORAMA PERLADO PLATA                                                 7899026405288 S               72 
+7737001730010 4525    14           COLORAMA PERLADO PIEL PERLA                                            7899026405318 S               72 
+7737001730010 4525    24           COLORAMA PERLADO ROSA CRISTAL                                          7899026405417 S               72 
+7737001730010 4526    01           CRECER FORTE BEIGE                                                     7899026409866 S               72 
+7737001730010 4526    02           CRECER FORTE BLANCO                                                    7899026409873 S               72 
+7737001730010 4526    04           CRECER FORTE PASTEL                                                    7899026409880 S               72 
+7737001730010 4526    06           CRECER FORTE SEDA                                                      7899026409897 S               72 
+7737001730010 4526    07           CRECER FORTE DIAMANTE                                                  7899026410374 S               72 
+7737001730010 453   000            P.O. ELVIVE SH. HYDRACURL 350 ML                                       7896014149841 S               12 
+7737001730010 453   000            P.O. ELVIVE SH. HYDRACURL 350 ML                                       7899026409743 S               12 
+7737001730010 4539   021           DREAM MATE MOUSSE NUDE                                                 3600530169962 S                3 
+7737001730010 4539   021           DREAM MATE MOUSSE NUDE                                                 3600530170616 S                3 
+7737001730010 4539   026           DREAM MATE MOUSSE HONEY BEIGE                                          3600530170623 S                3 
+7737001730010 4539   030           DREAM MATE MOUSSE SAND                                                 3600530170647 S                3 
+7737001730010 4539   032           DREAM MATE MOUSSE GOLDEN                                               3600530170654 S                3 
+7737001730010 4539   040           DREAM MATE MOUSSE FAWN                                                 3600530170661 S                3 
+7737001730010 4539   048           DREAM MATE MOUSSE SUN BEIGE                                            3600530170678 S                3 
+7737001730010 4539   F32           DREAM MATE MOUSSE GOLDEN FOOD                                          7730317001720 S                1 
+7737001730010 4539   F48           DREAM MATE MOUSSE SUN BEIGE FOOD                                       7730317001737 S                1 
+7737001730010 4541    01           S. MONO EXPERT WEAR MOON LIGHT                                              77913708 S                1 
+7737001730010 4541    02           S. MONO EXPERT WEAR VANILLA SHAKE                                           77913715 S                1 
+7737001730010 4541    03           S. MONO EXPERT WEAR SWEET CREAM                                             77913722 S                1 
+7737001730010 4541    04           S. MONO EXPERT WEAR CHAMPAGNE                                               77913739 S                1 
+7737001730010 4541    05           S. MONO EXPERT WEAR BABY PINK                                               77913746 S                1 
+7737001730010 4541    07           S. MONO EXPERT WEAR BABY BLUE                                               77913760 S                1 
+7737001730010 4541    10           S. MONO EXPERT WEAR GOLD BRONZE                                             77913791 S                1 
+7737001730010 4541    12           S. MONO EXPERT WEAR HOT CHOCOLOTE                                           77913821 S                1 
+7737001730010 4541    13           S. MONO EXPERT WEAR ARMY                                                    77913838 S                1 
+7737001730010 4541    15           S. MONO EXPERT WEAR ULT. VIOLET                                             77913852 S              150 
+7737001730010 4541    23           S. MONO EXPERT WEAR FROSTED APPLE                                           77925206 S                1 
+7737001730010 4541    24           S. MONO EXPERT WEAR CARBON BLACK                                            77925237 S                1 
+7737001730010 4541    27           S. MONO EXPERT WEAR BLUE SKY                                                77925268 S                1 
+7737001730010 4541   F01           S. MONO EXPERT WEAR MOON LIGHT FOOD                                    7730317000693 S                1 
+7737001730010 4541   F04           S. MONO EXPERT WEAR CHAMPAGNE FOOD                                     7730317000709 S                1 
+7737001730010 4541   F05           S. MONO EXPERT WEAR BABY PINK FOOD                                     7730317000716 S                1 
+7737001730010 4541   F12           S. MONO EXPERT WEAR HOT CHOCOLOTE FOOD                                 7730317000723 S                1 
+7737001730010 4547   021           LISS RESULT BEIGE SUAVE                                                8024417080013 S                3 
+7737001730010 4548    21           SUPER NATURAL FDT NUDE                                                 3600530254798 S                3 
+7737001730010 4548    40           SUPER NATURAL FDT FAWN                                                 3600530254828 S                3 
+7737001730010 4549    02           WATERSHINE LIQUID CORAL SUNSET                                         7899026414631 S               72 
+7737001730010 4549    03           WATERSHINE LIQUID RUBY STAR                                            7899026414648 S               72 
+7737001730010 4549    06           WATERSHINE LIQUID PRECIOUS LIL                                         7899026414662 S               72 
+7737001730010 4549    08           WATERSHINE LIQUID STRAWBERRY                                           7899026414693 S               72 
+7737001730010 4549    09           WATERSHINE LIQUID CARAMEL PEAR                                         7899026414709 S               72 
+7737001730010 4549    12           WATERSHINE LIQUID CHOCOLATE                                            7899026414723 S               72 
+7737001730010 4549    19           WATERSHINE LIQUID PINK GLITTER                                         7899026414754 S               72 
+7737001730010 4549    20           WATERSHINE LIQUID GLAMOROUS PINK                                       7899026414761 S               72 
+7737001730010 4549    21           WATERSHINE LIQUID BERRY STARS                                          7899026414778 S               72 
+7737001730010 4549   500           WATERSHINE LIQUID CRISTAL CLEAR                                        7899026414785 S               72 
+7737001730010 4549   504           WATERSHINE LIQUID BABY PINK                                            7899026414792 S               72 
+7737001730010 4549   505           WATERSHINE LIQUID ROSE PETAL                                           7899026414808 S               72 
+7737001730010 4549   509           WATERSHINE LIQUID CARAMEL CREAM                                        7899026414822 S               72 
+7737001730010 4549   511           WATERSHINE LIQUID SOFT MAUVE                                           7899026414846 S               72 
+7737001730010 4549   520           WATERSHINE LIQUID BEIGE SENSATION                                      7899026414860 S               72 
+7737001730010 4549   521           WATERSHINE LIQUID NAKED BROWN                                          7899026414877 S               72 
+7737001730010 4549   F06           WATERSHINE LIQUID PRECIOUS LIL FOOD                                    7899026414921 S               72 
+7737001730010 4549   F09           WATERSHINE LIQUID CARAMEL PEAR FOOD                                    7899026414969 S               72 
+7737001730010 4549   F21           WATERSHINE LIQUID BERRY STARS FOOD                                     7899026415034 S               72 
+7737001730010 4549  F500           WATERSHINE LIQUID CRISTAL CLEAR FOOD                                   7899026415041 S               72 
+7737001730010 4549  F504           WATERSHINE LIQUID BABY PINK FOOD                                       7899026415058 S               72 
+7737001730010 4549  F505           WATERSHINE LIQUID ROSE PETAL FOOD                                      7899026415065 S               72 
+7737001730010 4549  F520           WATERSHINE LIQUID BEIGE SENSATION FOOD                                 7899026415126 S               72 
+7737001730010 4560    02           PERFECT M/UP  RUBOR COMP. CANELA                                       7790033206977 S                3 
+7737001730010 4560    08           PERFECT M/UP RUBOR COMP.08                                             7790033206984 S                3 
+7737001730010 4560    09           PERFECT M/UP RUBOR COMP.09                                             7790033206991 S                3 
+7737001730010 4560    12           PERFECT M/UP RUBOR COMP.12                                             7790033207004 S                3 
+7737001730010 4566    02           DREAM MOUSSE BLUSH CORAL                                               3600530256143 S                3 
+7737001730010 4566    04           DREAM MOUSSE BLUSH MAUVE                                               3600530256167 S                3 
+7737001730010 4566    05           DREAM MOUSSE BLUSH PLUM                                                3600530256174 S                3 
+7737001730010 4566    05           DREAM MOUSSE BLUSH PLUM                                                3600530256181 S                3 
+7737001730010 4566    06           DREAM MOUSSE BLUSH BROWN                                               3600530256181 S                3 
+7737001730010 4568    01           PERFECT M/UP.CORRECTOR CLARO                                           7899026403369 S               72 
+7737001730010 4568    01           PERFECT M/UP.CORRECTOR CLARO                                           7899026417472 S               72 
+7737001730010 4568    02           PERFECT M/UP CORRECTOR MEDIANO                                         7899026403376 S               72 
+7737001730010 4568    02           PERFECT M/UP CORRECTOR MEDIANO                                         7899026417489 S               72 
+7737001730010 4568    04           PERFECT M/UP CORRECTOR OSCURO                                          7899026417496 S               72 
+7737001730010 4568    04           PERFECT M/UP CORRECTOR OSCURO                                          7899026417502 S               72 
+7737001730010 4571   000           COLORAMA MANICURIA BASE SATINADA                                       7899026401723 S               72 
+7737001730010 4572   000           COLORAMA MANICURIA EXTRA BRILLO                                        7899026401730 S               72 
+7737001730010 4573   000           COLORAMA MANICURIA FORTALECEDOR                                        7899026401754 S               72 
+7737001730010 4579    01           DREAM MOUSSE EYE COLOR IVORY IN THE CLOU                               3600530262106 S                3 
+7737001730010 4579    02           DREAM MOUSSE EYE  COLOR BLISSFUL BEIGE                                 3600530262113 S                1 
+7737001730010 4579    04           DREAM MOUSSE EYE COLOR BLEU PARADISE                                   3600530262120 S                3 
+7737001730010 4579    05           DREAM MOUSSE EYE COLOR ANGELIC PINK                                    3600530262137 S                3 
+7737001730010 4579    08           DREAM MOUSSE EYE  COLOR VERT EDEN                                      3600530262168 S                3 
+7737001730010 4579    10           DREAM MOUSSE EYE COLOR CARAMEL KARMA                                   3600530262182 S                3 
+7737001730010 458   000            P.O. ELVIVE SH. CITRUS 350 ML                                          7896014149896 S               12 
+7737001730010 4583   700           SUPERSTAY LIPCOLOR PETAL                                                 41554525809 S               72 
+7737001730010 4583   720           SUPERSTAY LIPCOLOR BLUSH                                                 41554525854 S               72 
+7737001730010 4583   725           SUPERSTAY LIPCOLOR 725 FLAME                                             41554525694 S               72 
+7737001730010 4583   730           SUPERSTAY LIPCOLOR PINK                                                  41554525724 S               72 
+7737001730010 4583   735           SUPERSTAY LIPCOLOR CHERRY                                                41554525717 S               72 
+7737001730010 4583   740           SUPERSTAY LIPCOLOR ROSE                                                  41554525816 S               72 
+7737001730010 4583   745           SUPERSTAY LIPCOLOR 745 WINE                                              41554525755 S               72 
+7737001730010 4583   750           SUPERSTAY LIPCOLOR SAND                                                  41554525861 S               72 
+7737001730010 4583   755           SUPERSTAY LIPCOLOR PLUM                                                  41554525748 S               72 
+7737001730010 4583   760           SUPERSTAY LIPCOLOR PEACH                                                 41554525878 S               72 
+7737001730010 4583   770           SUPERSTAY LIPCOLOR BLOSSON                                               41554525793 S               72 
+7737001730010 4583   780           SUPERSTAY LIPCOLOR SPICE                                                 41554525830 S               72 
+7737001730010 4583   785           SUPERSTAY LIPCOLOR MAUVE                                                 41554525823 S               72 
+7737001730010 4583   790           SUPERSTAY LIPCOLOR CHESTNUT                                              41554525779 S               72 
+7737001730010 4583   795           SUPERSTAY LIPCOLOR 795 SIENNA                                            41554525731 S               72 
+7737001730010 4590    02           DREAM MOUSSE CONCEALER NATURAL                                         3600530393985 S                1 
+7737001730010 4590    03           DREAM MOUSSE CONCEALER SAND                                            3600530393992 S                1 
+7737001730010 4590    04           DREAM MOUSSE CONCEALER ROSE BEIGE                                      3600530394005 S                1 
+7737001730010 4596    021          FDT DREAM MAT FLUIDE NU M IT/ES 021                                    3600530448586 S                3 
+7737001730010 4596    030          FDT DREAM MAT FLUIDE NU M IT/ES 030                                    3600530448593 S                3 
+7737001730010 4596    032          FDT DREAM MAT FLUIDE NU M IT/ES 032                                    3600530448609 S                3 
+7737001730010 4596    048          FDT DREAM MAT FLUIDE NU M IT/ES 048                                    3600530448623 S                3 
+7737001730010 4596   021           FDT DREAM MAT FLUIDE NU M IT/ES 021                                    3600530448586 S               96 
+7737001730010 4596   030           FDT DREAM MAT FLUIDE NU M IT/ES 030                                    3600530448593 S               96 
+7737001730010 4596   032           FDT DREAM MAT FLUIDE NU M IT/ES 032                                    3600530448609 S               96 
+7737001730010 4596   040           FDT DREAM MAT FLUIDE NU M IT/ES 040                                    3600530448616 S               96 
+7737001730010 4596   048           FDT DREAM MAT FLUIDE NU M IT/ES 048                                    3600530448623 S               96 
+7737001730010 4599    01           LAPIZ LINE DEFINER BLACK/ONYX                                          3600530389421 S                1 
+7737001730010 4599    02           LAPIZ LINE DEFINER BROWN/BRONZE                                        3600530389438 S                1 
+7737001730010 4599    03           LAPIZ LINE DEFINER GREY/SILVER                                         3600530389445 S                1 
+7737001730010 460   000            ELVIVE SH. SOLAR 250 ML                                                7896014163182 S               12 
+7737001730010 4601    10           EXPERT WEAR BLUSH BRONZER SUN LIGHT                                      41554512175 S                1 
+7737001730010 4609    10           EXPERT WEAR BLUSH ROSE SILK                                              41554512205 S                1 
+7737001730010 4609    60           EXPERT WEAR BLUSH BERRY SORBET                                           41554512250 S                1 
+7737001730010 4609    70           EXPERT WEAR BLUSH DUSTY ROSE                                             41554512267 S                1 
+7737001730010 4609    90           EXPERT WEAR BLUSH BRICK ROSE                                             41554512281 S                1 
+7737001730010 4609   100           EXPERT WEAR BLUSH MOCHA VELVET                                           41554512298 S                1 
+7737001730010 461   000            ELVIVE AC. SOLAR 200 ML                                                7896014163199 S               12 
+7737001730010 4611    01           DEFINE A LASH MASCARA VERY BLACK                                       3600530396641 S                1 
+7737001730010 4611    02           DEFINE A LASH MASCARA BROWNISH BLACK                                   3600530396658 S                1 
+7737001730010 4615   000           NUTRI BASE PRO-FORTALECIMIENTO                                         7899026420175 S                1 
+7737001730010 4616   000           NUTRI BASE PRO-CRECIMIENTO                                             7899026420182 S                1 
+7737001730010 4617   000           NUTRI BASE PRO-ESTRUCTURANTE                                           7899026420199 S                1 
+7737001730010 462   000            ELVIVE CPP SOLAR 300 ML                                                7899026409774 S               12 
+7737001730010 4620   000           COMBO DR.MOUSSE CONCEALER                                              7730317003755 S                1 
+7737001730010 4624   100           COLORAMA C/BL. NATURAL PRENDA NATURAL                                  7899026408241 S              192 
+7737001730010 4624   102           COLORAMA C/BL. NATURAL VIA LACTEA                                      7899026400955 S              192 
+7737001730010 4624   102           COLORAMA C/BL. NATURAL VIA LACTEA                                      7899026405004 S              192 
+7737001730010 4624   105           COLORAMA C/BL.  NATURAL SAFIRA                                         7899026400931 S              192 
+7737001730010 4624   134           COLORAMA C/BL BLACK                                                    7899026400832 S              192 
+7737001730010 4624   200           COLORAMA C/BL. CR. INCOLORO                                            7899026400863 S              192 
+7737001730010 4624   203           COLORAMA C/BL. CR. PETALA BRANCA                                       7899026400849 S              192 
+7737001730010 4624   208           COLORAMA C/BL. CR. AREIA                                               7899026400917 S              192 
+7737001730010 4624   230           COLORAMA C/BL. CR. NUDE                                                7899026404557 S              192 
+7737001730010 4624   238           COLORAMA C/BL CR. DEIJA BEIJAR                                         7899026400924 S              192 
+7737001730010 4624   240           COLORAMA C/BL. CR. RUBY                                                7899026401099 S              192 
+7737001730010 4625   300           COLORAMA C/BL PERLADO GRACE                                            7899026401464 S              192 
+7737001730010 4625   301           COLORAMA C/BL. PERLADO GEADA                                           7899026401433 S              192 
+7737001730010 4625   305           COLORAMA C/BL. PERLADO PRATA                                           7899026401518 S              192 
+7737001730010 4625   308           COLORAMA C/BL. PERLADO ATLANTIDA                                       7899026401549 S              192 
+7737001730010 4625   310           COLORAMA C/BL. PER. PEROLA                                             7899026401440 S              192 
+7737001730010 4625   312           COLORAMA C/BL. PERLADO CRISTAL ROSA                                    7899026401648 S              192 
+7737001730010 4625   313           COLORAMA C/BL. PERLADO DREAM                                           7899026408425 S              192 
+7737001730010 4627    000          BANDEJA FDT DREAM MAT FLUIDE                                           7730317004202 S                1 
+7737001730010 4627   000           BANDEJA FDT DREAM MAT FLUIDE                                           7730317004202 S                1 
+7737001730010 4628   000           COMBO A DEFINE A LASH                                                  7730317004233 S               12 
+7737001730010 4629   000           COMBO B DEFINE A LASH                                                  7730317004240 S               12 
+7737001730010 463   000            ELVIVE SOLAR CR. TRATAMIENTO 350 ML                                    7899026407848 S                6 
+7737001730010 464   000            ELVIVE SH. CONTROL CASPA NORMAL 250 ML                                 7896014171149 S               12 
+7737001730010 4641    01           EXPERT WEAR SHADOW DUO LASTING LILAC                                     41554505375 S                1 
+7737001730010 4641    02           EXPERT WEAR SHADOW DUO GREY MATTERS                                      41554505412 S                1 
+7737001730010 465   000            ELVIVE SH. CONTROL CASPA GRASO 250 ML                                  7896014171156 S               12 
+7737001730010 466   000            ELVIVE SH. CONTROL CASPA SECO 250 ML                                   7896014171163 S               12 
+7737001730010 467   000            ELVIVE SH. VITAMAX 2 EN 1 350 ML                                       7896014149803 S               12 
+7737001730010 468   000            ELVIVE SH. CASPA-CONTROL 2EN1                                          7899026413931 S               12 
+7737001730010 469   000            ELVIVE AC. HYDRA CURL 300 ML                                           7899026406445 S               12 
+7737001730010 471   000            ELVIVE AC. COLORVIVE 300 ML                                            7896014149728 S               12 
+7737001730010 472   000            ELVIVE AC. NUTRI REPAIR 300 ML                                         7896014149711 S               12 
+7737001730010 477   000            ELVIVE AC REGENIUM 300 ML                                              7896014149780 S               12 
+7737001730010 479   000            ELVIVE AC. LISS INTENSE 300 ML.                                        7896014150595 S               12 
+7737001730010 480   000            ELVIVE AC. HIDRACURL 200 ML                                            7896014123476 S               12 
+7737001730010 480   000            ELVIVE AC. HIDRACURL 200 ML                                            7899026409736 S               12 
+7737001730010 481   000            ELVIVE AC. LISS INTENSE 200 ML                                         7899026409712 S               12 
+7737001730010 482   000            ELVIVE AC. COLORVIVE 200 ML                                            7899026409729 S               12 
+7737001730010 484   000            ELVIVE AC. CITRUS 200 ML                                               7899026412590 S               12 
+7737001730010 485   000            ELVIVE AC. REGENIUM 200 ML                                             7899026412606 S               12 
+7737001730010 487   000            ELVIVE AC. VITAMAX 200 ML                                              7899026412620 S               12 
+7737001730010 5   000              SH. ELVIVE ANTICASPA 2X1 400 ML                                        7899026418127 S                1 
+7737001730010 505   000            ELVIVE SH. COLORVIVE 250 ML                                            7896014149551 S               12 
+7737001730010 506   000            ELVIVE SH. CITRUS 250 ML                                               7896014149629 S               12 
+7737001730010 507   000            ELVIVE SH. REGENIUM 250 ML                                             7896014149636 S               12 
+7737001730010 509   000            ELVIVE SH. LISS INTENSE 250 ML.                                        7896014149926 S               12 
+7737001730010 51   000             PERFECT SLIM DIA + NOCHE                                               7730317001836 S                1 
+7737001730010 519   000            ELVIVE SH. HYDRA CURL 250 ML                                           7899026409750 S               12 
+7737001730010 529   000            ELVIVE SH.VITAMAX 2EN1 250 ML                                          7896014149612 S               12 
+7737001730010 533   000            ELVIVE CPP NUTRI - GLOSS 250 ML                                        7899026414327 S               12 
+7737001730010 538   000            ELVIVE  ANTICASPA  SOS CHOC 100 ML                                     3600520413556 S                6 
+7737001730010 542   000            ELVIVE CR. TRAT. COLORVIVE                                             7899026406377 S                6 
+7737001730010 543   000            ELVIVE CR. TRAT. LISS INTENSE                                          7899026406384 S                6 
+7737001730010 55     02            EXCELLENCE C/ PEINE TONO 02                                            7896014183869 S                1 
+7737001730010 55     1             EXCELLENCE C/ PEINE TONO 1                                             7896014183883 S               12 
+7737001730010 55     3             EXCELLENCE C/PEINE  TONO 3                                             7896014183890 S               12 
+7737001730010 55     4             EXCELLENCE C/PEINE TONO 4                                              7896014183906 S               12 
+7737001730010 55     5             EXCELLENCE C/PEINE TONO 5                                              7896014183920 S               12 
+7737001730010 55     6             EXCELLENCE C/PEINE TONO 6                                              7896014183968 S               12 
+7737001730010 55     7             EXCELLENCE C/ PEINE TONO 7                                             7896014184026 S               12 
+7737001730010 55     8             EXCELLENCE C/PEINE TONO 8                                              7896014184064 S               12 
+7737001730010 55     9             EXCELLENCE C/ PEINE TONO 9                                             7896014184118 S               12 
+7737001730010 55    01             EXCELLENCE C/PEINE TONO 01                                             7896014183852 S               12 
+7737001730010 55    02             EXCELLENCE C/PEINE TONO 02                                             7896014183869 S               12 
+7737001730010 55    03             EXCELLENCE C/PEINE TONO 03                                             7896014183876 S               12 
+7737001730010 55    54             EXCELLENCE C/PEINE TONO 54                                             7896014184163 S               12 
+7737001730010 55    61             EXCELLENCE C/PEINE TONO 61                                             7896014183975 S               12 
+7737001730010 55    63             EXCELLENCE C/PEINE TONO 63                                             7896014184187 S               12 
+7737001730010 55    71             EXCELLENCE C/PEINE TONO 71                                             7896014184033 S               12 
+7737001730010 55    81             EXCELLENCE C/PEINE TONO 81                                             7896014184071 S               12 
+7737001730010 55    91             EXCELLENCE C/ PEINE TONO 91                                            7896014184125 S               12 
+7737001730010 55   316             EXCELLENCE C/PEINE TONO 3.16                                           7896014184675 S               12 
+7737001730010 55   425             EXCELLENCE C/PEINE TONO 4.25                                           7896014184286 S               12 
+7737001730010 55   515             EXCELLENCE C/PEINE TONO 515                                            7896014184293 S               12 
+7737001730010 55   564             EXCELLENCE C/PEINE TONO 564                                            7896014183951 S               12 
+7737001730010 55   645             EXCELLENCE C/PEINE TONO 645                                            7896014184309 S               12 
+7737001730010 55   71              EXCELLENCE C/PEINE TONO 71                                             7896014184033 S               12 
+7737001730010 55   711             EXCELLENCE C/PEINE TONO 711                                            7896014184040 S               12 
+7737001730010 55   811             EXCELLENCE C/PEINE TONO 811                                            7896014184088 S               12 
+7737001730010 55   91              EXCELLENCE C/PEINE TONO 91                                             7896014184125 S               12 
+7737001730010 550   000            ELVIVE CR. TRAT. NUTRI REPAIR                                          7899026406360 S                6 
+7737001730010 550   000            ELVIVE CR. TRAT. NUTRI REPAIR                                          7899026411715 S                6 
+7737001730010 552   000            ELVIVE CR. TRAT. HIDRACURL                                             7899026409804 S                6 
+7737001730010 60   000             ELVIVE SH.VOLUME CONTROL 250 ML                                        7899026418813 S               12 
+7737001730010 600   000            ELVIVE CPP HYDRA CURL 300 ML                                           7899026409798 S               12 
+7737001730010 601   000            ELVIVE CPP NUTRI REPAIR 300 ML                                         7899026411722 S               12 
+7737001730010 61   000             ELVIVE AC. VOLUM CONTROL 300ML                                         7899026417229 S               12 
+7737001730010 610   000            ELVIVE CPP HYDRACURL 250 ML                                            7899026414341 S               12 
+7737001730010 62   000             ELVIVE AC. VOLUME CONTROL 200 ML                                       7899026418820 S               12 
+7737001730010 63   000             ELVIVE CR. TRAT. VOLUME CONTROL 350 ML                                 7899026417069 S                6 
+7737001730010 64   000             ELVIVE CPP VOLUM CONTROL 250 ML                                        7899026417076 S               12 
+7737001730010 646   000            ELVIVE CPP COLORVIVE 250 ML                                            7899026414297 S               12 
+7737001730010 648   000            ELVIVE CPP LIS INTENSE 250 ML                                          7899026414334 S               12 
+7737001730010 651   000            ELVIVE CPP SOLAR 250 ML                                                7899026414303 S               12 
+7737001730010 6660   000           FRUCTIS SH. 350 ML ANTICASPA 2X1 350ML                                 7899026420373 S               12 
+7737001730010 6661   000           FRUCTIS SH. ANTIC. HYDRACALM 350 ML                                    7899026420168 S               12 
+7737001730010 6750   000           FRUCTIS CR. TRAT. OIL REPAIR                                           7501839110425 S                6 
+7737001730010 6761   000           FRUCTIS SH. OIL REPAIR 350 ML                                          7804960029810 S               12 
+7737001730010 6762   000           FRUCTIS AC. OIL REPAIR 300 ML                                          7804960029834 S               12 
+7737001730010 6763   000           FRUCTIS CPP OIL REPAIR                                                 7501839114065 S               12 
+7737001730010 6764   000           FRUCTIS SH HYDRARIZOS 350 ML                                           7804960016780 S               12 
+7737001730010 6764   000           FRUCTIS SH HYDRARIZOS 350 ML                                           7804960037839 S               12 
+7737001730010 6766   000           FRUCTIS SH. ANTICASPA GRAS. 350                                        7804960970778 S               12 
+7737001730010 6767   000           FRUCTIS ACOND.LONG & STRONG  300 ML                                    7804960022798 S               12 
+7737001730010 6769   000           FRUCTIS SH. LONG & STRONG  350 ML                                      7804960022781 S               12 
+7737001730010 6770   000           FRUCTIS CPP HIDRA LISS 300 ML                                          7899026408746 S               12 
+7737001730010 6771   000           FRUCTIS CPP COLOR RESIST 300 ML                                        7899026406841 S               12 
+7737001730010 6773   000           FRUCTIS CPP LONG & STRONG 300 ML                                       7899026411876 S               12 
+7737001730010 6774   000           FRUCTIS AC. HYDRARIZOS 300 ML                                          7804960016797 S               12 
+7737001730010 6774   000           FRUCTIS AC. HYDRARIZOS 300 ML                                          7804960037846 S               12 
+7737001730010 6775   000           FRUCTIS CR.TRAT.COLOR RESIST 350 ML                                    7899026406865 S                6 
+7737001730010 6776   000           FRUCTIS CR. TRAT. HIDRA LISS 350 ML                                    7899026408739 S                6 
+7737001730010 6777   000           FRUCTIS CR. TRAT.LONG & STRONG 350ML                                   7899026411883 S                6 
+7737001730010 6778   000           FRUCTIS CPP HYDRARIZOS 300 ML                                          7899026407992 S               12 
+7737001730010 6779   000           FRUCTIS CR. TRAT. HYDRARIZOS 350 ML                                    7899026408005 S                6 
+7737001730010 678   000            ELVIVE SH. ANTIQUIEBRE 250 ML                                          7899026416888 S               12 
+7737001730010 6781   000           OBAO PIEL DELICADA 65 ML ROLL ON                                       7896014156474 S               12 
+7737001730010 6782   000           OBAO FLORAL 65 ML ROLL ON                                              7896014156467 S               12 
+7737001730010 6785   000           OBAO OCEANICO FOR MEN 65 ML ROLL ON                                    7896014156443 S               12 
+7737001730010 679   000            ELVIVE SH. ANTIQUIEBRE 350 ML                                          7899026416925 S               12 
+7737001730010 6795   000           FRUCTIS SH. COLOR RESIST 250 ML                                        7804960018432 S               12 
+7737001730010 6799   000           FRUCTIS AC. R.GRASAS P.SECAS 300 ML                                    7804960018333 S               12 
+7737001730010 6808    10           PROMO NUTRISSE 10 + COLORAMA                                           7730317002048 S               12 
+7737001730010 6808    30           PROMO NUTRISSE 30 + COLORAMA                                           7730317002055 S               12 
+7737001730010 6808    36           PROMO NUTRISSE 36 + COLORAMA                                           7730317002062 S               12 
+7737001730010 6808    40           PROMO NUTRISSE 40 + COLORAMA                                           7730317002079 S               12 
+7737001730010 6808    42           PROMO NUTRISSE 42 + COLORAMA                                           7730317002086 S               12 
+7737001730010 6808    45           PROMO NUTRISSE 45 + COLORAMA                                           7730317002093 S               12 
+7737001730010 6808    50           PROMO NUTRISSE 50 + COLORAMA                                           7730317002123 S               12 
+7737001730010 6808    53           PROMO NUTRISSE 53 + COLORAMA                                           7730317002130 S               12 
+7737001730010 6808    54           PROMO NUTRISSE 54 + COLORAMA                                           7730317002147 S               12 
+7737001730010 6808    56           PROMO NUTRISSE 56 + COLORAMA                                           7730317002154 S               12 
+7737001730010 6808    57           PROMO NUTRISSE 57 + COLORAMA                                           7730317002116 S               12 
+7737001730010 6808    60           PROMO NUTRISSE 60 + COLORAMA                                           7730317002161 S               12 
+7737001730010 6808    61           PROMO NUTRISSE 61 + COLORAMA                                           7730317002178 S               12 
+7737001730010 6808    63           PROMO NUTRISSE 63 + COLORAMA                                           7730317002185 S               12 
+7737001730010 6808    65           PROMO NUTRISSE 65 + COLORAMA                                           7730317002192 S               12 
+7737001730010 6808    66           PROMO NUTRISSE 66 + COLORAMA                                           7730317002208 S               12 
+7737001730010 6808    67           PROMO NUTRISSE 67 + COLORAMA                                           7730317002215 S               12 
+7737001730010 6808    70           PROMO NUTRISSE 70 + COLORAMA                                           7730317002222 S               12 
+7737001730010 6808    71           PROMO NUTRISSE 71 + COLORAMA                                           7730317002239 S               12 
+7737001730010 6808    73           PROMO NUTRISSE 73 + COLORAMA                                           7730317002246 S               12 
+7737001730010 6808    76           PROMO NUTRISSE 76 + COLORAMA                                           7730317002253 S               12 
+7737001730010 6808    80           PROMO NUTRISSE 80 + COLORAMA                                           7730317002260 S               12 
+7737001730010 6808    81           PROMO NUTRISSE 81 + COLORAMA                                           7730317002277 S               12 
+7737001730010 6808    83           PROMO NUTRISSE 83 + COLORAMA                                           7730317002338 S               12 
+7737001730010 6808    83           PROMO NUTRISSE 83 + COLORAMA                                           7730317004226 S               12 
+7737001730010 6808    86           PROMO NUTRISSE 86 + COLORAMA                                           7730317002284 S               12 
+7737001730010 6808    90           PROMO NUTRISSE 90 + COLORAMA                                           7730317002291 S               12 
+7737001730010 6808    91           PROMO NUTRISSE 91 + COLORAMA                                           7730317002307 S               12 
+7737001730010 6808    93           PROMO NUTRISSE 93 + COLORAMA                                           7730317002345 S               12 
+7737001730010 6808   100           PROMO NUTRISSE 100 + COLORAMA                                          7730317002314 S               12 
+7737001730010 6808   101           PROMO NUTRISSE 101 + COLORAMA                                          7730317002321 S               12 
+7737001730010 6808   646           PROMO NUTRISSE + COLORAMA                                              7730317002352 S               12 
+7737001730010 6808   66I           PROMO NUTRISSE + COLORAMA                                              7730317002369 S               12 
+7737001730010 6810   000           FRUCTIS SH. CAB. NORMAL 350ML                                          7804960018418 S               12 
+7737001730010 6811   000           FRUCTIS SH. CAB. GRASO 350 ML                                          7804960111034 S               12 
+7737001730010 6814   000           FRUC. SH. RAICES GR.PUNTAS SECAS 350 ML                                7804960018388 S               12 
+7737001730010 6815   000           FRUCTIS SH. ANTICASPA 350 ML                                           7804960111041 S               12 
+7737001730010 6817   000           FRUCTIS SH. COLOR RESIST 350 ML                                        7804960018395 S               12 
+7737001730010 6820   000           FRUCTIS AC. CR.CAB.NORMAL 300 ML                                       7804960018371 S               12 
+7737001730010 6823   000           FRUCTIS AC.CR. COLOR RESIST 300 ML                                     7804960018340 S               12 
+7737001730010 6825   000           FRUCTIS SH. HYDRALISS 350 ML                                           7804960016735 S               12 
+7737001730010 6826   000           FRUCTIS AC. HYDRALISS 300 ML                                           7804960016766 S               12 
+7737001730010 6830    10           BELLE COLOR 10 NEGRO                                                   7896014151387 S               12 
+7737001730010 6830    10           BELLE COLOR 10 NEGRO                                                   7896014151837 S               12 
+7737001730010 6830    40           BELLE COLOR 40 CASTAÑO                                                 7804960200400 S               12 
+7737001730010 6830    40           BELLE COLOR 40 CASTAÑO                                                 7896014151424 S               12 
+7737001730010 6830    40           BELLE COLOR 40 CASTAÑO                                                 7896014182718 S               12 
+7737001730010 6830    45           BELLE COLOR TONO 45                                                    7896014177288 S               12 
+7737001730010 6830    50           BELLE COLOR 50 CASTAÑO CLARO                                           7804960200509 S               12 
+7737001730010 6830    50           BELLE COLOR 50 CASTAÑO CLARO                                           7896014151417 S               12 
+7737001730010 6830    50           BELLE COLOR 50 CASTAÑO CLARO                                           7896014182725 S               12 
+7737001730010 6830    55           COLORELLE CASTAÑO CLARO CAOBA                                          7896014151462 S               12 
+7737001730010 6830    60           BELLE COLOR 60 RUBIO OSCURO                                            7804960200608 S               12 
+7737001730010 6830    60           BELLE COLOR 60 RUBIO OSCURO                                            7896014151493 S               12 
+7737001730010 6830    61           BELLE COLOR 61 RUBIO OSC.CEN.                                          7804960200615 S               12 
+7737001730010 6830    61           BELLE COLOR 61 RUBIO OSC.CEN.                                          7896014151509 S               12 
+7737001730010 6830    63           BELLE COLOR 63 RUBIO OSC.DOR.                                          7804960200639 S               12 
+7737001730010 6830    63           BELLE COLOR 63 RUBIO OSC.DOR.                                          7896014151516 S               12 
+7737001730010 6830    65           BELLE COLOR 65 CAOBA CLARO                                             7896014177295 S               12 
+7737001730010 6830    66           BELLE COLOR  66 ROJO PROFUNDO                                          7896014151523 S               12 
+7737001730010 6830    67           BELLE COLOR  67 CHOCOLATE                                              7896014170951 S               12 
+7737001730010 6830    70           COLORELLE RUBIO                                                        7896014151530 S               12 
+7737001730010 6830    73           BELLE COLOR 73 RUBIO DORADO                                            7804960200738 S               12 
+7737001730010 6830    80           COLORELLE 80 RUBIO CLARO                                               7896014151554 S               12 
+7737001730010 6830    81           BELLE COLOR 81 RUBIO CL.CEN.                                           7804960200813 S               12 
+7737001730010 6830    81           BELLE COLOR 81 RUBIO CL.CEN.                                           7896014151561 S               12 
+7737001730010 6830    83           BELLE COLOR  83 RUBIO CL.DOR.                                          7804960200837 S               12 
+7737001730010 6830    91           COLORELLE RUBIO CL.CL.CE                                               7790033111912 S               12 
+7737001730010 6830    93           BELLE COLOR 93 RUBIO MUY CL. DORADO                                    7804960200936 S               12 
+7737001730010 6830    93           BELLE COLOR 93 RUBIO MUY CL. DORADO                                    7896014151592 S               12 
+7737001730010 6830   110           BELLE COLOR 110 SUPER ACL. NATURAL                                     7896014151394 S               12 
+7737001730010 6830   111           BELLE COLOR 111 SUPER ACLARANTE CENIZA                                 7896014151400 S               12 
+7737001730010 6830   677           BELLE COLOR TONO 677                                                   7896014170968 S               12 
+7737001730010 6838    10           NUTRISSE RENO 10 NEGRO                                                 7804960008006 S               12 
+7737001730010 6838    30           NUTRISSE RENO 30 CAST. OSCURO                                          7804960008013 S               12 
+7737001730010 6838    30           NUTRISSE RENO 30 CAST. OSCURO                                          7896014151172 S               12 
+7737001730010 6838    36           NUTRISSE RENO 36 CAST. OSC. ROJIZO                                     7804960008020 S               12 
+7737001730010 6838    36           NUTRISSE RENO 36 CAST. OSC. ROJIZO                                     7896014151189 S               12 
+7737001730010 6838    40           NUTRISSE RENO 40 CASTAÑO                                               7804960008037 S               12 
+7737001730010 6838    40           NUTRISSE RENO 40 CASTAÑO                                               7896014151196 S               12 
+7737001730010 6838    42           NUTRISSE RENO 42 UVA                                                   7804960021685 S               12 
+7737001730010 6838    42           NUTRISSE RENO 42 UVA                                                   7896014151202 S               12 
+7737001730010 6838    45           NUTRISSE RENO 45 MOKA                                                  7804960026864 S               12 
+7737001730010 6838    45           NUTRISSE RENO 45 MOKA                                                  7896014161713 S               12 
+7737001730010 6838    46           NUTRISSE RENO TONO 46                                                  7804960970846 S               12 
+7737001730010 6838    46           NUTRISSE RENO TONO 46                                                  7896014179473 S               12 
+7737001730010 6838    50           NUTRISSE RENO 50 CASTAÑO CLARO                                         7804960008044 S               12 
+7737001730010 6838    50           NUTRISSE RENO 50 CASTAÑO CLARO                                         7896014151219 S               12 
+7737001730010 6838    53           NUTRISSE RENO 53 CAST.CL. DORADO                                       7804960008051 S               12 
+7737001730010 6838    53           NUTRISSE RENO 53 CAST.CL. DORADO                                       7896014151226 S               12 
+7737001730010 6838    54           NUTRISSE RENO 54 CAST. CL. COBRIZO                                     7804960008068 S               12 
+7737001730010 6838    54           NUTRISSE RENO 54 CAST. CL. COBRIZO                                     7896014151233 S               12 
+7737001730010 6838    56           NUTRISSE RENO 56 CAST.CL.ROJIZO INT.                                   7804960008075 S               12 
+7737001730010 6838    56           NUTRISSE RENO 56 CAST.CL.ROJIZO INT.                                   7896014163977 S               12 
+7737001730010 6838    57           NUTRISSE RENO  57 AMBAR                                                7804960026871 S               12 
+7737001730010 6838    57           NUTRISSE RENO  57 AMBAR                                                7896014161720 S               12 
+7737001730010 6838    60           NUTRISSE RENO 60 RUBIO OSCURO                                          7804960008082 S               12 
+7737001730010 6838    60           NUTRISSE RENO 60 RUBIO OSCURO                                          7896014151257 S               12 
+7737001730010 6838    61           NUTRISSE RENO 61 RUBIO OSC. CENIZA                                     7804960008099 S               12 
+7737001730010 6838    61           NUTRISSE RENO 61 RUBIO OSC. CENIZA                                     7896014151264 S               12 
+7737001730010 6838    63           NUTRISSE RENO 63 CARAMELO                                              7804960008105 S               12 
+7737001730010 6838    65           NUTRISSE RENO 65 RUBIO OSC. CAOBA COB.                                 7804960008112 S               12 
+7737001730010 6838    65           NUTRISSE RENO 65 RUBIO OSC. CAOBA COB.                                 7896014151271 S               12 
+7737001730010 6838    66           NUTRISSE RENO 66 RUBIO OSC. ROJO INT.                                  7804960008129 S               12 
+7737001730010 6838    66           NUTRISSE RENO 66 RUBIO OSC. ROJO INT.                                  7896014151288 S               12 
+7737001730010 6838    67           NUTRISSE RENO 67 CHOCOLATE                                             7804960002035 S               12 
+7737001730010 6838    67           NUTRISSE RENO 67 CHOCOLATE                                             7896014151295 S               12 
+7737001730010 6838    70           NUTRISSE RENO 70 RUBIO                                                 7804960008136 S               12 
+7737001730010 6838    70           NUTRISSE RENO 70 RUBIO                                                 7896014151301 S               12 
+7737001730010 6838    71           NUTRISSE RUBIO 71 CENIZA                                               7804960008143 S               12 
+7737001730010 6838    71           NUTRISSE RUBIO 71 CENIZA                                               7896014151318 S               12 
+7737001730010 6838    73           NUTRISSE RENO 73 RUBIO DORADO                                          7804960008150 S               12 
+7737001730010 6838    73           NUTRISSE RENO 73 RUBIO DORADO                                          7896014151325 S               12 
+7737001730010 6838    76           NUTRISSE 76 RUBIO ROJO COBRIZO                                         7896014151332 S               12 
+7737001730010 6838    76           NUTRISSE 76 RUBIO ROJO COBRIZO                                         7896014180271 S               12 
+7737001730010 6838    80           NUTRISSE RENO 80 RUBIO CLARO                                           7804960008167 S               12 
+7737001730010 6838    80           NUTRISSE RENO 80 RUBIO CLARO                                           7896014151349 S               12 
+7737001730010 6838    81           NUTRISSE RENO 81 RUBIO CL. CENIZA                                      7804960008174 S               12 
+7737001730010 6838    81           NUTRISSE RENO 81 RUBIO CL. CENIZA                                      7896014151356 S               12 
+7737001730010 6838    83           NUTRISSE RENO 83 RUBIO CL. DORADO                                      7804960003674 S               12 
+7737001730010 6838    83           NUTRISSE RENO 83 RUBIO CL. DORADO                                      7896014162390 S               12 
+7737001730010 6838    86           NUTRISSE RENO 86 CEBADA                                                7896014168354 S               12 
+7737001730010 6838    86           NUTRISSE RENO 86 CEBADA                                                7896014180417 S               12 
+7737001730010 6838    90           NUTRISSE RENO 90 RUBIO CLARO TRIGO                                     7804960008181 S               12 
+7737001730010 6838    90           NUTRISSE RENO 90 RUBIO CLARO TRIGO                                     7896014151363 S               12 
+7737001730010 6838    91           NUTRISSE RENO 91 RUBIO CL.CL.CENIZA                                    7804960008198 S               12 
+7737001730010 6838    91           NUTRISSE RENO 91 RUBIO CL.CL.CENIZA                                    7896014151370 S               12 
+7737001730010 6838    93           NUTRISSE RENO 93 RUBIO CL.CL. DORADO                                   7896014162406 S               12 
+7737001730010 6838    93           NUTRISSE RENO 93 RUBIO CL.CL. DORADO                                   7896014180356 S               12 
+7737001730010 6838   100           NUTRISSE RENO 100 ACLARANTE RUBIO EXT                                  7804960008204 S               12 
+7737001730010 6838   100           NUTRISSE RENO 100 ACLARANTE RUBIO EXT                                  7896014151158 S               12 
+7737001730010 6838   101           NUTRISSE RENO 101 ARENA                                                7896014151165 S               12 
+7737001730010 6838   101           NUTRISSE RENO 101 ARENA                                                7896014180110 S               12 
+7737001730010 6838   103           NUTRISSE ACLARANTE 103 RUB MUY  CLARO D.                               7896014180073 S               12 
+7737001730010 6838   646           NUTRISSE RUB.OSC.COB. ROJIZO INT.                                      7896014163915 S               12 
+7737001730010 6838   646           NUTRISSE RUB.OSC.COB. ROJIZO INT.                                      7896014180363 S               12 
+7737001730010 6838   64I           NUTRISSE 64I RUB.OSC.COB.ROJ. INT.                                     7896014180363 S               12 
+7737001730010 6838   666           NUTRISSE RUB.OSC.ROJ.PROF. INTENSO                                     7804960016599 S               12 
+7737001730010 6838   666           NUTRISSE RUB.OSC.ROJ.PROF. INTENSO                                     7896014163922 S               12 
+7737001730010 6838   66I           NUTRISSE TONO 66I  RUBIO OSC.ROJ. INT.                                 7804960016599 S               12 
+7737001730010 701   000            ELVIVE  AC. ANTIQUIEBRE 300 ML                                         7899026416932 S               12 
+7737001730010 72   000             PACK RELL.COLAGENO + LECHE I. BALANCE                                  7730317003007 S                1 
+7737001730010 730   000            BIO DOP                                                                7896014155101 S               36 
+7737001730010 755   000            ELVIVE SH. ANTICASPA NORMAL 350 ML                                     7899026412637 S               12 
+7737001730010 756   000            ELVIVE SH. CASPA CONTROL GRASO 350 ML                                  7899026412644 S               12 
+7737001730010 758   000            P.O.ELVIVE SH. CONTROL CASPA SECOS 350                                 7899026412651 S               12 
+7737001730010 759   000            ELVIVE SH. CASPA  CONTROL 2 EN 1 350 ML                                7804960025867 S               12 
+7737001730010 76   000             PACK. DEC. DIA + LECHE I. BAL.                                         7730317002987 S                1 
+7737001730010 77   210             CASTING CR. GLOSS 210 NEGRO AZULADO                                    7896014184545 S                6 
+7737001730010 77   316             CASTING CR. GLOSS 316 CIRUELA                                          7896014184552 S                6 
+7737001730010 77   415             CASTING CR. GLOSS 415 MARRON GLACE                                     7896014184477 S                6 
+7737001730010 77   426             CASTING CR. GLOSS 426 BORGONIA                                         7896014184569 S                6 
+7737001730010 77   500             CASTING CR. GLOSS 500 CASTAÑO CLARO                                    7896014184484 S                6 
+7737001730010 77   550             CASTING CR. GLOSS 550 CAOBA                                            7896014184538 S                6 
+7737001730010 77   600             CASTING CR. GLOSS 600 RUBIO OSCURO                                     7896014184514 S                6 
+7737001730010 77   645             CASTING CR. GLOSS 645 RUBIO AMBAR                                      7896014184460 S                6 
+7737001730010 77   656             CASTING CR. GLOSS 656 TERRACOTA                                        7896014184521 S                6 
+7737001730010 77   700             CASTING CR. GLOSS 700 RUBIO                                            7896014184491 S                6 
+7737001730010 77   713             CASTING CR. GLOSS 713 RUBIO AVELLANA                                   7896014184507 S                6 
+7737001730010 77   724             CASTING CR. GLOSS 724 RUBIO NUGAT                                      7896014184453 S                6 
+7737001730010 77   810             CASTING CR. GLOSS 810 RUBIO PERLADO                                    7896014184439 S                6 
+7737001730010 77   832             CASTING CR. GLOSS 832 RUBIO MIEL                                       7896014184446 S                6 
+7737001730010 795   000            REVIT. DOBLE LIFT.+IDEAL BAL. 125 ML                                   7730317001348 S               12 
+7737001730010 796   000            RELL. COLAGENO + IDEAL BAL. 125 ML                                     7730317001331 S               12 
+7737001730010 797   000            ELVIVE AC. ANTIQUIEBRE 200 ML                                          7899026416895 S               12 
+7737001730010 798   000            ELVIVE CT ANTIQUIEBRE 350 ML                                           7899026416901 S                6 
+7737001730010 799   000            ELVIVE CPP ANTIQUIEBRE 250 ML                                          7899026416918 S               12 
+7737001730010 80   000             ELVIVE SH. HYDRACURL 400 ML                                            7899026418080 S               12 
+7737001730010 800   000            P.ZONE GEL PURIF.LIMPIEZA                                              7896014156351 S                6 
+7737001730010 801   000            P.ZONE LOCION ASTRING. PURIF                                           7896014156368 S                6 
+7737001730010 802   000            P.ZONE SOIN HIDRATANTE                                                 7896014156375 S                6 
+7737001730010 809   000            ELNETT NORMAL X 260 ML                                                 7790033100817 S               12 
+7737001730010 81   000             ELVIVE SH. VITAMAX 400 ML                                              7899026418059 S               12 
+7737001730010 819   000            ELNETT FUERTE X 260 ML                                                 7790033101043 S               12 
+7737001730010 82   000             ELVIVE SH LISS INTENSE 400 ML                                          7899026418066 S               12 
+7737001730010 820   000            P.ZONE GEL DESINCRUSTANTE 100 GR.                                      7896014163908 S                6 
+7737001730010 83   000             ELVIVE SH. ANTIQUIEBRE 400 ML                                          7899026418141 S               12 
+7737001730010 836   000            BODY EXP. NUTRISOFT P. SECA A EXTRA SECA                               7896014170036 S                6 
+7737001730010 837   000            BODY EXP. NUTRISOFT P. NORMAL A SECA                                   7896014170043 S                6 
+7737001730010 84   000             ELVIVE SH. COLORVIVE 400 ML                                            7899026418042 S               12 
+7737001730010 842   000            NUTRIDORE CUERPO PIELES CLARAS                                         3600520886282 S                6 
+7737001730010 844   000            NUTRIDORE CUERPO PIELES OSCURAS                                        3600520886275 S                6 
+7737001730010 85   000             ELVIVE SH. CITRUS 400 ML                                               7899026418073 S               12 
+7737001730010 86   000             ELVIVE SH. NUTRI GLOSS 400 ML                                          7899026418134 S               12 
+7737001730010 862   000            BODY NUTRILIFT CORP. EXT. SECA                                         7896014163762 S                6 
+7737001730010 862   000            BODY NUTRILIFT CORP. EXT. SECA                                         7896014170111 S                6 
+7737001730010 863   000            PERFECT SLIM DIA 200 GR.                                               7896014149506 S                6 
+7737001730010 869   000            S.L.MOUSSE BUCLES X 150 ML.                                            7790033211544 S               12 
+7737001730010 87   000             ELVIVE SH. VOLUME CONTROL 400 ML.                                      7899026418158 S               12 
+7737001730010 876   000            PERFECT SLIM NOCHE 200 GR.                                             7896014167067 S                6 
+7737001730010 901   000            PERFECT SLIM PRO                                                       3600521075067 S                6 

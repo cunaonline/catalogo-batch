@@ -1,0 +1,9 @@
+12:30:28 Recibiendo: 7730950920013
+12:30:29 Descomprimiendo
+12:30:29 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\097670\Recibido\7730950920013.txt
+12:30:29 Recibiendo: 7730962840019
+12:30:29 Descomprimiendo
+12:30:29 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\097670\Recibido\7730962840019.txt
+12:30:29 No hay archivos para enviar
+12:30:29 Fin
+ 

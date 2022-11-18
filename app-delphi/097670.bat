@@ -1,0 +1,1 @@
+CatalogoBatch l=097670:cliente g=7730976700019 f=TXT

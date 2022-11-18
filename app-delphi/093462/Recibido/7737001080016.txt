@@ -1,0 +1,202 @@
+GLN Proveedor CPP                  Descripción                                                                   GTIN13 Pide x unid Unid/c 
+7737001080016 100042               KNORR SOPA CASERA GAL C/LETRAS DPL2X8SOB                               7794000512115 N                8 
+7737001080016 100042               KNORR SOPA CASERA GAL C/LETRAS DPL2X8SOB                               7794000512115 N               16 
+7737001080016 100043               KNORR SOPA CAS VERD C/DEDA DPL2X8SOB                                   7794000522114 N                8 
+7737001080016 100043               KNORR SOPA CAS VERD C/DEDA DPL2X8SOB                                   7794000522114 N               16 
+7737001080016 100046               KNORR SOPA CAS GAL C/CAB ANGEL 2X8SOB                                  7794000524118 N                8 
+7737001080016 100046               KNORR SOPA CAS GAL C/CAB ANGEL 2X8SOB                                  7794000524118 N               16 
+7737001080016 100050               KNORR SOPA CAS CARNE C/CARACOLITO 2X8SOB                               7794000525115 N                8 
+7737001080016 100050               KNORR SOPA CAS CARNE C/CARACOLITO 2X8SOB                               7794000525115 N               16 
+7737001080016 100058               KNORR SOPA CR LIGHT VERD 2X8SOB                                        7794000537118 N                8 
+7737001080016 100058               KNORR SOPA CR LIGHT VERD 2X8SOB                                        7794000537118 N               16 
+7737001080016 100064               KNORR SOPA CR LIGHT CALAB 2X8SOB                                       7794000536111 N                8 
+7737001080016 100064               KNORR SOPA CR LIGHT CALAB 2X8SOB                                       7794000536111 N               16 
+7737001080016 100166               KNORR CDO CARNE DPL 16X10X6CUBOS                                       7794000501225 N               10 
+7737001080016 100166               KNORR CDO CARNE DPL 16X10X6CUBOS                                       7794000501225 N              160 
+7737001080016 100169               KNORR CDO GAL DPL 16X10X6CUBOS                                         7794000502222 N               10 
+7737001080016 100169               KNORR CDO GAL DPL 16X10X6CUBOS                                         7794000502222 N              160 
+7737001080016 100170               KNORR CDO VERD DPL 16X10X6CUBOS                                        7794000504226 N               10 
+7737001080016 100170               KNORR CDO VERD DPL 16X10X6CUBOS                                        7794000504226 N              160 
+7737001080016 100174               KNORR CDO PUCHERO DPL 16X10X6CUBOS                                     7794000508224 N               10 
+7737001080016 100174               KNORR CDO PUCHERO DPL 16X10X6CUBOS                                     7794000508224 N              160 
+7737001080016 103908               KNORR ARROZ PRIMAVERA DPL 8X215GR                                      7794000606111 N                8 
+7737001080016 103913               KNORR SOPA QUICK CHAMPIGNON 24EST                                      7794000580411 S               24 
+7737001080016 10703                ARISCO CDO GAL EST 160X3LT                                             7891700080415 S              160 
+7737001080016 115675               KNORR CDO COSTILLA DPL 16X10X6CUBOS                                    7794000509238 N               10 
+7737001080016 115675               KNORR CDO COSTILLA DPL 16X10X6CUBOS                                    7794000509238 N              160 
+7737001080016 116130               HELLMANNS MAY LIBRE COLESTEROL 8X250GR                                 7794000471535 N                8 
+7737001080016 116132               HELLMANNS MAY LIBRE COLESTEROL 15X500GR                                7794000471559 N               15 
+7737001080016 11772                KNORR SOPA CR ARVEJA C/JAMON DPL 15SOB                                 7794000513112 N               15 
+7737001080016 12197                KNORR SOPA CR ESPAR DPL 15SOB                                          7794000511118 N               15 
+7737001080016 122561               FANACOA MAY DOYP 12X238GR                                              7794000482005 N               12 
+7737001080016 12421                KNORR SOPA POLLO DPL 15SOB                                             7794000514119 N               15 
+7737001080016 12423                KNORR SOPA CR VERD DPL 12SOB                                           7794000519114 N               12 
+7737001080016 12428                KNORR SOPA CR ZAPA DPL 15SOB                                           7794000533110 N               15 
+7737001080016 12429                KNORR SOPA CR CHOCLO DPL 15SOB                                         7794000535114 N               15 
+7737001080016 128638               HELLMANNS MAY LIGHT SCH 2X20X125CC                                     7794000451391 N               40 
+7737001080016 128858               KNORR CDO COSTILLA EST DPL 20X24X2X1LT                                 7794000504141 N               24 
+7737001080016 128858               KNORR CDO COSTILLA EST DPL 20X24X2X1LT                                 7794000504141 N              480 
+7737001080016 135992               ADES TROPICAL 12X1000CC                                                7794000730090 N               12 
+7737001080016 135994               ADES NARANJA 12X1000CC                                                 7794000730045 N               12 
+7737001080016 135995               ADES DURAZNO 12X1000CC                                                 7794000730076 N               12 
+7737001080016 135997               ADES LIGHT MANZANA 12X1000CC                                           7794000730137 N               12 
+7737001080016 135998               ADES LIGHT NARANJA 12X1000CC                                           7794000730144 N               12 
+7737001080016 136011               ADES MANZANA 24X200CC                                                  7794000730021 N               24 
+7737001080016 136012               ADES NARANJA 24X200CC                                                  7794000730052 N               24 
+7737001080016 136014               ADES TROPICAL 24X200CC                                                 7794000730106 N               24 
+7737001080016 136015               ADES LIGHT MANZANA 24X200CC                                            7794000730151 N               24 
+7737001080016 136016               ADES LIGHT NARANJA 24X200CC                                            7794000730168 N               24 
+7737001080016 136101               ADES MANZANA 12X1000CC                                                 7794000730014 N               12 
+7737001080016 13659                KNORR PURE PAPAS DPL X12SOBX125GR                                      7794000592506 N               12 
+7737001080016 137581               ADES ANANA 12X1LT                                                      7794000730250 N               12 
+7737001080016 137582               ADES NATURAL 12X1LT                                                    7794000730274 N               12 
+7737001080016 137600               ADES ANANA 24X200ML                                                    7794000730267 N               24 
+7737001080016 139041               KNORR ARROZ CHAU FAN DPL 8SOB                                          7794000603127 N                8 
+7737001080016 139089               KNORR SOPA QUICK QUESO Y JAMON 24EST                                   7794000590151 S               24 
+7737001080016 142343               KNORR SOPA QUICK LIGHT TOM C/ ALBX48EST                                7794000590168 S               48 
+7737001080016 142623               KNORR SOPA QUICK CHOCLO 48EST                                          7794000595583 S               48 
+7737001080016 142624               KNORR SOPA QUICK ZAPALLO 48EST                                         7794000595576 S               48 
+7737001080016 142627               KNORR SOPA QUICK ARVEJAS 24EST                                         7794000595545 S               24 
+7737001080016 142629               KNORR SOPA QUICK ESPARRAGOS 48EST                                      7794000595569 S               48 
+7737001080016 142630               KNORR SOPA QUICK VEGETALES 48EST                                       7794000595552 S               48 
+7737001080016 142721               KNORR ARROZ PAELLA DPL 8SOB                                            7794000609129 N                8 
+7737001080016 142970               KNORR ARROZ 4 QUESOS DPL 8SOB                                          7794000603134 N                8 
+7737001080016 149020               KNORR SSA DESH ROSA DPL 10SOB                                          7794000783133 N               10 
+7737001080016 15221                ARISCO CDO CARNE EST 160X3LT                                           7891700080354 S              160 
+7737001080016 155354               KNORR SOPA QUICK VEGETALES48X8GR PRM 5X4                               7730343001121 N               48 
+7737001080016 158504               HELLMANNS MAY 8X250CC+CDO GALLINA 1LT                                  7730343001237 N                8 
+7737001080016 158513               HELLMANNS MAY L COL8X500CC+ADES L MAN200                               7730343001268 N                8 
+7737001080016 162089               DORIANA CREM VEG LIG C/SAL POTE 24X250GR                               7891042092336 N               24 
+7737001080016 162416               DORIANA MARG CREM S/S POTE 24X250GR                                    7891700204187 N               24 
+7737001080016 162420               DORIANA MARG CREM C/S POTE 24X250GR                                    7891700204200 N               24 
+7737001080016 163266               KNORR CDO PECHUGA POLLO DPL16X10X6CUB                                  7794000509276 N               10 
+7737001080016 163266               KNORR CDO PECHUGA POLLO DPL16X10X6CUB                                  7794000509276 N              160 
+7737001080016 163273               KNORR CDO ZANAH CHOCLO ZAP DPL16X10X6CUB                               7794000509283 N               10 
+7737001080016 163273               KNORR CDO ZANAH CHOCLO ZAP DPL16X10X6CUB                               7794000509283 N              160 
+7737001080016 163280               KNORR CDO ESPIN PUER ARVEJ DPL16X10X6CUB                               7794000509290 N               10 
+7737001080016 163280               KNORR CDO ESPIN PUER ARVEJ DPL16X10X6CUB                               7794000509290 N              160 
+7737001080016 163553               KNORR SOPA QUICK LIG ESPIN LA CR 48EST                                 7794000566408 S               48 
+7737001080016 163712               HELLMANNS MAY L DOYP8X500+SAV250+20%DESC                               7730343001381 N                8 
+7737001080016 166434               KNORR SOPA CR LIGHT POLLO VERDEO 2X8SOB                                7794000990845 N                8 
+7737001080016 166434               KNORR SOPA CR LIGHT POLLO VERDEO 2X8SOB                                7794000990845 N               16 
+7737001080016 166436               KNORR SOPA CR LIG ZAPA ZANAH ESPIN2X8SOB                               7794000990869 N                8 
+7737001080016 166436               KNORR SOPA CR LIG ZAPA ZANAH ESPIN2X8SOB                               7794000990869 N               16 
+7737001080016 167591               HELLMANNS SALSA BARBACOA 4TCX6X400GR                                   7794000744318 N                6 
+7737001080016 167591               HELLMANNS SALSA BARBACOA 4TCX6X400GR                                   7794000744318 N               24 
+7737001080016 168689               KNORR SOPA QUICK ZAPA 48X75GR PRM 20%                                  7730343001565 N               48 
+7737001080016 168691               KNORR SOPA QUICK CHOCLO 48X75GR PRM 20%                                7730343001534 N               48 
+7737001080016 169163               KNORR SOPA QUICK POLLO 24X70GR PRM 20%                                 7730343001572 N               24 
+7737001080016 169221               KNORR SSA DESH CR ESPINACA 10SOB                                       7794000783188 N               10 
+7737001080016 169222               KNORR SSA DESH CARBONARA 10SOB                                         7794000783195 N               10 
+7737001080016 169363               KNORR CDO VERDURA 40X6LT PRM CDO 3LT                                   7730343001640 N               40 
+7737001080016 170076               ADES LIGHT LIMA LIMON 12X1LT                                           7794000730816 N               12 
+7737001080016 170079               ADES LIGHT LIMA LIMON 24X200ML                                         7794000730830 N               24 
+7737001080016 171969               KNORR SABOR CUB HONGOS 10X12EST                                        7794000720404 N               12 
+7737001080016 171969               KNORR SABOR CUB HONGOS 10X12EST                                        7794000720404 N              120 
+7737001080016 171987               KNORR SABOR CUB CREMA Y VERDEO 10X12EST                                7794000720428 N               12 
+7737001080016 171987               KNORR SABOR CUB CREMA Y VERDEO 10X12EST                                7794000720428 N              120 
+7737001080016 171990               KNORR SABOR CUB PROVENZAL 10X12EST                                     7794000720305 N               12 
+7737001080016 171990               KNORR SABOR CUB PROVENZAL 10X12EST                                     7794000720305 N              120 
+7737001080016 171994               KNORR SABOR CUBO HIERBA 10X12EST                                       7794000720329 N               12 
+7737001080016 171994               KNORR SABOR CUBO HIERBA 10X12EST                                       7794000720329 N              120 
+7737001080016 171995               KNORR SABOR ALBAHACA Y AJO 10X12EST                                    7794000720343 N               12 
+7737001080016 171995               KNORR SABOR ALBAHACA Y AJO 10X12EST                                    7794000720343 N              120 
+7737001080016 171999               KNORR SABOR TUCO CLASICO 10X12EST                                      7794000720367 N               12 
+7737001080016 171999               KNORR SABOR TUCO CLASICO 10X12EST                                      7794000720367 N              120 
+7737001080016 172002               KNORR SABOR PANCETA Y CEBOLLA 10X12EST                                 7794000720381 N               12 
+7737001080016 172002               KNORR SABOR PANCETA Y CEBOLLA 10X12EST                                 7794000720381 N              120 
+7737001080016 179977               KNORR SOPA CREMA VERDE DPL 10SOB                                       7794000539464 N               10 
+7737001080016 179978               KNORR SOPA CREMA AMARILLO DPL 10SOB                                    7794000539471 N               10 
+7737001080016 179979               KNORR SOPA CREMA ROJO DPL 10SOB                                        7794000539488 N               10 
+7737001080016 179980               KNORR SOPA CREMA NARANJA DPL 10SOB                                     7794000539495 N               10 
+7737001080016 182518               KNORR SOPA QUICK VERDURAS PRIMAV 24EST                                 7794000539525 S               24 
+7737001080016 182552               KNORR SOPA CR VEGETALES DPL 2X8SOB                                     7794000539532 N               16 
+7737001080016 182555               KNORR SOPA CAS VERDURA INV DPL 2X8SOB                                  7794000539556 N                8 
+7737001080016 182555               KNORR SOPA CAS VERDURA INV DPL 2X8SOB                                  7794000539556 N               16 
+7737001080016 182563               KNORR SOPA CAS VERDURA PRIMAV DPL 2X8SOB                               7794000539563 N                8 
+7737001080016 182563               KNORR SOPA CAS VERDURA PRIMAV DPL 2X8SOB                               7794000539563 N               16 
+7737001080016 183104               HELLMANNS MAY MAGIC 8X500ML PRM ARVEJAS                                7730343002128 N                8 
+7737001080016 183411               KNORR SOPA QUICK NARANJA 24X5SOB                                       7794000593619 S               24 
+7737001080016 183525               KNORR SOPA QUICK VERDE 24X5SOB                                         7794000593633 S               24 
+7737001080016 183527               KNORR SOPA QUICK ROJA 24X5SOB                                          7794000593640 S               24 
+7737001080016 185502               DORIANA CR VEG CREMOSA C/SAL 12X500GR                                  7805000300715 N               12 
+7737001080016 190703               KNORR SOPA LIGHT CALAB 8X34G+CDO PRM 20%                               7730343324008 N                8 
+7737001080016 190716               KNORR SOPA LIGHT POLLO 8X29G+CDO PRM 20%                               7730343324015 N                8 
+7737001080016 190732               KNORR SOPA LIG VERD 8X33,5GR+CDO PRM 20%                               7730343324022 N                8 
+7737001080016 190796               KNORR SO LIGHT ZAP/ZANA/ESPI8X32G+CD+20%                               7730343323995 N                8 
+7737001080016 192158               KNORR CDO GALLINA 140X3LT PRM CDO 1LT                                  7730343324145 N              140 
+7737001080016 192163               KNORR CDO VERDURA 140X3LT PRM CDO 1LT                                  7730343324152 N              140 
+7737001080016 192173               KNORR CDO CARNE 140X3LT PRM CDO 1LT                                    7730343324138 N              140 
+7737001080016 194218               KNORR SOPA QUICK LIG VEG 24X55GR+20%DESC                               7730343324329 N               24 
+7737001080016 194221               KNORR SOPA QUICK LIG ZAPA24X50GR+20%DESC                               7730343324312 N               24 
+7737001080016 23259                LIPTON TE FINEST EARL GREY 50X20BLS                                    7801810140657 S               50 
+7737001080016 23262                LIPTON TE E BREAKFAST 50X20BLS                                         7801810140763 S               50 
+7737001080016 23377                LIPTON TE ROYAL CEYLON EST 50X20BLS                                    7801810140329 S               50 
+7737001080016 45468                KNORR SOPA QUICK POLLO 24EST                                           7794000586413 S               24 
+7737001080016 50984                KNORR SOPA CR QUESO DPL 15SOB                                          7794000517110 N               15 
+7737001080016 50985                KNORR SOPA CR CEBOLLA DPL 15SOB                                        7794000516113 N               15 
+7737001080016 51047                FANACOA MAY DOYP 15X476GR                                              7790450086107 N               15 
+7737001080016 53020                KNORR CDO GRAN DIET DPL 4X10X5SOB                                      7794000561618 N               10 
+7737001080016 53020                KNORR CDO GRAN DIET DPL 4X10X5SOB                                      7794000561618 N               40 
+7737001080016 53021                KNORR CDO GRAN VERD S/CALORIAS DP 4X10X5                               7794000560611 N               10 
+7737001080016 53021                KNORR CDO GRAN VERD S/CALORIAS DP 4X10X5                               7794000560611 N               40 
+7737001080016 5967                 HELLMANNS MAY DOYP 8X1000CC                                            7794000401372 N                8 
+7737001080016 5980                 HELLMANNS MAY TC 4X6X350CC                                             7794000401297 N                6 
+7737001080016 5980                 HELLMANNS MAY TC 4X6X350CC                                             7794000401297 N               24 
+7737001080016 5985                 HELLMANNS MAY LIGHT DOYP 8X1000CC                                      7794000451377 N                8 
+7737001080016 5986                 HELLMANNS MAY LIGHT DOYP 15X500CC                                      7794000451384 N               15 
+7737001080016 5994                 HELLMANNS SSA GOLF SQZ TC4X6X350CC                                     7794000411296 N                6 
+7737001080016 5994                 HELLMANNS SSA GOLF SQZ TC4X6X350CC                                     7794000411296 N               24 
+7737001080016 5995                 HELLMANNS SSA GOLF SCH TC2X20X125CC                                    7794000411227 N               20 
+7737001080016 5995                 HELLMANNS SSA GOLF SCH TC2X20X125CC                                    7794000411227 N               40 
+7737001080016 6080                 ARISCO CDO GAL DPL 20X24X1LT                                           7891700023023 N               24 
+7737001080016 6080                 ARISCO CDO GAL DPL 20X24X1LT                                           7891700023023 N              480 
+7737001080016 6083                 ARISCO CDO CARNE DPL 20X24X1LT                                         7891700023009 N               24 
+7737001080016 6083                 ARISCO CDO CARNE DPL 20X24X1LT                                         7891700023009 N              480 
+7737001080016 6094                 ARISCO CDO GAL EST 80X6LT                                              7891700080439 S               80 
+7737001080016 6365                 HELLMANNS KET HOT SQZ 4TCX6X400GR                                      7794000744608 N                6 
+7737001080016 6365                 HELLMANNS KET HOT SQZ 4TCX6X400GR                                      7794000744608 N               24 
+7737001080016 6380                 HELLMANNS KET TC 4X6X400GR                                             7794000744226 N                6 
+7737001080016 6380                 HELLMANNS KET TC 4X6X400GR                                             7794000744226 N               24 
+7737001080016 6518                 KNORR CDO PUCHERO DPL 20X24X1LT                                        7794000508132 N               24 
+7737001080016 6518                 KNORR CDO PUCHERO DPL 20X24X1LT                                        7794000508132 N              480 
+7737001080016 6557                 KNORR CDO VERD EST 80X12X6LT                                           7794000504714 S               80 
+7737001080016 6585                 KNORR CDO VERD EST DPL 20X24X2X1LT                                     7794000504134 N               24 
+7737001080016 6585                 KNORR CDO VERD EST DPL 20X24X2X1LT                                     7794000504134 N              480 
+7737001080016 6594                 KNORR CDO GAL EST 80X12X6LT                                            7794000502710 S               80 
+7737001080016 6606                 KNORR CDO GAL EST DPL 20X24X2X1LT                                      7794000502130 N               24 
+7737001080016 6606                 KNORR CDO GAL EST DPL 20X24X2X1LT                                      7794000502130 N              480 
+7737001080016 6612                 KNORR CDO CARNE EST 80X12X6LT                                          7794000501713 S               80 
+7737001080016 6623                 KNORR CDO CARNE EST DPL 20X24X2X1LT                                    7794000501133 N               24 
+7737001080016 6623                 KNORR CDO CARNE EST DPL 20X24X2X1LT                                    7794000501133 N              480 
+7737001080016 6650                 HELLMANNS MAGIC MAY DOYP 15X500CC                                      7794000461383 N               15 
+7737001080016 6662                 KNORR SOPA QUICK CROUTONS 18EST                                        7794000582514 S               18 
+7737001080016 6727                 HELLMANNS MAY LIGHT SQZ 4TCX6X350CC                                    7794000451292 N                6 
+7737001080016 6727                 HELLMANNS MAY LIGHT SQZ 4TCX6X350CC                                    7794000451292 N               24 
+7737001080016 6771                 KNORR SOPA QUICK ESPAR LIGHT 24EST                                     7794000569317 S               24 
+7737001080016 6774                 SAVORA MOST SQZ TC 4X6X370GR                                           7794000441620 N                6 
+7737001080016 6774                 SAVORA MOST SQZ TC 4X6X370GR                                           7794000441620 N               24 
+7737001080016 6778                 SAVORA MOST SQZ TC 4X6X200GR                                           7794000441521 N                6 
+7737001080016 6778                 SAVORA MOST SQZ TC 4X6X200GR                                           7794000441521 N               24 
+7737001080016 6788                 SAVORA MOST SCH DPL 2X30X60GR                                          7794000441118 N               30 
+7737001080016 6788                 SAVORA MOST SCH DPL 2X30X60GR                                          7794000441118 N               60 
+7737001080016 6789                 KNORR SOPA QUICK VEG LIGHT TC 24EST                                    7794000568310 S               24 
+7737001080016 6806                 KNORR SOPA QUICK ARVEJA LIGHT 24EST                                    7794000567313 S               24 
+7737001080016 6823                 KNORR SOPA QUICK ZAPA LIGTH 24EST                                      7794000566316 S               24 
+7737001080016 71104                ARISCO CDO VERD DPL 20X24X2CUBOS                                       7793169670032 N               24 
+7737001080016 71104                ARISCO CDO VERD DPL 20X24X2CUBOS                                       7793169670032 N              480 
+7737001080016 79893                FANACOA MAY SCH 2X20X116GR                                             7794000482067 N               20 
+7737001080016 79893                FANACOA MAY SCH 2X20X116GR                                             7794000482067 N               40 
+7737001080016 84893                LIPTON SUN TE SURTIDO ASSORTED 25X20BLS                                7801810714841 S               25 
+7737001080016 84910                HELLMANNS MAY LIGHT DOYP 8X250CC                                       7794000451285 N                8 
+7737001080016 84917                HELLMANNS SSA GOLF DOYP 8X250CC                                        7794000411289 N                8 
+7737001080016 85417                HELLMANNS KET DOYP 8X250GR                                             7794000744257 N                8 
+7737001080016 8677                 LIPTON TE YELLOW LABEL EST 48X20BLSX2GR                                7801810712663 S               48 
+7737001080016 8679                 LIPTON TE YELLOW LABEL EST 32X50BLS                                    7801810712830 S               32 
+7737001080016 8683                 LIPTON TE YELLOW LABEL EST 96X10BLS                                    7801810712847 S               96 
+7737001080016 8685                 LIPTON TE YELLOW LABEL EST 24X100SOBX2GR                               7801810712670 S               24 
+7737001080016 87520                HELLMANNS MAY DOYP 8X250CC                                             7794000401280 N                8 
+7737001080016 90625                SAVORA MOST DOYP 8X250GR                                               7794000441729 N                8 
+7737001080016 96322                MAIZENA ALMIDON MAIZ EST 50X200GR                                      7794000115118 S               50 
+7737001080016 96323                MAIZENA ALMIDON MAIZ EST 40X500GR                                      7794000115613 S               40 
+7737001080016 96324                MAIZENA ALMIDON MAIZ EST 20X1KG                                        7794000115712 S               20 

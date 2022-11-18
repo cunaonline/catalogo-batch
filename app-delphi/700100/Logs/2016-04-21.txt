@@ -1,0 +1,60 @@
+13:22:51 Recibiendo: 7737001070017
+13:22:52 Descomprimiendo
+13:22:52 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\700100\Recibido\7737001070017.xml
+13:22:52 Recibiendo: 7737001080016
+13:22:52 Descomprimiendo
+13:22:52 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\700100\Recibido\7737001080016.xml
+13:22:52 Recibiendo: 7737001820018
+13:22:52 Descomprimiendo
+13:22:52 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\700100\Recibido\7737001820018.xml
+13:22:52 Recibiendo: 7737001730010
+13:22:52 Descomprimiendo
+13:22:52 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\700100\Recibido\7737001730010.xml
+13:22:52 Recibiendo: 7730343000001
+13:22:52 Descomprimiendo
+13:22:52 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\700100\Recibido\7730343000001.xml
+13:22:52 Recibiendo: 7737001220016
+13:22:52 Descomprimiendo
+13:22:52 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\700100\Recibido\7737001220016.xml
+13:22:52 Recibiendo: 7737001030011
+13:22:53 Descomprimiendo
+13:22:53 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\700100\Recibido\7737001030011.xml
+13:22:53 Recibiendo: 7737001260012
+13:22:53 Descomprimiendo
+13:22:53 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\700100\Recibido\7737001260012.xml
+13:22:53 Recibiendo: 7730135000004
+13:22:53 Descomprimiendo
+13:22:53 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\700100\Recibido\7730135000004.xml
+13:22:53 No hay archivos para enviar
+13:22:53 Fin
+ 
+13:27:21 Recibiendo: 7737001070017
+13:27:22 Descomprimiendo
+13:27:22 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\700100\Recibido\7737001070017.xml
+13:27:22 Recibiendo: 7737001080016
+13:27:22 Descomprimiendo
+13:27:22 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\700100\Recibido\7737001080016.xml
+13:27:22 Recibiendo: 7737001820018
+13:27:22 Descomprimiendo
+13:27:22 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\700100\Recibido\7737001820018.xml
+13:27:22 Recibiendo: 7737001730010
+13:27:22 Descomprimiendo
+13:27:22 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\700100\Recibido\7737001730010.xml
+13:27:22 Recibiendo: 7730343000001
+13:27:23 Descomprimiendo
+13:27:23 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\700100\Recibido\7730343000001.xml
+13:27:23 Recibiendo: 7737001220016
+13:27:23 Descomprimiendo
+13:27:23 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\700100\Recibido\7737001220016.xml
+13:27:23 Recibiendo: 7737001030011
+13:27:23 Descomprimiendo
+13:27:23 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\700100\Recibido\7737001030011.xml
+13:27:23 Recibiendo: 7737001260012
+13:27:23 Descomprimiendo
+13:27:23 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\700100\Recibido\7737001260012.xml
+13:27:23 Recibiendo: 7730135000004
+13:27:23 Descomprimiendo
+13:27:23 Guardando C:\Desarrollo\Delphi11\Apps\Rondanet\_exeCatalogoBatch\700100\Recibido\7730135000004.xml
+13:27:23 No hay archivos para enviar
+13:27:23 Fin
+ 

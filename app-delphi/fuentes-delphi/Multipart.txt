@@ -1,0 +1,14 @@
+-----------------------------7d829ff902b8
+Content-Disposition: form-data; name="planilla"; filename="C:\Temp\lp.xls"
+Content-Type: application/vnd.ms-excel
+
+ÐÏà¡±á
+-----------------------------7d829ff902b8
+Content-Disposition: form-data; name="subirp.x"
+
+61
+-----------------------------7d829ff902b8
+Content-Disposition: form-data; name="subirp.y"
+
+3
+-----------------------------7d829ff902b8--

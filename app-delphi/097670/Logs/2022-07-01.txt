@@ -1,0 +1,93 @@
+13:58:57 Recibiendo: 7737001070017
+13:58:57 ERROR: The connection with the server was terminated abnormally
+13:58:57 Recibiendo: 7737001080016
+13:58:57 ERROR: The connection with the server was terminated abnormally
+13:58:57 Recibiendo: 7737001820018
+13:58:57 ERROR: The connection with the server was terminated abnormally
+13:58:57 Recibiendo: 7737001730010
+13:58:57 ERROR: The connection with the server was terminated abnormally
+13:58:57 Recibiendo: 7730343000001
+13:58:57 ERROR: The connection with the server was terminated abnormally
+13:58:57 Recibiendo: 7737001220016
+13:58:57 ERROR: The connection with the server was terminated abnormally
+13:58:57 Recibiendo: 7737001030011
+13:58:57 ERROR: The connection with the server was terminated abnormally
+13:58:57 Recibiendo: 7737001260012
+13:58:58 ERROR: The connection with the server was terminated abnormally
+13:58:58 Recibiendo: 7730135000004
+13:58:58 ERROR: The connection with the server was terminated abnormally
+13:58:58 No hay archivos para enviar
+13:58:58 Fin
+ 
+14:00:06 Recibiendo: 7737001070017
+14:00:06 ERROR: The connection with the server was terminated abnormally
+14:00:06 Recibiendo: 7737001080016
+14:00:06 ERROR: The connection with the server was terminated abnormally
+14:00:06 Recibiendo: 7737001820018
+14:00:06 ERROR: The connection with the server was terminated abnormally
+14:00:06 Recibiendo: 7737001730010
+14:00:06 ERROR: The connection with the server was terminated abnormally
+14:00:06 Recibiendo: 7730343000001
+14:00:07 ERROR: The connection with the server was terminated abnormally
+14:00:07 Recibiendo: 7737001220016
+14:00:07 ERROR: The connection with the server was terminated abnormally
+14:00:07 Recibiendo: 7737001030011
+14:00:07 ERROR: The connection with the server was terminated abnormally
+14:00:07 Recibiendo: 7737001260012
+14:00:07 ERROR: The connection with the server was terminated abnormally
+14:00:07 Recibiendo: 7730135000004
+14:00:07 ERROR: The connection with the server was terminated abnormally
+14:00:07 No hay archivos para enviar
+14:00:07 Fin
+ 
+14:04:30 Recibiendo: 7737001070017
+14:04:30 ERROR: La conexión con el servidor finalizó anormalmente
+14:04:30 Recibiendo: 7737001080016
+14:04:30 ERROR: La conexión con el servidor finalizó anormalmente
+14:04:30 Recibiendo: 7737001820018
+14:04:30 ERROR: La conexión con el servidor finalizó anormalmente
+14:04:30 Recibiendo: 7737001730010
+14:04:30 ERROR: La conexión con el servidor finalizó anormalmente
+14:04:30 Recibiendo: 7730343000001
+14:04:30 ERROR: La conexión con el servidor finalizó anormalmente
+14:04:30 Recibiendo: 7737001220016
+14:04:30 ERROR: La conexión con el servidor finalizó anormalmente
+14:04:30 Recibiendo: 7737001030011
+14:04:30 ERROR: La conexión con el servidor finalizó anormalmente
+14:04:30 Recibiendo: 7737001260012
+14:04:30 ERROR: La conexión con el servidor finalizó anormalmente
+14:04:30 Recibiendo: 7730135000004
+14:04:30 ERROR: La conexión con el servidor finalizó anormalmente
+14:04:30 No hay archivos para enviar
+14:04:30 Fin
+ 
+14:11:49 URL: https://backup.rondanet.com/
+14:11:49 Recibiendo: 7737001070017
+14:11:49 ERROR: La conexión con el servidor finalizó anormalmente
+14:11:49 URL: https://backup.rondanet.com/
+14:11:49 Recibiendo: 7737001080016
+14:11:49 ERROR: La conexión con el servidor finalizó anormalmente
+14:11:49 URL: https://backup.rondanet.com/
+14:11:49 Recibiendo: 7737001820018
+14:11:49 ERROR: La conexión con el servidor finalizó anormalmente
+14:11:49 URL: https://backup.rondanet.com/
+14:11:49 Recibiendo: 7737001730010
+14:11:49 ERROR: La conexión con el servidor finalizó anormalmente
+14:11:49 URL: https://backup.rondanet.com/
+14:11:49 Recibiendo: 7730343000001
+14:11:49 ERROR: La conexión con el servidor finalizó anormalmente
+14:11:49 URL: https://backup.rondanet.com/
+14:11:49 Recibiendo: 7737001220016
+14:11:50 ERROR: La conexión con el servidor finalizó anormalmente
+14:11:50 URL: https://backup.rondanet.com/
+14:11:50 Recibiendo: 7737001030011
+14:11:50 ERROR: La conexión con el servidor finalizó anormalmente
+14:11:50 URL: https://backup.rondanet.com/
+14:11:50 Recibiendo: 7737001260012
+14:11:50 ERROR: La conexión con el servidor finalizó anormalmente
+14:11:50 URL: https://backup.rondanet.com/
+14:11:50 Recibiendo: 7730135000004
+14:11:50 ERROR: La conexión con el servidor finalizó anormalmente
+14:11:50 No hay archivos para enviar
+14:11:50 Fin
+ 

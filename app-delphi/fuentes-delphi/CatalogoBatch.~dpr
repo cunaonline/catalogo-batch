@@ -1,0 +1,298 @@
+program CatalogoBatch;
+
+{$APPTYPE CONSOLE}
+
+uses
+  SysUtils,
+  Classes,
+  IniFiles,
+  VCLUnzip,
+  RnUtils in '..\_Common\RnUtils.pas',
+  Attachments in '..\_HTTP\Attachments.pas',
+  ComIEDownload in '..\_HTTP\ComIEDownload.pas';
+
+const
+  FILENAME_FORMAT: string[20] = 'yymmdd_hhnnsszzz';
+
+var
+  CarpetaRecibido, CarpetaLogs: shortstring;
+  Usuario, Contrasena, Gln2, Formato, Estado, DeFecha: string[30];
+  Proveedores: TStringList;
+  Columnas: string;
+  LogStream: TFileStream;
+
+
+procedure AddMensaje(const TextoMensaje: shortstring);
+var
+  MiTextoMensaje: shortstring;
+begin
+  MiTextoMensaje := FormatDateTime('hh:nn:ss ', Now) + TextoMensaje;
+  WriteLn(MiTextoMensaje + '...');
+  if Assigned(LogStream) then
+    begin
+    MiTextoMensaje := MiTextoMensaje + #13#10;
+    LogStream.Write(MiTextoMensaje[1], Length(MiTextoMensaje));
+    end;
+end;
+
+// Parametros: l=user:pwd g=GLN [f=CSV] [e=T] [d=dd.mm.aaaa] [p=x.x.x.x:8080:user:pwd]
+procedure CargarParametros;
+var
+  i, j: Integer;
+  MiParametro: string;
+  MiOpcion: char;
+  MiProxyServer, MiProxyPort, MiProxyUser, MiProxyPwd: shortstring;
+begin
+  // Parametros de linea
+  Usuario := '';
+  Contrasena := '';
+  Gln2 := '';
+  Formato := '';
+  Estado := '';
+  DeFecha := '';
+  MiProxyServer := '';
+  MiProxyPort := '';
+  MiProxyUser := '';
+  MiProxyPwd := '';
+  for i := 1 to ParamCount do
+    begin
+    MiParametro := ParamStr(i);
+    if (Length(MiParametro) < 3) then Continue;
+    if (MiParametro[2] <> '=') then
+      raise Exception.Create('Parametro no valido ' + MiParametro);
+    MiOpcion := UpCase(MiParametro[1]);
+    System.Delete(MiParametro, 1, 2);
+    case MiOpcion of
+      'L':begin
+          j := Pos(':', MiParametro);
+          if (j = 0) then
+            raise Exception.Create('Se debe especificar "l=usuario:contraseña"');
+          Usuario := Copy(MiParametro,1,j-1);
+          Contrasena := Copy(MiParametro,j+1,1000);
+          end;
+      'G':Gln2 := MiParametro;
+      'F':Formato := UpperCase(MiParametro);
+      'E':Estado := UpperCase(Copy(MiParametro,1,1));
+      'D':DeFecha := StringReplace(MiParametro,'.','%2F',[rfReplaceAll]);
+      'P':begin
+          // Proxy IP
+          j := Pos(':', MiParametro);
+          if (j = 0) then
+            raise Exception.Create('Se debe especificar "p=Servidor:Puerto"');
+          MiProxyServer := Copy(MiParametro,1,j-1);
+          System.Delete(MiParametro, 1, j);
+          // Proxy Puerto
+          j := Pos(':', MiParametro);
+          if (j = 0) then
+            MiProxyPort := MiParametro
+          else
+            MiProxyPort := Copy(MiParametro,1,j-1);
+          if (StrToIntDef(MiProxyPort, -1) < 0) then
+            raise Exception.Create('Puerto de proxy no valido');
+          if (j > 0) then
+            begin
+            // Proxy Usuario y Contraseña
+            System.Delete(MiParametro,1,j);
+            j := Pos(':', MiParametro);
+            if (j = 0) then
+              raise Exception.Create('Se debe especificar "p=Servidor:Puerto:Usuario:Contraseña"');
+            MiProxyUser := Copy(MiParametro,1,j-1);
+            MiProxyPwd := Copy(MiParametro,j+1,1000);
+            end;
+          end;
+    else
+      raise Exception.Create('Parametro no reconocible ' + MiParametro);
+    end;
+    end;
+  if ((Length(Usuario) = 0) or (Length(Contrasena) = 0)) then
+    raise Exception.Create('Se necesita parametro: l=usuario:contraseña');
+  if (Length(Gln2) = 0) then
+    raise Exception.Create('Se necesita parametro: g=codigo EAN cliente');
+  if (Length(Estado) = 0) then Estado := 'T';
+  if (Length(Formato) = 0) then Formato := 'CSV';
+  HTTP_Init(MiProxyServer, MiProxyPort, MiProxyUser, MiProxyPwd);
+end;
+
+// Subcarpetas
+//    Logs
+//    Recibido
+
+function Inicializar: Boolean;
+var
+  MiFileName, MiCarpetaBase, MiErrorFileName: shortstring;
+begin
+  Result := True;
+  try
+    MiCarpetaBase := IncludeTrailingPathDelimiter(ExtractFileDir(ParamStr(0)));
+    MiErrorFileName := MiCarpetaBase + 'Error.txt';
+    SysUtils.DeleteFile(MiErrorFileName);
+    CargarParametros;
+  except
+    on E:Exception do
+      begin
+      RnUtils.SaveString(E.Message, MiErrorFileName);
+      Result := False;
+      Exit;
+      end;
+  end;
+  LogStream := nil;
+  AddMensaje('Inicializando');
+  // Inicializa carpetas
+  MiCarpetaBase := MiCarpetaBase + Usuario + '\';
+  CarpetaRecibido := MiCarpetaBase + 'Recibido\';
+  CarpetaLogs     := MiCarpetaBase + 'Logs\';
+  // Crea carpetas si no existen
+  SysUtils.ForceDirectories(CarpetaRecibido);
+  SysUtils.ForceDirectories(CarpetaLogs);
+  // Abre o crea log exclusivo (no permite mas de un thread)
+  MiFileName := CarpetaLogs +
+                FormatDateTime('yyyy-mm-dd', Date) +
+                '.txt';
+  try
+    if FileExists(MiFileName) then
+      begin
+      LogStream := TFileStream.Create(MiFileName, fmOpenReadWrite or fmShareExclusive);
+      LogStream.Seek(0, soFromEnd);
+      end
+    else
+      LogStream := TFileStream.Create(MiFileName, fmCreate or fmShareExclusive);
+  except
+    Result := False;
+  end;
+end;
+
+procedure Finalizar;
+begin
+  FreeAndNil(Proveedores);
+  FreeAndNil(LogStream);
+end;
+
+procedure CargarIni;
+var
+  MiFileName: string;
+  MiIniFile: TIniFile;
+  MisColumnas: TStringList;
+  i: Integer;
+begin
+  // Parametros de archivo ini
+  MiFileName := Paramstr(0);
+  MiFileName := Copy(MiFileName, 1, Length(MiFileName)-3) + 'ini';
+  MiIniFile := TIniFile.Create(MiFileName);
+  try
+    Proveedores := TStringList.Create;
+    MisColumnas := TStringList.Create;
+    try
+      MiIniFile.ReadSection('Proveedores', Proveedores);
+      MiIniFile.ReadSection('Columnas', MisColumnas);
+      Columnas := '';
+      for i := 0 to MisColumnas.Count - 1 do
+        if ((Copy(MisColumnas[i],1,1) <> '*') and (MisColumnas[i] <> '')) then
+          Columnas := Columnas + '&COLUMNAS=' + MisColumnas[i];
+    finally
+      MisColumnas.Free;
+    end;
+  finally
+    FreeAndNil(MiIniFile);
+  end;
+  if (Proveedores.Count = 0) then
+    raise Exception.Create('Cargar Codigos EAN de proveedores en ini');
+end;
+
+{
+POST /cgi-bin/Catalogo.exe/Concat3.zip HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/vnd.ms-excel, application/msword, application/x-shockwave-flash, */*
+Referer: http://192.168.255.36/cgi-bin/Catalogo.exe/Concat3
+Accept-Language: es-uy
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)
+Host: 192.168.255.36
+Content-Length: 199
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: RondaID=B5B29FE12E01480493308399DF0CD177
+
+IW_Action=&IW_ActionParam=Custom&EMPRESA2=7737001070017&EMPRESA=7737001070017&ORDEN=DESCRIP&COLUMNAS=CPP&COLUMNAS=DESCRIP&FILTRO=&DEFECHA=01%2F01%2F2003&ROWLIMIT=3&RESULTADO=CSV&ESTADO=0&COMPRIMIR=on
+}
+
+procedure Recibir;
+var
+  i: Integer;
+  MiURL: string[100];
+  MiContenido, MiOriginalFileName: string;
+  MiRespuesta: TMemoryStream;
+  MiFile : TFileStream;
+  MiUnzip: TVCLUnzip;
+begin
+  AddMensaje('Recibiendo');
+  if RNUtils.EsLocal then
+    MiURL := 'http://192.168.255.36/'
+  else
+    MiURL := 'https://www.rondanet.com/';
+  MiURL := MiURL + 'cgi-bin/Catalogo.exe/Concat3.zip';
+//  IW_Action=&IW_ActionParam=Custom&EMPRESA2=7737001070017&EMPRESA=7737001070017&ORDEN=DESCRIP&COLUMNAS=CPP&COLUMNAS=DESCRIP&FILTRO=&DEFECHA=01%2F01%2F2003&ROWLIMIT=3&RESULTADO=CSV&ESTADO=0&COMPRIMIR=on
+  for i := 0 to Proveedores.Count - 1 do
+    begin
+    MiContenido := 'USUARIOT=' + Usuario +
+                   '&CONTRASENAT=' + Contrasena +
+                   '&EMPRESA2=' + Gln2 +
+                   '&EMPRESA=' + Proveedores[i] +
+//                   '&ORDEN=CPP' +
+                   Columnas +
+                   '&DEFECHA=' + DeFecha +
+                   '&RESULTADO=' + Formato +
+                   '&ESTADO=' + Estado +
+                   '&COMPRIMIR=on';
+    MiRespuesta := TMemoryStream.Create;
+    try
+      // Recibe
+      HTTP_SimplePost(MiURL,
+                      MiContenido,
+                      'application/x-www-form-urlencoded',
+                      'application/x-zip-compressed',
+                      MiRespuesta);
+      // Descomprime
+      MiUnzip := TVCLUnzip.Create(nil);
+      try
+        AddMensaje('Descomprimiendo');
+        MiUnzip.ArchiveStream := MiRespuesta;
+        MiUnzip.ReadZip;
+        MiOriginalFileName := MiUnzip.Filename[0];
+        if (Length(MiOriginalFileName) > 0)  then
+          begin
+          MiFile := TFileStream.Create(CarpetaRecibido +
+                                       FormatDatetime('yyyymmddhhnnsszzz', Now) +
+                                       ExtractFileExt(MiOriginalFileName),
+                                       fmCreate or fmShareExclusive);
+          try
+            MiUnzip.UnZipToStreamByIndex(MiFile, 0);
+          finally
+            FreeAndNil(MiFile);
+          end;
+          end;
+        MiUnzip.ArchiveStream := nil;
+      finally
+        FreeAndNil(MiUnzip);
+      end;
+      // Salva
+    finally
+      FreeAndNil(MiRespuesta);
+    end;
+    end;
+end;
+
+begin
+  if (not Inicializar) then Exit;
+  try
+    try
+      CargarIni;
+      Recibir;
+      AddMensaje('Fin');
+    except
+      on E:Exception do AddMensaje(E.Message);
+    end;
+  finally
+    Finalizar;
+  end;
+//  ReadLn(Texto);
+end.

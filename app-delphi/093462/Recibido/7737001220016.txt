@@ -1,0 +1,235 @@
+GLN Proveedor CPP                  Descripción                                                                   GTIN13 Pide x unid Unid/c 
+7737001220016 0002445              OREO 36 X 111 GR.                                                      7794600009435 N               36 
+7737001220016 0003106              FLAN LIGHT VAINILLA 8X6X16 GR.                                         7793333671278 N               48 
+7737001220016 0003240              GELATINA SIN SABOR 8X6X42 GR.                                          7793333058000 N               48 
+7737001220016 0003242              GELATINA LIGHT FRUTILLA 8X6X25                                         7793333671308 N               48 
+7737001220016 0003320              POSTRE LIGHT VAINILLA 8X6X50GR                                         7793333671285 N               48 
+7737001220016 0003322              POSTRE LIGHT CHOC. 8X6X60 GR.                                          7793333671292 N               48 
+7737001220016 0005512              OREO BANADA C/CHOCO 12X204 GR                                          7794600000142 N               12 
+7737001220016 0013684              TOBLERONE 10 X 200 GRS                                                 7614500035788 N               10 
+7737001220016 0013791              TOBLERONE WHITE 20X100 GR                                              7614500010310 N               20 
+7737001220016 0015000              CAFÉ SENS.TORR. SUAVE 24 X 250G                                        7792360002123 N               24 
+7737001220016 0015001              CAFÉ SENS.TORR. SUAVE 12 X 500G                                        7792360002130 N               12 
+7737001220016 0015002              CAFÉ SENS.TORR. INTENSO 24 X 250G                                      7792360002079 N               24 
+7737001220016 0015003              CAFÉ SENS.TORR. INTENSO 24 X 500G                                      7792360002062 N               12 
+7737001220016 0043639              TOBLERONE DARK 20X100GR.                                               7614500010617 N               20 
+7737001220016 0089590              TOBLERONE LECHE 20X50GR.                                                    76145513 N               20 
+7737001220016 0089595              TOBLERONE LECHE 20X100GR.                                              7614500010013 N               20 
+7737001220016 0093426              CLUB SOCIAL PIZZA 24 X 225 GR                                          7794600459674 N               24 
+7737001220016 0093429              CLUB SOCIAL JAMON 24  X 225 GR                                         7794600459629 N               24 
+7737001220016 0093436              TRAKINAS VAINILLA  36PQ.X120GR                                         7794600459797 N               36 
+7737001220016 0093455              CLUB SOCIAL QUESO 24  X 225 GR                                         7794600459902 N               24 
+7737001220016 0102264              MILKA WHOLE NUTS 12 X 300 GRS                                          7622201022631 N               12 
+7737001220016 0102272              MILKA NOISETTE 12 X 300 GRS                                            7622201022716 N               12 
+7737001220016 0102280              MILKA TRIOLADE 12 X 300 GRS                                            7622201022792 N               12 
+7737001220016 0325399              PHILADELPHIA ORIGINAL 20X150GR                                         7893333325000 N               20 
+7737001220016 0325400              PHILADELPHIA LIGHT 20X150GR                                            7893333325109 N               20 
+7737001220016 0325545              BIS 60 X 140 GRS                                                       7896019603430 N               60 
+7737001220016 0325590              M JOY CHOCO CRUNCHY 36 X 26 GR                                              77921604 N               36 
+7737001220016 0345560              M JOY LECHE 30 X 70 GRS                                                7622300056483 N               30 
+7737001220016 0345562              M JOY ALMENDRAS 27 X 70 GRS                                            7622300056506 N               30 
+7737001220016 0345567              MILKA J.CHOCO CRUNCHY 30UNX70G                                         7622300056568 N               30 
+7737001220016 0347846              SPAGHETTI 12 X 500 GRS                                                 7622300078317 N               12 
+7737001220016 0347850              HELICES 12 X 500 GRS                                                   7794600007233 N               12 
+7737001220016 0347852              CODITOS 12 X 500 GRS                                                   7794600005123 N               12 
+7737001220016 0347855              MOSTACHOL RAY MED 12 X 500 GRS                                         7794600006250 N               12 
+7737001220016 0347857              FETTUCCINE 12 X 500 GRS                                                7794600001330 N               12 
+7737001220016 0348073              CLIGHT DUO KIWI/MELON 16X18X8G                                         7622300080129 N              288 
+7737001220016 0349096              POSTRE INSTANT CHOCOLA 8X6X106                                         7793333941357 N               48 
+7737001220016 0349108              POSTRE ROYAL 5 MIN DDL C/PEP 40 X 125                                  7793333941388 N               40 
+7737001220016 0349123              POSTRE INSTANT VAINILLA 8X6X80                                         7793333941340 N               48 
+7737001220016 0349131              CEREALITAS SALVADO 36 X 200 GR                                         7794910452648 N               36 
+7737001220016 0349213              DESAYUNO 48 X 100 GRS.                                                 7794600460199 N               48 
+7737001220016 0349216              DESAYUNO 16 X 300 GRS.                                                 7794600460205 N               16 
+7737001220016 0349346              LULU CHOCOLATE 55 X 115 GRS                                            7730110000517 N               55 
+7737001220016 0349354              WAFFLE LULU CHOC/FRU 40X140 GR                                         7730110332205 N               40 
+7737001220016 0349586              C SOCIAL CHIPS ORIGINAL 24X120                                         7622300093983 N               24 
+7737001220016 0349589              C SOCIAL CHIPS CREM&CEB 24X120                                         7622300094010 N               24 
+7737001220016 0349592              C SOCIAL CHIPS PARMESAN 24X120                                         7622300094041 N               24 
+7737001220016 0349784              POLVO HORNEAR ROYAL 96X60 GRS                                          7622300095833 N               96 
+7737001220016 0349935              POLVO ROYAL 72 X 120 GRS                                               7622300095840 N               72 
+7737001220016 0350148              GELATINA LIGHT DOB.DUR 48X25 G                                         7730110000562 N               48 
+7737001220016 0355986              CEREALITA CEREAL Y MIEL 45X142                                         7622300108328 N               45 
+7737001220016 0355991              CEREALITA MZNA Y CANELA 45X142                                         7622300108373 N               45 
+7737001220016 0356050              PEPITOS 45 X 126 GR                                                    7622300108892 N               45 
+7737001220016 0356059              PEPITOS 15 X 3 X 126 GR                                                7622300108984 N               15 
+7737001220016 0356348              MINI OREO 48 X 50 GR                                                   7622300111922 N               48 
+7737001220016 0357006              ROYALINO FRUTILLA 8 X 6 X 60GR                                         7622300117573 N               48 
+7737001220016 0357012              ROYALINO VAINILLA 8 X 6 X 60GR                                         7622300117627 N               48 
+7737001220016 0357297              POSTRE ROYAL 5 MIN OREO 40 X 105 GRS                                   7793333941364 N               40 
+7737001220016 0357401              CEREALITAS 45 PQ.X 200 GR.                                             7794910011647 N               45 
+7737001220016 0357402              CEREALITAS COPOS 45 PQ.X170GR.                                         7794910452372 N               45 
+7737001220016 0357456              OREO DORADA 36 X 111 GR.                                               7622300122027 N               36 
+7737001220016 0373934              CLIGHT STICK SPA VITAL 32X10X2                                         7622300143084 N              320 
+7737001220016 0373938              CLIGHT STICK SPA RELAX 32X10X2                                         7622300143114 N              320 
+7737001220016 0373949              CLIGHT SPA VITAL 16X18X10GR                                            7622300143237 N              288 
+7737001220016 0373958              CLIGHT SPA RELAX 16X18X10GR                                            7622300143329 N              288 
+7737001220016 0374115              C SOCIAL CHIPS ORIGINAL 36X40G                                         7622300093877 N               36 
+7737001220016 0374116              C SOCIAL CHIPS PARMESANO 36X40                                         7622300093952 N               36 
+7737001220016 0374377              TANG STICK NARANJA 36X10X7GR                                           7622300146900 N              360 
+7737001220016 0374395              TANG STICK MANZANA 36X10X7GR                                           7622300147075 N              360 
+7737001220016 0374398              TANG STICK UVA 36X10X7GR                                               7622300147099 N              360 
+7737001220016 0374402              GELATINA ROYARINA CEREZA 5 P                                           7730110000531 N              144 
+7737001220016 0374622              GELATINA ROYARINA DURAZNO 5 P                                          7730110000548 N              144 
+7737001220016 0374641              GELATINA ROYARINA FRUTILLA 5 P                                         7730110000524 N              144 
+7737001220016 0375452              GELATINA CEREZA 144 UNID 25 GRS                                        7622300154776 N              144 
+7737001220016 0375454              GELATINA FRUTILLA 144 UNID 25 GRS                                      7622300154783 N              144 
+7737001220016 0375456              GELATINA DURAZNO 144 UNID 25 GRS                                       7622300154790 N              144 
+7737001220016 0376473              TOBLERONE ONE BY ONE 9 X 200GR                                         7622400893216 N                9 
+7737001220016 0376688              GEL LIGHT DUO KIWI/MELO 8X6X25                                         7622300167974 N               48 
+7737001220016 0376689              GEL LIGHT DUO NJA/MGO 8X6X25                                           7622300167981 N               48 
+7737001220016 0376690              GEL LIGHT DUO LIM/P.ROS 8X6X25                                         7622300167998 N               48 
+7737001220016 0377254              MOUSSE LIMON SHIVA 48X65 GR                                            7622300173050 N               48 
+7737001220016 0377263              MOUSSE DDL 8 X 6 X 65 GR SHIVA                                         7622300173135 N               48 
+7737001220016 0463999              MILKA LEGER LECHE  36X25GR.                                                 77916044 N               36 
+7737001220016 0470999              MILKA LEGER ALMENDRAS 30X45GR.                                              77916112 N               30 
+7737001220016 0471999              MILKA LEGER LECHE 100 G X 15 U                                         7790114015177 N               15 
+7737001220016 0472999              MILKA LEGER BLANCO 100 G X 15U                                         7790114015573 N               15 
+7737001220016 0473999              MILKA LEGER COMBIN 100G X 15 U                                         7790114015306 N               15 
+7737001220016 0474999              MILKA LEGER ALMEN 100 G X 15 U                                         7790114015191 N               15 
+7737001220016 0545406              HELADO ROYARINA CHOC 96 X 50 GRS                                       7730110143320 N               96 
+7737001220016 0545619              HELADO ROYARINA VAIN 96 X 50 GRS                                       7730110143344 N               96 
+7737001220016 0545798              MILKA M-JOY COOKIES 30 X 70 GR                                         7622300179465 N               30 
+7737001220016 0545805              MILKA M-JOY COOKIES 36 X 30 GR                                         7622300179526 N               36 
+7737001220016 0545807              MILKA CHOCO CRUNCHY 18X170 GRS                                         7622300179533 N               18 
+7737001220016 0545814              HELADO ROYARINA FRUT 96 X 50 GRS                                       7730110143313 N               96 
+7737001220016 0545816              HELADO ROYARINA DDL 96 X 50 GRS                                        7730110143337 N               96 
+7737001220016 0545976              PACK COPITA ROYALINO VAIN  20 X 63 GRS                                 7622300180959 N               20 
+7737001220016 0545981              PACK COPITA ROYALINO FRUT 20 X 60 GRS                                  7622300180997 N               20 
+7737001220016 0547491              BARRA CROC AVE/MIEL 1X20X23 G                                               77917232 N               20 
+7737001220016 0547522              BARRA CROC MAN.DELI 1X20X23 GR                                              77917249 N               20 
+7737001220016 0548129              BARRA CROCANTE COCO                                                         77922151 N               20 
+7737001220016 0548515              ALF.MILKA MOUSSE SIMPLE 36X40G                                              77960160 N               36 
+7737001220016 0548516              ALF MILKA TRIPLE MOUSSE 36 X 55 G                                           77903785 N               36 
+7737001220016 0548517              ALF DDL MILKA TRIPLE 36 U X 70 GRS                                          77903778 N               36 
+7737001220016 0548552              ALF.TRI.PEPITOS NUEVO 36X57 G                                               77915481 N               36 
+7737001220016 0548554              ALFAJOR TRIPLE OREO X 55GRS                                                 77916495 N               36 
+7737001220016 0548955              ALFAJOR TERRA  48 X 50 GR                                                   77939234 N               48 
+7737001220016 0549269              VARIEDAD CHOCOLATE 21X300GR                                            7794600002047 N               21 
+7737001220016 0549270              VARIEDAD CARTOON 21 X 300 GR                                           7622300208080 N               21 
+7737001220016 0549654              COMBO ROY POSTRE CARAM 99G 63U                                         7622300210977 N               63 
+7737001220016 0549671              COMBO ROY POSTRE CHOC 129G 63U                                         7622300211134 N               63 
+7737001220016 0549681              COMBO ROY POSTRE VAIN 81 G 63U                                         7622300211189 N               63 
+7737001220016 0549683              COMBO ROY FLAN VAIN 81 G 63 U                                          7622300211196 N               63 
+7737001220016 0549685              COMBO ROY GEL CEREZA 81 G 63 U                                         7622300211202 N               63 
+7737001220016 0549687              COMBO ROY GELAT FRUT 81G 63 U                                          7622300211219 N               63 
+7737001220016 0549690              COMBO ROYARIN GEL DUR 81 G 63U                                         7622300211233 N               63 
+7737001220016 0549692              COMBO ROY SALSA BCA 110 G 63 U                                         7622300211240 N               63 
+7737001220016 0566999              MILKA LEGER ALMENDRAS 36X25GR.                                              77916013 N               36 
+7737001220016 0569999              MILKA LEGER COMBINADO 30X45GR.                                              77916129 N               30 
+7737001220016 0586098              POSTRE ROYARINA CHOC 77G 80 U                                          7730110124060 N               96 
+7737001220016 0586257              MILKA CASTANAS C/CARAME 21X170                                         7622300057169 N               21 
+7737001220016 0586259              MILKA LECHE 22 X 170 G                                                 7790114900657 N               22 
+7737001220016 0587704              POSTRE ROYARINA CHOC 38,5G 96U                                         7622300226237 N               80 
+7737001220016 0587735              AGUA X 140                                                             7622300226480 N               54 
+7737001220016 0587752              AGUA FAMOSA 18X420 GR                                                  7622300226633 N               18 
+7737001220016 0587756              AGUA SIN SAL FAMOSA 18X420 GR.                                         7622300226657 N               18 
+7737001220016 0604604              SODA CRACKER 18 U X 420 GRS                                            7622300250980 N               18 
+7737001220016 0604606              SODA CRACKER 54 U X 140 GRS                                            7622300250997 N               54 
+7737001220016 0605446              AGUA FAMOSA 13 UN X 560 GRS                                            7622300258269 N               13 
+7737001220016 0867999              MILKA LEGER LECHE  30X45GR.                                                 77916105 N               30 
+7737001220016 0977598              GELATINA LIGHT CEREZA 8X6X25GR                                         7793333671322 N               48 
+7737001220016 0977612              CEREALITAS 30 PQ.X 105 GR.                                             7794910011531 N               30 
+7737001220016 0977658              CLUB SOCIAL 24 PQ. X 234 GR.                                           7794600459100 N               24 
+7737001220016 0977688              ALF.MILKA MOUSSE LECHE 36X6X40                                         7790114060016 N              216 
+7737001220016 0977693              ALFAJOR CHOC 16 PQ X 6 UN                                              7794600025107 N               96 
+7737001220016 0977719              OREO 12 X 333 GR.                                                      7794600000531 N               12 
+7737001220016 0977740              OREO CHOCOLATE 36 X 111 GR.                                            7794600459124 N               36 
+7737001220016 0977793              CLIGHT NARANJA 16X18SB.X9,7GR.                                         7790050001166 N              288 
+7737001220016 0977794              CLIGHT POM. ROS 16X18SBX10,6GR                                         7790050001258 N              288 
+7737001220016 0977797              CLIGHT PERA 16X18X7,8GR                                                7790050986449 N              288 
+7737001220016 0977799              CLIGHT DUO POM/LIM 16X18X9,4GR                                         7790050987033 N              288 
+7737001220016 0977800              CLIGHT DUO MGO/PERA 16X18X9,4G                                         7790050987019 N              288 
+7737001220016 0977802              CLIGHT MANZ.DELIC.16X18SBX7,5G                                         7790050985671 N              288 
+7737001220016 0977803              CLIGHT NJA. DULCE 16X18X8,7GR                                          7790050985992 N              288 
+7737001220016 0977830              VERAO NARANJA 12X14SB.X35GR.                                           7790050985725 N              168 
+7737001220016 0977831              VERAO NAR-BANANA 12X14SBX35GR                                          7790050985763 N              168 
+7737001220016 0979009              OREO BANADA BIPACK 20X34GR                                             7794600459933 N               20 
+7737001220016 0979010              OREO BANADA BIPACK BCO 20X34 G                                         7794600459940 N               20 
+7737001220016 0979214              MOUSSE CHOCOLATE 8 X 6 X 65 GR                                         7793333941234 N               48 
+7737001220016 0979240              FLAN DOBLE CHOCOLATE 48X170 GR                                         7793333231038 N               48 
+7737001220016 0979241              FLAN ROYAL DOBLE VAI 48X120 GR                                         7793333231069 N               48 
+7737001220016 0979242              FLAN ROYAL DOBLE DDL 48X120 GR                                         7793333231236 N               48 
+7737001220016 0979243              FLAN DOBLE VAI.C/CAR 40X155 GR                                         7793333241068 N               40 
+7737001220016 0979244              GELATINA DOBLE FRU 48X170 GRS                                          7793333351040 N               48 
+7737001220016 0979245              GELATINA DOBLE CER 48X170 GRS                                          7793333351088 N               48 
+7737001220016 0979247              GELATINA DOBLE DUR 48X170 GRS                                          7793333351224 N               48 
+7737001220016 0979248              GELATINA DOBLE FRA 48X170 GRS                                          7793333351279 N               48 
+7737001220016 0979249              GELATINA DOBLE MAN 48X170 GRS                                          7793333351095 N               48 
+7737001220016 0979252              POSTRE DOBLE CAR 48X200 GRS                                            7793333221022 N               48 
+7737001220016 0979253              POSTRE DOBLE CHO 48X200 GRS                                            7793333221039 N               48 
+7737001220016 0979254              POSTRE DOBLE VAI 48X200 GRS                                            7793333221060 N               48 
+7737001220016 0979316              TANG NARANJA FRUT 168X35 GRS                                           7730110760190 N              168 
+7737001220016 0979317              TANG MZNA FRUTRICION 168X35 G                                          7730110760220 N              168 
+7737001220016 0979318              TANG LIMON FRUTRICION 168X35 G                                         7730110760213 N              168 
+7737001220016 0979319              TANG DURAZNO FRUT 168 X 35 GRS                                         7730110760206 N              168 
+7737001220016 0979320              TANG NAR/MANGO FRUT 168X35GRS                                          7730110760237 N              168 
+7737001220016 0979321              TANG CITRIX MIX FRUT 168X35 GR                                         7730110760251 N              168 
+7737001220016 0979322              TANG NA/BA/F FRUT 168 X 35 GRS                                         7730110760244 N              168 
+7737001220016 0980557              POLVO HORNEAR ROYAL 240X20 GRS                                         7730110120635 N              240 
+7737001220016 0980558              POLVO HORNEAR ROYAL 120X100 GR                                         7702054088401 N              120 
+7737001220016 0980559              POLVO HORNEAR ROYAL 60X200 GRS                                         7730110120611 N               60 
+7737001220016 0980560              CHANTILLY ROYAL 48X100 GRS                                             7730110137046 N               48 
+7737001220016 0980563              GELATINA CHICA CER 60X85 GRS                                           7730110121106 N               60 
+7737001220016 0980564              GELATINA CHICA FRUT 60X85 GRS                                          7730110121113 N               60 
+7737001220016 0980565              GELATINA GRANEL CER 10X1 KG                                            7730110133017 N               10 
+7737001220016 0980566              GELATINA GRANEL FRU 10X1 KG                                            7730110133024 N               10 
+7737001220016 0980567              POSTRE ROYAL CH CAR 60X100 GRS                                         7730110133543 N               60 
+7737001220016 0980568              POSTRE ROYAL CH CHO 60X100 GRS                                         7730110121250 N               60 
+7737001220016 0980569              POSTRE ROYAL CH VAI 60X100 GRS                                         7730110135561 N               60 
+7737001220016 0980570              POSTRE GRANEL CHOC 10X1 KG                                             7730110134526 N               10 
+7737001220016 0980571              POSTRE GRANEL VAI 10X1 KG                                              7730110134533 N               10 
+7737001220016 0980572              FLAN ROYAL CHICO VAIN                                                  7730110135004 N               60 
+7737001220016 0980573              FLAN ROYAL GRANEL VAI 10X1 HG                                          7730110136001 N               10 
+7737001220016 0980575              BIZCOCHUELO CHOC 20X460 GRS                                            7730110139088 N               20 
+7737001220016 0980576              BIZCOCHUELO VAINILLA 20X450 GR                                         7730110139071 N               20 
+7737001220016 0980577              BIZCOCHUELO NARANJA 20X450 GRS                                         7730110139095 N               20 
+7737001220016 0980578              ROYARINA CH D.NCARAM 144X33 GR                                         7730110124015 N              144 
+7737001220016 0980580              ROYARINA CH D.NVAI 144X27 GRS                                          7730110124046 N              144 
+7737001220016 0980581              ROYARINA DOB D.NCARAM 96X66 GR                                         7730110124053 N               96 
+7737001220016 0980585              ROYARINA DOB D.NVAI 96X54 GRS                                          7730110124077 N               96 
+7737001220016 0980587              ROYARINA DOB DDL 96X60 GRS                                             7730110140541 N               96 
+7737001220016 0980588              FLAN ROYARINA D.N CH 144X27 GR                                         7730110124213 N              144 
+7737001220016 0980589              FLAN ROYARINA DN DOB 96X54 GRS                                         7730110124220 N               96 
+7737001220016 0980591              FLAN ROYARINA DN DDL 96X54 GRS                                         7730110141609 N               96 
+7737001220016 0980593              GELATINA ROYARINA CER 96X50 GR                                         7730110141814 N               96 
+7737001220016 0980595              GELAT ROYARINA FRU 96X50 GRS                                           7730110141821 N               96 
+7737001220016 0980597              GELATINA ROYARINA DUR 96X50 GR                                         7730110141883 N               96 
+7737001220016 0980599              SALSA BLANCA DN SOBRE 72X75 GR                                         7730110124800 N               72 
+7737001220016 0980601              SALSA BLCA DN CH 96X35 GRS                                             7730110143559 N               96 
+7737001220016 0980602              PURE INST ROYARINA DN 48X125 G                                         7730110143603 N               48 
+7737001220016 0980603              SODA CRACKER 25X300 GRS                                                7730110220366 N               25 
+7737001220016 0980605              SALVADO NATURAL 50X160 GRS                                             7730110210589 N               50 
+7737001220016 0980608              MARIA MINIAT ANSELMI 36X200 GR                                         7730110000371 N               36 
+7737001220016 0980609              MARIA MINIAT ANSELMI 72X100 GR                                         7730110000456 N               72 
+7737001220016 0980610              SOLAR MINI 56X100 GRS                                                  7730110221028 N               56 
+7737001220016 0980611              SOLAR 32 X 195 GRS                                                     7730110221011 N               32 
+7737001220016 0980616              AGUA REDONDITAS 18 X 250 GRS                                           7730110310074 N               18 
+7737001220016 0980617              SALVADO FAMOSA 16 X 400 GRS                                            7730110311521 N               16 
+7737001220016 0980618              MALTEADA FAMOSA 16 X 300 GRS                                           7730110311675 N               16 
+7737001220016 0980619              S/SAL MALTEADA FAMOSA 16X300 G                                         7730110311743 N               16 
+7737001220016 0980620              SALVADO S/SAL FAMOSA 16X400 GR                                         7730110311927 N               16 
+7737001220016 0980622              MARIA 72 X 100 GRS                                                     7730110321834 N               72 
+7737001220016 0980624              MARIA 24 X 300 GRS                                                     7730110320288 N               24 
+7737001220016 0980625              EXQUISITAS 18 X 300 GRS                                                7730110320837 N               18 
+7737001220016 0980626              EXQUISITAS 45 X 120 GRS                                                7730110320844 N               45 
+7737001220016 0980628              EXQUISITAS NARANJA 45X120 GRS                                          7730110320875 N               45 
+7737001220016 0980629              SUSPIROS MARMOLADA 36X115 GRS                                          7730110321421 N               36 
+7737001220016 0980630              SUSPIROS CLASICA 36X115 GRS                                            7730110321520 N               36 
+7737001220016 0980631              SURTIDO FIESTA 18X300 GRS                                              7730110322053 N               18 
+7737001220016 0980632              LULU CHANTILLY 55X115 GRS                                              7730110331932 N               55 
+7737001220016 0980633              LULU FRUTILLA 55X115 GRS                                               7730110332038 N               55 
+7737001220016 0980637              WAFFLE SENSACION CHO 40X140 GR                                         7730110000395 N               40 
+7737001220016 0980638              WAFFLE SENSACION DDL 40X140 GR                                         7730110000401 N               40 
+7737001220016 0980639              WAFFLE LULU CHOC 40X140 GRS                                            7730110332106 N               40 
+7737001220016 0980640              WAFFLE LULU FRU 40X140 GRS                                             7730110332045 N               40 
+7737001220016 0980641              WAFFLE LULU CHANT 40X140 GRS                                           7730110000449 N               40 
+7737001220016 0980733              MARIA MINIAT ANSELMI 24X300 GR                                         7730110000463 N               24 
+7737001220016 0984550              LACTA LECHE 12 X 170 GRS                                               7896019621755 N               12 
+7737001220016 0984608              LACTA AMARO 12 X 170 GRS                                               7896019621762 N               12 
+7737001220016 0984722              DIAMANTE NEGRO  170 GRS.                                               7896019352710 N               12 
+7737001220016 0984759              MILKA BLANCO 12 X 170 GRS                                              7896019352703 N               12 
+7737001220016 588420               ALF MILKA XTREME CHOCO 36X61GR                                         7622300202897 N               36 
+7737001220016 604610               SALVADO FAMOSA 310G - 26 U                                             7622300251024 N               26 
+7737001220016 604612               SALVADO S/S FAMOSA 290G  26 U                                          7622300251031 N               26 
+7737001220016 977795               CLIGHT MANZ VERDE 16X18SB X8GR                                         7790050001227 N               16 

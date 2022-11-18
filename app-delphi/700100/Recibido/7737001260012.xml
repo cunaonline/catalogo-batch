@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<DATAPACKET Version="2.0">
+<METADATA>
+<FIELDS>
+<FIELD FieldName="GLN" DisplayLabel="GLN" FieldType="Float" FieldClass="TField"/>
+<FIELD FieldName="CPP" DisplayLabel="CPP" FieldType="String" FieldClass="TField"/>
+<FIELD FieldName="DESCRIP" DisplayLabel="DESCRIP" FieldType="String" FieldClass="TField"/>
+<FIELD FieldName="MARCA" DisplayLabel="MARCA" FieldType="String" FieldClass="TField"/>
+<FIELD FieldName="DIVISION" DisplayLabel="DIVISION" FieldType="String" FieldClass="TField"/>
+<FIELD FieldName="GTIN13" DisplayLabel="GTIN13" FieldType="Float" FieldClass="TField"/>
+<FIELD FieldName="UNIDADES" DisplayLabel="UNIDADES" FieldType="Integer" FieldClass="TField"/>
+<FIELD FieldName="ESPROMO" DisplayLabel="ESPROMO" FieldType="String" FieldClass="TField"/>
+<FIELD FieldName="FECHA_ALTA" DisplayLabel="FECHA_ALTA" FieldType="DateTime" FieldClass="TField"/>
+<FIELD FieldName="ESTADO" DisplayLabel="ESTADO" FieldType="String" FieldClass="TField"/>
+</FIELDS>
+</METADATA>
+<ROWDATA>
+</ROWDATA>
+</DATAPACKET>

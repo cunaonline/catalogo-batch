@@ -1,0 +1,182 @@
+GLN Proveedor CPP                  Descripción                                                                   GTIN13 Pide x unid Unid/c 
+7730900780001 100138               OFF REPELENTE AEROSOL X 290 CM3                                        7790520971210 N                6 
+7730900780001 100424               RAID ESPIRALES 120 GRS                                                 7790520984487 N               48 
+7730900780001 100449               BLEM LUSTRA AERO NARANJA 400CC                                         7790520984357 N               12 
+7730900780001 100467               BLEM LUSTRA AERO LAVANDA                                               7790520987297 N               12 
+7730900780001 100468               OFF REPELENTE EXTRA DURACION AEROSOL X165 CM3                          7790520001337 N                6 
+7730900780001 100469               OFF REPELENTE AEROSOL X165 CM3                                         7790520161055 N                6 
+7730900780001 100472               OFF REPELENTE 290 CM3                                                  7790520971210 N                6 
+7730900780001 100473               OFF REPELENTE CREMA  X 200 GRS                                         7790520002303 N               12 
+7730900780001 100474               OFF REPELENTE CREMA  X 60 GRS                                               77991973 N               24 
+7730900780001 100476               OFF REPELENTE COSMETIC CREMA X 90 GRS                                       77918352 N               12 
+7730900780001 100477               OFF REPELENTE SPRAY X200 CM3                                           7790520002402 N               12 
+7730900780001 100818               MAS DOBLE ACCION 400 CM3                                               7730900781374 N               12 
+7730900780001 100908               RAID MATAMOSCAS X 400 CM3                                              7790520508485 N               12 
+7730900780001 101685               RAID ANTIPOLILLA CONTINUO                                              7790520011732 N               24 
+7730900780001 102201               RAID EXTERMINADOR AEROSOL 400 CM3                                      7790520010520 N                6 
+7730900780001 103006               RAID ANTIPOLILLAS AEROSOL 400 CM3                                      7790520011770 N                6 
+7730900780001 105282               RAID CASA Y JARDIN AEROSOL 360 CM3                                     7790520986153 N               12 
+7730900780001 105448               RAID 6 CEBOS                                                           7790520986771 N               12 
+7730900780001 106135               RAID MAX AEROSOL 400 CM3                                               7790520982100 N               12 
+7730900780001 113203               KIT CERA PASTA 200 GRS                                                 7501032920586 N               12 
+7730900780001 114706               MAS APARATO MAZDA III                                                  7730900781398 N               12 
+7730900780001 115448               RAID 45 NOCHES REPUESTO                                                7790520154408 N               12 
+7730900780001 116187               RAID TABLETAS X 24                                                     7790520155450 N               80 
+7730900780001 116196               MAS TABLETAS MOSCAS X12                                                7730900781503 N               20 
+7730900780001 116208               MAS TABLETAS MOSQUITOS X12                                             7730900781381 N               20 
+7730900780001 116209               MAS TABLETAS MOSQUITOS X24                                             7730900780025 N               20 
+7730900780001 116211               MAS 45 NOCHES REPUESTO                                                 7730900780087 N               12 
+7730900780001 116217               RAID TABLETAS X 12                                                     7790520155702 N               20 
+7730900780001 151689               MR MUSCULO GEL CON LAVANDINA 500 CM3                                   7790520150509 N               12 
+7730900780001 152003               MR MUSCULO OXYPOWER POLVO 400 GRS                                      7790520987365 N               12 
+7730900780001 155079               MR MUSCULO VIDRIOS DOYPACK 500 ML                                      7790520155047 N               12 
+7730900780001 155083               MR MUSCULO MULTIACCION DOYPACK 500ML                                   7790520985569 N               12 
+7730900780001 155087               MR MUSCULO PRELAVADO OXYPOWER DOY PACK X500 CM3                        7790520985934 N               12 
+7730900780001 155091               MR MUSCULO PRELAVADO OXYPOWER GATILLO X500 CM3                         7790520985910 N               12 
+7730900780001 155094               MR MUSCULO MULTIACCION GATILLO 500 CM3                                 7790520985576 N               12 
+7730900780001 155095               MR MUSCULO MULTIACCION REPUESTO 500 CM3                                7790520985583 N               12 
+7730900780001 155096               MR MUSCULO PRELAVADO GEL ACTIVO GATILLO X450 CM3                       7790520986818 N               12 
+7730900780001 155097               MR MUSCULO PRELAVADO GEL ACTIVO DOY PACK X400 CM3                      7790520986832 N               12 
+7730900780001 155098               MR MUSCULO DESTRUCTOR 500CM3                                           7790520986825 N               12 
+7730900780001 155267               MR MUSCULO BLOQUE MOCHILA X 45 GRS                                     7790520552679 N               24 
+7730900780001 155287               GLADE CANASTA LIQUIDA APARATO LAVANDA X 50 CM3                         7790520552877 N               12 
+7730900780001 155289               GLADE CANASTA LIQUIDA REPUESTO LAVANDA X 50 CM3                        7790520552891 N               12 
+7730900780001 155321               MR MUSCULO CANASTA LIQUIDA APARATO MARINA X 55 CM3                     7790520552808 N               12 
+7730900780001 155322               MR MUSCULO CANASTA LIQUIDA REPUESTO MARINA X 55 CM3                    7790520552815 N               12 
+7730900780001 155323               MR MUSCULO CANASTA LIQUIDA REPUESTO PINO X 55 CM3                      7790520552839 N               12 
+7730900780001 155331               MR MUSC ANTIGRASA NARANJA REPUESTO 500 C,3                             7790520984371 N               12 
+7730900780001 155338               GLADE CANASTA 2 EN 1 REPUESTO X 35 GRS                                 7790520985194 N               12 
+7730900780001 155339               MR MUSCULO ANTIGRASA NARANJA  DOY PACK  500 CM3                        7790520984524 N               12 
+7730900780001 155344               MR MUSCULO ANTIGRASA NARANJA GATILLO 500 CM3                           7790520986030 N               12 
+7730900780001 155349               GLADE CANASTA 2 EN 1 APARATO X 35 GRS                                  7790520986108 N               12 
+7730900780001 155352               GLADE PASTILLA LAVANDA-PINO                                            7790520986221 N               24 
+7730900780001 155355               LYSOFORM BLOQUE MOCHILA X 35 GRS                                       7805050148244 N               12 
+7730900780001 155371               GLADE CANASTA LIQUIDA REPUESTO SPA X 50 CM3                            7790520987068 N               12 
+7730900780001 155379               LYSOFORM BAÑO ACCION TOTAL GATILLO 500 CM3                             7790520987020 N               12 
+7730900780001 155380               LYSOFORM BAÑO ACCION TOTAL DOY PACK 500 CM3                            7790520987037 N               12 
+7730900780001 155381               GLADE CANASTA MIXTA APARATO X 27.5 GRS                                 7790520987105 N               12 
+7730900780001 155382               GLADE CANASTA MIXTA REPUESTO X 27.5 GRS                                7790520987112 N               24 
+7730900780001 155388               LYSOFORM ANTIGRASA GATILLO 500 CM3                                     7790520987044 N               12 
+7730900780001 155389               LYSOFORM ANTIGRASA DOY PACK 500 CM3                                    7790520987051 N               12 
+7730900780001 155392               PR LYSO GAT + AERO + BAÑO DP                                           7790520987341 N                4 
+7730900780001 155393               MR MUSCULO ANTIGRASA NARANJA DOY PACK 900 CM3                          7790520987358 N               12 
+7730900780001 155395               LYSOFORM BLOQUE MOCHILA X 35 GRS                                       7790520985736 N               12 
+7730900780001 155397               GLADE PASTILLA LAVANDA-PINO                                            7790520986221 N               24 
+7730900780001 155410               MR MUSCULO LIMPIAHORNOS AEROSOL 400 CM3                                7790520981967 N                6 
+7730900780001 155802               MR MUSCULO OXYPOWER POLVO 250 GRS                                      7790520985675 N               12 
+7730900780001 155811               PROMO MR. MUSCULO OXY POWER GAT + REP + POLVO 400                      7790520987594 N                6 
+7730900780001 167049               BAYGON JERINGA                                                         7790520985347 N                6 
+7730900780001 167058               BAYGON VERDE AEROSOL 400 CM3                                           7790520984531 N                6 
+7730900780001 167059               RAID MAX JERINGA                                                       7790520986160 N                6 
+7730900780001 167070               BAYGON 4 CEBOS CUCARACHICIDA                                           7790520984579 N               12 
+7730900780001 167072               BAYGON CEBO 12 X 4                                                     7790520984579 N               12 
+7730900780001 171250               KIT SHAMPOO 500 CM3                                                    7805050712506 N               12 
+7730900780001 187423               GLADE ENCHUFE APARATO LAVANDA                                          7805050874235 N               12 
+7730900780001 27147                GLOCOT BLEM AUTOBRILLO INCOLORO DOY PACK 450 CM3                       7790520986405 N               12 
+7730900780001 27213                GLOCOT BLEM AUTOBRILLO ROJO DOY PACK 450 CM3                           7790520986429 N               12 
+7730900780001 27225                GLOCOT BLEM AUTOBRILLO INCOLORO 2 L                                    7790520982001 N                6 
+7730900780001 27259                GLOCOT BLEM AUTOBRILLO INCOLORO BIDON 5 L                              7790520982056 N                4 
+7730900780001 280041               ZIPLOC RESIDUOS HOGAR X 15U                                            7790520986054 N               12 
+7730900780001 280078               ZIPLOC RESIDUOS CONSORCIO X 10U                                        7790520985279 N               12 
+7730900780001 280207               ZIPLOC BOLSA MULTI-PACK X 9U                                           6001298008123 N               12 
+7730900780001 280228               ZIPLOC BOLSA CIERRE DENTADO PEQUEÑA  X 8U                              7790520802279 N               12 
+7730900780001 280229               ZIPLOC BOLSA CIERRE DENTADO GRANDE X 5U                                7790520802170 N               12 
+7730900780001 280238               ZIPLOC BOLSA CIERRE DESLIZABLE GRANDE X 4U                             7790520985323 N               12 
+7730900780001 280239               ZIPLOC BOLSA CIERRE DESLIZABLE PEQUEÑA 6U                              7790520985330 N               12 
+7730900780001 280260               ZIPLOC BOLSA EXTRA GRANDE X 10U                                        7790520984401 N               12 
+7730900780001 280270               ZIPLOC BOLSA GRANDE  X 20U                                             7790520984418 N               12 
+7730900780001 280341               ZIPLOC FILM REPUESTO X 10 MTS                                          7790520803405 N               12 
+7730900780001 61158                GLOCOT CERA MADERA NATURAL 1L                                          7790520270733 N               12 
+7730900780001 61168                BLEM CERA MADERA "UNIVERSAL" 900CC                                     7790520018021 N               12 
+7730900780001 61171                GLOCOT CERA MADERA ROB OSCURO 1L                                       7790520270757 N               12 
+7730900780001 61179                BLEM CERA MADERA ROBLE CLARO 900CC                                     7790520018038 N               12 
+7730900780001 61182                BLEM CERA MADERA ROBLE OSCURO 900CC                                    7790520018045 N               12 
+7730900780001 823165               MAS 45 NOCHES APARATO                                                  7730900780070 N                6 
+7730900780001 825605               ZIPLOC POTE HERMETICO 600 12*3                                         7894650801000 N               12 
+7730900780001 825607               ZIPLOC POTE HERMETICO 900 12*3                                         7894650280102 N               12 
+7730900780001 826976               RAID MATAPULGAS AEROSOL 400 CM3                                        7790520030047 N               12 
+7730900780001 827024               KIT SILICONA AEROSOL 480 CM3                                           7805050704020 N               12 
+7730900780001 828817               LYSOFORM CANASTA LIQUIDA APARATO X 50 CM3                              7790520981875 N               12 
+7730900780001 828818               LYSOFORM CANASTA LIQUIDA REPUESTO X 55 CM3                             7790520981882 N               12 
+7730900780001 847030               RAID RATICIDA                                                          7790520105448 N               18 
+7730900780001 848169               GLADE TOQUE REPUESTO JAZMIN                                            7790520981813 N               12 
+7730900780001 848170               GLADE TOQUE REPUESTO BEBE                                              7790520982261 N               12 
+7730900780001 849853               GLADE DEO SMILE VAINILLA                                               8002030138281 N               24 
+7730900780001 849854               GLADE DEO SMILE CITRICO                                                8002030138250 N               24 
+7730900780001 850634               MAS ESPIRALES 120 GRS                                                  7730900781299 N               48 
+7730900780001 854410               GLADE ULTRA CAMPOS DE LAVANDA 120 CM3                                  7790520985484 N               12 
+7730900780001 854411               GLADE ULTRA CAMPOS DE JAZMIN 120 CM3                                   7790520985491 N               12 
+7730900780001 854412               GLADE ULTRA CARICIAS DE BEBE 120 CM3                                   7790520985477 N               12 
+7730900780001 854413               GLADE ULTRA SPA 120 CM3                                                7790520985514 N               12 
+7730900780001 854414               GLADE ULTRA I LOVE YOU 120 CM3                                         7790520985507 N               12 
+7730900780001 856579               GLADE LAVANDA  360 CM3                                                 7790520985743 N                6 
+7730900780001 856581               GLADE CARICIAS DE BEBE 360 CM3                                         7790520985804 N                6 
+7730900780001 856583               GLADE CARICIAS DE ALGODON 360 CM3                                      7790520985798 N                6 
+7730900780001 857268               LYSOFORM "CLASICO" 360 CM3                                             7790520986788 N                6 
+7730900780001 857269               LYSOFORM "AIRE DE MONTAÑA" 360 CM3                                     7790520986795 N                6 
+7730900780001 857445               GLADE DEOSMILE BRISA                                                   7805050582895 N               24 
+7730900780001 859985               LYSOFORM LIMPIADOR LIQUIDO CITRICO DOY PACK 450 CM3                    7790520986542 N               12 
+7730900780001 860264               ECHO CLASICO DOY PACK 450 CM3                                          7790520986382 N               12 
+7730900780001 860266               CERAMICOL INCOLORO DOY PACK 450 CM3                                    7790520986443 N               12 
+7730900780001 860268               GLOCOT BLEM REVOLUTION DOY PACK 450 CM3                                7790520986467 N               12 
+7730900780001 860269               LYSOFORM LIMPIADOR LIQUIDO ORIGINAL DOY PACK 450 CM3                   7790520986481 N               12 
+7730900780001 860523               ECHO CLASICO 900 CM3                                                   7790520986603 N               12 
+7730900780001 860524               ECHO LAVANDA 900 CM3                                                   7790520986610 N               12 
+7730900780001 860528               GLOCOT BLEM AUTOBRILLO INCOLORO 900 CM3                                7790520986658 N               12 
+7730900780001 860529               GLOCOT BLEM AUTOBRILLO ROJO BT 900 CM3                                 7790520986665 N               12 
+7730900780001 860531               GLOCOT BLEM AUTOBRILLO NEGRO 900 CM3                                   7790520986672 N               12 
+7730900780001 860532               GLOCOT BLEM BRILLO ACRILICO 900 CM                                     7790520986689 N               12 
+7730900780001 860533               GLO COT REMOVEDOR 900 CM3                                              7790520986696 N               12 
+7730900780001 860534               GLOCOT BLEM REVOLUTION 900 CM3                                         7790520986702 N               12 
+7730900780001 860535               CERAMICOL INCOLORO 900 CM3                                             7790520986726 N               12 
+7730900780001 860536               CERAMICOL ROJO 900 CM3                                                 7790520986733 N               12 
+7730900780001 860537               CERAMICOL NEGRO 900 CM3                                                7790520986740 N               12 
+7730900780001 860538               BLEM LIMPIADOR PISOS PLASTIFIC 900ML                                   7790520986757 N               12 
+7730900780001 861141               GLADE "SPA" 360 CM3                                                    7790520986764 N                6 
+7730900780001 862018               BLEM LUSTRA REPUESTO 500CC                                             7790520002204 N               12 
+7730900780001 862023               BLEM LUSTRA CREMA 270ML                                                     77901590 N               12 
+7730900780001 862025               BLEM LUSTRA AERO CLASICO 400CC                                         7790520981936 N               12 
+7730900780001 862031               KIT CERA AEROSOL 400 CM3                                               7805050582734 N               12 
+7730900780001 862033               KIT RENOVADOR AEROSOL 400 CM3                                          7805050705034 N               12 
+7730900780001 862041               KLARO APRESTO AEROSOL 400CM3                                           7790520200303 N                6 
+7730900780001 864856               GLADE ROCIO BRISA DE LAS CUMBRES 360 CC                                7790520987389 N                6 
+7730900780001 865249               LYSOFORM LIMPIADOR LIQUIDO ORIGINAL DOY PACK 800                       7790520987440 N               12 
+7730900780001 865250               LYSOFORM LIMPIADOR LIQUIDO ORIGINAL BOTELLA 900ML                      7790520987433 N               12 
+7730900780001 865251               LYSOFORM LAVANDA DP X 450 CM3                                          7790520987457 N               12 
+7730900780001 865259               LYSOFORM CANASTA LIQUIDA APARATO X 50 CM3                              7790520981875 N               12 
+7730900780001 865260               LYSOFORM CANASTA LIQUIDA REPUESTO X 55 CM3                             7790520981882 N               12 
+7730900780001 865261               GLADE CANASTA LIQUIDA APARATO LAVANDA X 50 CM3                         7790520552877 N               12 
+7730900780001 865262               GLADE CANASTA LIQUIDA REP LAVANDA X 50 CM3                             7790520552891 N               12 
+7730900780001 865263               GLADE CANASTA REP SPA                                                  7790520987068 N               12 
+7730900780001 865264               MR. MUSCULO CANASTA FULL MARINA                                        7790520552808 N               12 
+7730900780001 865265               MR. MUSCULO CANASTA REP MARINA                                         7790520552815 N               12 
+7730900780001 865266               MR. MUSCULO CANASTA REP PINO                                           7790520552839 N               12 
+7730900780001 90215                LYSOFORM BEBE 360 CM3                                                  7790520986801 N                6 
+7730900780001 90629                GLADE ANTITABACO 360 CM3                                               7790520985811 N                6 
+7730900780001 91127                GLADE CAMPOS DE JAZMIN 360 CM3                                         7790520985750 N                6 
+7730900780001 91144                GLADE BOSQUE DE PINOS 360 CM3                                          7790520985767 N                6 
+7730900780001 91145                GLADE I LOVE YOU  360CM3                                               7790520985781 N                6 
+7730900780001 93108                LYSOFORM PARA INODORO 500 CM3                                          7790520984821 N               12 
+7730900780001 93154                LYSOFORM LIMPIADOR LIQUIDO BEBE DOY PACK 450 CM3                       7790520986504 N               12 
+7730900780001 96157                GLADE GLASS SCENTS APARATO NECTAR                                      7790520986566 N               12 
+7730900780001 96274                GLADE ENCHUFE REPUESTO                                                 7790520985200 N               12 
+7730900780001 96275                GLADE GLASS SCENTS REPUESTO                                            7790520986573 N               12 
+7730900780001 97218                GLADE TOQUE REPUESTO PINO                                              7790520972156 N               12 
+7730900780001 97228                GLADE TOQUE REPUESTO LAVANDA                                           7790520972255 N               12 
+7730900780001 97425                GLADE TOQUE APARATO CITRICO                                            7790520985163 N               12 
+7730900780001 97426                GLADE TOQUE REPUESTO CITRICO                                           7790520985170 N               12 
+7730900780001 97451                GLADE TOQUE APARATO ESTILO SPA                                         7790520986122 N               12 
+7730900780001 97469                GLADE TOQUE  REPUESTO SPA                                              7790520986139 N               12 
+7730900780001 97476                GLADE TOQUE  REPUESTO I LOVE YOU                                       7790520986146 N               12 
+7730900780001 97527                GLADE TOQUE APARATO LAVANDA + BEBE                                     7790520972200 N               12 
+7730900780001 97788                LYSOFORM TOQUE APARATO AIRE MONTAÑA                                    7790520985545 N               12 
+7730900780001 97796                LYSOFORM TOQUE REPUESTO                                                7790520985552 N               12 
+7730900780001 97945                GLADE TOQUE REPUESTO TWIN PACK                                         7790520985019 N                6 
+7730900780001 97946                GLADE TOQUE APARATO BRISA DE CUMBRES                                   7790520987402 N               12 
+7730900780001 98048                GLADE AUTO SPORT APARATO ACQUA                                         7501032920142 N                6 
+7730900780001 98066                GLADE AUTO SPORT REPUESTO MIX (ACQUA,BRISA,VAINILLA)                   7501032920173 N               12 
+7730900780001 98076                GLADE AUTO SPORT APARATO ATTRACTION                                    7790520987167 N                6 
+7730900780001 98077                GLADE AUTO SPORT APARATO FLORAL                                        7790520987143 N                6 
+7730900780001 98083                GLADE AUTOSPORT REPUESTO ATTRACTION                                    7790520987150 N               12 
+7730900780001 98085                GLADE AUTOSPORT REPUESTO FLORAL + LOVE                                 7790520987136 N               12 
+7730900780001 98105                GLADE TOQUE REPUESTO BRISA DE CUMBRES                                  7790520987426 N               12 

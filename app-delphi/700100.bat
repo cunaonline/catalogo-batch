@@ -1,0 +1,1 @@
+CatalogoBatch l=700100:ean700 g=7737001000007 f=XML

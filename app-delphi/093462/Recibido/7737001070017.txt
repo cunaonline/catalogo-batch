@@ -1,0 +1,559 @@
+GLN Proveedor CPP                  Descripción                                                                   GTIN13 Pide x unid Unid/c 
+7737001070017 100780               REXONA JAB ANTIBACTERIAL FRESH 72X125GR                                7791293003023 N               72 
+7737001070017 100806               REXONA JAB ANTIBAC TONIC 72X125GR                                      7791293554433 N               72 
+7737001070017 100807               REXONA JAB ANTIBAC SENSIVE 72X125G                                     7791293554440 N               72 
+7737001070017 103534               SUN POLVO P/MAQ LV VAJ 12X1KG                                          7891038196802 N               12 
+7737001070017 103745               HUGGIES LITTLE SWIMMERS DISNEY GDE8X10UN                                 36000183450 N                8 
+7737001070017 104112               HUGGIES LITTLE SWIMMERS DISNEY PEQ8X12UN                                 36000183399 N                8 
+7737001070017 104115               HUGGIES LITTLE SWIMMERS DISNEY MED8X11UN                                 36000183429 N                8 
+7737001070017 106101               CIF CREM C/LVDINA 12X750GR                                             7791290780606 N               12 
+7737001070017 107099               SEDAL SH DUO REG 24X24X10ML                                            7791293003399 N              576 
+7737001070017 109238               SEDAL SH CONTR HUMECT REG 24X24X10ML                                   7791293003344 N              576 
+7737001070017 111749               REXONA DEO ROLLON CITRUS 12X53GR                                            78918603 N               12 
+7737001070017 115766               CLOSE UP CD TRIPLE MENTA AMERICANA 12X90                               7891037013520 N               12 
+7737001070017 115956               REXONA DEO STICK MAXIMUS 12X45GR                                            78009363 N               12 
+7737001070017 118533               CIF LV VAJ ULTRA NARANJA 12X300ML                                      7791290781047 N               12 
+7737001070017 118588               SUAVE SH RULOS DEFENIDOS 12X350ML                                      7898422740726 N               12 
+7737001070017 118591               SUAVE SH LISO PERFECTO 12X350ML                                        7898422740764 N               12 
+7737001070017 118612               SUAVE SH ANTICASPA 12X350ML                                            7898422740771 N               12 
+7737001070017 118614               SUAVE AC RULOS DEFINIDOS 12X350ML                                      7898422740801 N               12 
+7737001070017 118617               SUAVE AC LISO PERFECTO 12X350ML                                        7898422740832 N               12 
+7737001070017 118937               KLEENEX PANUELO FAC SOFTPACK CH 72X45UN                                7798038151100 N               72 
+7737001070017 118941               KLEENEX PANUELO FAC SOFTPACK GDE 48X45UN                               7798038151094 N               48 
+7737001070017 118947               KLEENEX SOFTPK MINI CHICO 60X12UN                                      7798038151667 N               60 
+7737001070017 118952               KLEENEX PAPEL HIG U S D HOJA 30MT 8X6UN                                7798038150790 N                8 
+7737001070017 118977               KLEENEX PANUELO FAC CUBO C/AROMA 24X75UN                               7798038151698 N               24 
+7737001070017 119280               DOVE SH ESSENTIAL CARE SCH 4X24X10ML                                   7791293005799 N               96 
+7737001070017 119284               DOVE AC ESSENTIAL CARE SCH 4X24X10ML                                   7791293005812 N               96 
+7737001070017 119288               DOVE SH THERAPY SCH 4X24X10ML                                          7791293005805 N               96 
+7737001070017 119290               DOVE AC THERAPY SCH 4X24X10ML                                          7791293005829 N               96 
+7737001070017 120116               PONDS LOC BIO HYDRATANTE SPF 12X200ML                                  7501056330361 S               12 
+7737001070017 120117               PONDS LOC BIO HYDRATANTE DUAL 12X200ML                                 7501056330378 S               12 
+7737001070017 120298               PONDS LOC TONICA ASTRING 12X200ML                                      7501056330385 S               12 
+7737001070017 121694               LUX JAB CREAMY PERFECTION 72X125GR                                     7898422744632 N               72 
+7737001070017 13035                REXONA DEO ROLLON COBALT 12X53GR (50ML)                                     78915237 N               12 
+7737001070017 130916               REXONA DEO ROLLON CRYSTAL 12X53GR/50ML                                      78921030 N               12 
+7737001070017 133167               LUX JAB DELICADEZA DE PETALOS 24X3X125GR                               7791293006536 N               24 
+7737001070017 133169               LUX JAB PERFECCION CREMOSA 24X3X125GR                                  7791293006451 N               24 
+7737001070017 133172               LUX JAB FRESCURA ENERGIZANTE 72X125GR                                  7791293006543 N               72 
+7737001070017 136059               DOVE LOC HIDRATACION FRESCA 12X200ML                                   7898422745356 S               12 
+7737001070017 137010               REXONA DEO STICK AP CRYSTAL 12X50GR                                         75021887 N               12 
+7737001070017 138095               KIMBIES BASICO XGDE 14X8UN                                             7794626908460 N               14 
+7737001070017 138098               KIMBIES BASICO GDE 5X40UN                                              7794626008511 N                5 
+7737001070017 138101               KIMBIES BASICO GDE 14X10UN                                             7794626908453 N               14 
+7737001070017 142236               SUAVE SH FRUVIT NORMAL 12X350ML                                        7791293007298 N               12 
+7737001070017 142239               SUAVE AC FRUVIT NORMAL 12X350ML                                        7791293007335 N               12 
+7737001070017 145189               CIF ANTIG REP ECON DOYP 12X500ML                                       7791290781849 N               12 
+7737001070017 145192               CIF BANOS REP ECON DOYP 12X500ML                                       7791290781856 N               12 
+7737001070017 145193               CIF VIDRIOS REP ECON DOYP 12X500ML                                     7791290781863 N               12 
+7737001070017 146879               DOVE DEO STICK AP FRESH TOUCH 12X50GR                                       75022792 N               12 
+7737001070017 146884               DOVE DEO AER AP CLEAR TONE 12X100GR                                    7791293008110 N               12 
+7737001070017 147497               PONDS CR S 6X100GR                                                     7501056326142 S                6 
+7737001070017 147498               PONDS CR BIOHIDRATANTE 6X100GR                                         7501056330330 S                6 
+7737001070017 147508               PONDS CR REJUVENESS 6X100GR                                            7501056330491 S                6 
+7737001070017 147510               PONDS CR C 6X100GR                                                     7501056324889 S                6 
+7737001070017 147511               PONDS CR C 6X50GR                                                      7501056326265 S                6 
+7737001070017 147523               PONDS CR REJUVENESS 6X50GR                                             7501056330484 S                6 
+7737001070017 147525               PONDS CR S 6X50GR                                                      7501056325442 S                6 
+7737001070017 147526               PONDS CR BIOHIDRATANTE 6X50GR                                          7501056330323 S                6 
+7737001070017 147638               COMFORT SUAVIZ CLASSIC DOYP 12X900ML                                   7791290007987 N               12 
+7737001070017 14862                REXONA DEO STICK AP BAMBOO 12X50GR                                          78004498 N               12 
+7737001070017 14867                REXONA DEO ROLLON BAMBOO 12X53GR (50ML)                                     78915220 N               12 
+7737001070017 148746               SCOTT PAPEL HIG PLUS PRACTICO 24X40UN                                  7751493002103 N               24 
+7737001070017 149040               MIMOSA P D 40X40UN                                                     7736550002753 N               40 
+7737001070017 149044               MIMOSA P D 60X20UN                                                     7806550813205 N               60 
+7737001070017 149734               SUAVE AC MANZANA VERDE 8X930ML                                         7791293008394 N                8 
+7737001070017 149736               SUAVE AC MULTIVITAMINAS E Y B 8X930ML                                  7791293008400 N                8 
+7737001070017 149750               SUAVE SH MANZANA VERDE 8X930ML                                         7791293008349 N                8 
+7737001070017 149751               SUAVE SH MULTIVITAMINAS E Y B 8X930ML                                  7791293008356 N                8 
+7737001070017 149946               MIMOSA TOALLA FEM NORM ULTRA C/ALA 48X8U                               7793620400031 N               48 
+7737001070017 150115               COMFORT SUAVIZ CR ES JOJOBA DOYP12X900ML                               7791290782198 N               12 
+7737001070017 150117               COMFORT SUAVIZ CR ES ALMEND DOYP12X900ML                               7791290782204 N               12 
+7737001070017 151745               DOVE JAB BLANCO 48X90GR                                                7898422746759 N               48 
+7737001070017 151748               DOVE JAB REAFIRMANTE 48X90GR                                           7898422746810 N               48 
+7737001070017 151750               DOVE JAB HIDRATACION FRESCA 48X90GR                                    7898422746803 N               48 
+7737001070017 151752               DOVE JAB EXFOLIACION 48X90GR                                           7898422746827 N               48 
+7737001070017 151859               PLENITUD TOALLA ADULTO DEP EXT EXP 24X8U                               7896007520329 N               24 
+7737001070017 154057               PONDS CR H 6X50GR                                                      7501056325381 S                6 
+7737001070017 154183               REXONA ACTR DEO AER AP FUN SPIRIT 12X60G                               7791293009131 N               12 
+7737001070017 154815               REXONA DEO ROL T FUN SPIRIT 12X53GR/50ML                                    78921740 N               12 
+7737001070017 154844               PLENITUD PROT ADULTO DEP U MINI 40X14UN                                7896007520237 N               40 
+7737001070017 154845               PLENITUD TOALLA ADULTO DEP NORMAL 26X8UN                               7793620923202 N               26 
+7737001070017 155192               AXE DEO STICK VICE 12X54GR                                                  75024499 N               12 
+7737001070017 155440               DAYS TOALLA FEM ESENC S/ALAS DPK 24X16UN                               7736550098978 N               24 
+7737001070017 155445               KOTEX DAYS TOALLA FEM MULTIF DPK 20X16UN                               7736550079113 N               20 
+7737001070017 155676               REXONA JAB ANTIB FRESH 24X3X125G+15%DESC                               7730165319602 N               24 
+7737001070017 155677               REXONA JAB ANTIB SENS 24X3X125G+15%DESC                                7730165319589 N               24 
+7737001070017 155712               REXONA JAB ANTIB TONIC 24X3X125G+15%DESC                               7730165319596 N               24 
+7737001070017 155748               AXE DEO ROLLON VICE 12X53GR/50ML                                            78921795 N               12 
+7737001070017 157575               REXONA DEO AER AP V8 12X105GR                                          7791293009780 N               12 
+7737001070017 158169               SEDAL AC SOS REPARACION?4X24X10ML                                      7791293990064 N               96 
+7737001070017 158170               SEDAL SH?SOS REPARACION?4X24X15ML                                      7791293990088 N               96 
+7737001070017 158639               IMPULSE DEO AER SIREN 12X53GR                                          7791293992167 N               12 
+7737001070017 158642               IMPULSE DEO AER GODDESS 12X53GR                                        7791293992174 N               12 
+7737001070017 158674               DOVE DEO STICK INVISIBLE DRY 12X50GR                                        75024765 N               12 
+7737001070017 158680               DOVE CR AUTOBR SUMMER T MOR OSC 12X200ML                               7898422748647 N               12 
+7737001070017 159749               IMPULSE DEO AER MUSK 12X103GR                                          7791293208886 N               12 
+7737001070017 159753               IMPULSE DEO AER DYNAMIQUE 12X103GR                                     7791293208893 N               12 
+7737001070017 160014               CIF POWER CREAM BANO DOYP 12X500ML                                     7791290782327 N               12 
+7737001070017 160025               CIF POWER CREAM COCINA DOYP 12X500ML                                   7791290782341 N               12 
+7737001070017 160031               DOVE CR AUTOBR SUMMER T BCA CLARA12X200M                               7898422748692 N               12 
+7737001070017 160046               CIF POWER CREAM COCINA GTL 12X500ML                                    7791290782334 N               12 
+7737001070017 160050               CIF POWER CREAM BANO GTL 12X500ML                                      7791290782310 N               12 
+7737001070017 160322               NEVEX M C/TOQ VIVERE VIOL FL BCA 24X400G                               7791290782631 N               24 
+7737001070017 160323               NEVEX M C/TOQ VIVERE VIOL FL BCA 24X800G                               7791290782624 N               24 
+7737001070017 160324               NEVEX REG TOQ VIVERE VIOL FL BCA 24X800G                               7791290782617 N               24 
+7737001070017 160383               REXONA DEO STICK AP V8 12X50GR                                              75024956 N               12 
+7737001070017 161853               SKIP LIQ CONC 12X270ML                                                 7791290782587 N               12 
+7737001070017 161876               SKIP LIQ CONC 12X500ML                                                 7791290782594 N               12 
+7737001070017 162408               REXONA DEO ROLLON V8 12X53GR/50ML                                           78921993 N               12 
+7737001070017 162448               SKIP LIQ CONC 12X1LT                                                   7791290782600 N               12 
+7737001070017 162949               CIF ANTIG DOYP 4X500ML+BANO+VIDRIOS+20%                                7730165320790 N                4 
+7737001070017 163079               NEVEX MATIC POLVO BABY 24X800GR                                        7791290782730 N               24 
+7737001070017 163243               AXE GEL DUCHA CLICK 12X250ML/258GR                                     7791293021355 N               12 
+7737001070017 163250               AXE GEL DUCHA VICE 12X250ML/258GR                                      7791293021362 N               12 
+7737001070017 163252               AXE GEL DUCHA TOUCH 12X250ML/258GR                                     7791293021379 N               12 
+7737001070017 163255               AXE GEL DUCHA MARINE 12X250ML/258GR                                    7791293021386 N               12 
+7737001070017 164015               REXONA DEO AER AP WOMEN CRYSTAL 12X105GR                               7791293006420 N               12 
+7737001070017 164021               REXONA DEO AER AP WOMEN CITRUS 12X105GR                                7791293004020 N               12 
+7737001070017 164024               REXONA DEO AER AP WOMEN BAMBOO 12X105GR                                7791293884592 N               12 
+7737001070017 164053               REXONA DEO AER AP B ACT SENSIT 12X105GR                                7791293001425 N               12 
+7737001070017 164069               REXONA DEO AER MEN FRESH MAXIMUS12X113GR                               7791293004266 N               12 
+7737001070017 164076               REXONA DEO AER MEN FRESH COBALT 12X113GR                               7791293000121 N               12 
+7737001070017 164128               REXONA DEO AER AP WOMEN INTENSE 12X105GR                               7791293974224 N               12 
+7737001070017 164129               REXONA DEO AER MEN B ACT POWER 12X105GR                                7791293974217 N               12 
+7737001070017 164131               REXONA EFFICIENT AER 12X102GR                                          7791293895062 N               12 
+7737001070017 164448               DOVE AC CONTROL QUEDA THERAPY 12X250ML                                 7898422747923 N               12 
+7737001070017 164449               DOVE AC CONTROL QUEDA THERAPY 12X400ML                                 7898422749156 N               12 
+7737001070017 164459               DOVE MASC TRAT CONTR CAIDA THER 12X250ML                               7898422747947 N               12 
+7737001070017 164467               DOVE SH CONTROL CAIDA THERAPY 12X400ML                                 7898422749163 N               12 
+7737001070017 164473               DOVE SH CONTROL QUEDA THERAPY 12X250ML                                 7898422747916 N               12 
+7737001070017 164643               REXONA DEO ROLLON INTENSE 12X53GR/50ML                                      78922099 N               12 
+7737001070017 164648               REXONA DEO ROL FOR MAN POWER12X53GR/50ML                                    78922082 N               12 
+7737001070017 164961               HUGGIES CLASSIC WAVE PEQ 16X14UN                                       7794626923050 N               16 
+7737001070017 164963               HUGGIES CLASSIC WAVE MED 15X12UN                                       7794626923067 N               15 
+7737001070017 164965               HUGGIES CLASSIC WAVE GDE 10X10UN                                       7794626923074 N               10 
+7737001070017 164967               HUGGIES CLASSIC WAVE XXGDE 16X8UN                                      7794626923098 N               16 
+7737001070017 164969               HUGGIES CLASSIC WAVE MED 10X18UN                                       7794626923111 N               10 
+7737001070017 164971               HUGGIES CLASSIC WAVE GDE 10X16UN                                       7794626923128 N               10 
+7737001070017 164973               HUGGIES CLASSIC WAVE XGDE 16X14UN                                      7794626923135 N               16 
+7737001070017 164976               HUGGIES CLASSIC WAVE XXGDE16X14UN                                      7794626923142 N               16 
+7737001070017 164980               HUGGIES CLASSIC WAVE PEQ 5X40UN                                        7794626923159 N                5 
+7737001070017 164982               HUGGIES CLASSIC WAVE MED 5X36UN                                        7794626923166 N                5 
+7737001070017 164983               HUGGIES CLASSIC WAVE GDE 5X30UN                                        7794626923173 N                5 
+7737001070017 164985               HUGGIES CLASSIC WAVE XGDE 10X24UN                                      7794626923180 N               10 
+7737001070017 164986               HUGGIES CLASSIC WAVE XXGDE 10X24UN                                     7794626923197 N               10 
+7737001070017 165614               HUGGIES PULL UPS UNISEX GDE 6X12UN                                     7809604012074 N                6 
+7737001070017 165662               HUGGIES PULL UPS UNISEX XGDE 6X10UN                                    7809604012043 N                6 
+7737001070017 165668               HUGGIES PULL UPS UNISEX XXGDE 6X8UN                                    7809604012050 N                6 
+7737001070017 165980               AXE DEO AER AP VICE 12X90GR/152ML                                      7791293009179 N               12 
+7737001070017 165983               AXE DEO AER AP CONVICTION 12X90GR/152ML                                7791293999715 N               12 
+7737001070017 165984               AXE DEO AER AP CLICK 12X90GR/152ML                                     7791293005584 N               12 
+7737001070017 165989               AXE DEO AER MUSK 12X113GR/160ML                                        7791293022130 N               12 
+7737001070017 165990               AXE DEO AER MARINE 12X113GR/160ML                                      7791293022437 N               12 
+7737001070017 165992               AXE DEO AER FUSION 12X113GR/160ML                                      7791293028187 N               12 
+7737001070017 165995               AXE DEO AER CONVICTION 12X113GR/160ML                                  7791293127767 N               12 
+7737001070017 165997               AXE DEO AER CLICK 12X113GR/160ML                                       7791293005577 N               12 
+7737001070017 165999               AXE DEO AER BODYSPRAY VICE 12X113GR                                    7791293009193 N               12 
+7737001070017 166166               NEVEX JAB BAR 84X200GR                                                 7791290677937 N               84 
+7737001070017 166340               DOVE AC CACHOS THERAPY 12X250ML                                        7898422744939 N               12 
+7737001070017 166341               DOVE AC DANO ACUMULADO THERAPY 12X250ML                                7891037013582 N               12 
+7737001070017 166342               DOVE SH DANO ACUMULADO THERAPY 12X250ML                                7891037013551 N               12 
+7737001070017 166343               DOVE MASC TRAT COL THER DESCOL 12X250ML                                7898422742669 N               12 
+7737001070017 166344               DOVE SH HIDRO THERAPY 12X250ML                                         7891037013544 N               12 
+7737001070017 166345               DOVE SH CACHOS THERAPY 12X250ML                                        7898422744946 N               12 
+7737001070017 166347               DOVE SH COLOR THER CAB ACLARADO 12X250ML                               7898422742560 N               12 
+7737001070017 166348               DOVE AC HIDRO THERAPY 12X250ML                                         7891037013575 N               12 
+7737001070017 166349               DOVE CR PEINAR HIDRO THERAPY 12X215ML                                  7891037013599 N               12 
+7737001070017 166350               DOVE CR PEINAR DANO ACUM THER 12X200ML                                 7891037013629 N               12 
+7737001070017 166351               DOVE AC COLOR THER CAB ACLARADO 12X250ML                               7898422742584 N               12 
+7737001070017 166352               DOVE CR PEINAR RIZOS THERAPY 12X200ML                                  7898422744915 N               12 
+7737001070017 166536               DOVE MASC TRAT DANO ACUM THER 12X250ML                                 7898422749064 N               12 
+7737001070017 166540               DOVE AC LISOS THERAPY 12X250ML                                         7898422745288 N               12 
+7737001070017 166541               DOVE CR PEIN LISOS THERAPY 12X200ML                                    7898422745295 N               12 
+7737001070017 166548               DOVE SH LISOS THERAPY 12X250ML                                         7898422745264 N               12 
+7737001070017 166555               DOVE AC COLOR THERAPY TENIDO 12X250ML                                  7898422742706 N               12 
+7737001070017 166557               DOVE MASC TRAT COLOR THER TENI 12X250ML                                7898422742676 N               12 
+7737001070017 166558               DOVE SH COLOR THERAPY TENIDOS 12X250ML                                 7898422742577 N               12 
+7737001070017 166575               DOVE AC RIZOS THERAPY 12X400ML                                         7791293006857 N               12 
+7737001070017 166591               REXONA DEO STICK POWER 12X50GR                                              75025274 N               12 
+7737001070017 166594               REXONA DEO STICK INTENSE 12X50GR                                            75025267 N               12 
+7737001070017 166639               DOVE SH RIZOS THERAPY 12X400ML                                         7791293006840 N               12 
+7737001070017 166640               DOVE SH DANO ACUM THERAPY 12X400ML                                     7791293005010 N               12 
+7737001070017 166642               DOVE AC DANO ACUM THERAPY 12X400ML                                     7791293004976 N               12 
+7737001070017 166644               DOVE AC HIDRO THERAPY 12X400ML                                         7791293004983 N               12 
+7737001070017 166645               DOVE SH HIDRO THERAPY 12X400ML                                         7791293005027 N               12 
+7737001070017 166646               DOVE AC LISO THERAPY 12X400ML                                          7791293006819 N               12 
+7737001070017 166651               DOVE SH LISO THERAPY 12X400ML                                          7791293006802 N               12 
+7737001070017 167973               REXONA JAB PURE FRESH 72X125GR                                         7791293990132 N               72 
+7737001070017 167974               REXONA JAB V8 72X125GR                                                 7791293990330 N               72 
+7737001070017 168068               REXONA JAB PURE FRESH 24X3X125GR                                       7791293990163 N               24 
+7737001070017 168070               REXONA JAB V8 24X3X125GR                                               7791293990361 N               24 
+7737001070017 168647               REXONA DEO AER AP WOMEN HAPPY 12X135ML                                 7791293995588 N               12 
+7737001070017 168648               REXONA DEO AER AP WOMEN SHINY 12X135ML                                 7791293995595 N               12 
+7737001070017 168654               REXONA DEO AER AP WOMEN SEXY 12X135ML                                  7791293995571 N               12 
+7737001070017 168927               LIGHTDAYS P D MFORMA S/PERF DERM 48X20UN                               7793620923578 N               48 
+7737001070017 168932               LIGHTDAYS P D MFORMA S/PERF DERM12X120UN                               7793620923585 N               12 
+7737001070017 168933               LIGHTDAYS P D MFORMA C/PERF DERM 48X20UN                               7793620923592 N               48 
+7737001070017 168936               LIGHTDAYS P D MFORMA C/ALAS DERM 48X20UN                               7793620923608 N               48 
+7737001070017 168941               LIGHTDAYS P D CLASSIC DERM 15X80UN                                     7793620923646 N               15 
+7737001070017 168943               LIGHTDAYS P D SENSITIVE DERM 15X80UN                                   7793620923653 N               15 
+7737001070017 168944               LIGHTDAYS P D CLASSIC DERM 48X20UN                                     7793620923615 N               48 
+7737001070017 168946               LIGHTDAYS P D SENSITIVE DERM 48X20UN                                   7793620923622 N               48 
+7737001070017 168948               LIGHTDAYS P D MFORMA S/PERF DERM 12X80UN                               7793620923639 N               12 
+7737001070017 168987               DOVE JAB REGULAR 12X4X90GR PRM 4X3                                     7730165321537 N               12 
+7737001070017 169019               SCOTT PAPEL HIG SHJ EXTR ALG 30MT 8X6UN                                7798038157447 N                8 
+7737001070017 169021               SCOTT PAPEL HIG SHJ EXTR ALG 30MT 4X12UN                               7798038157461 N                4 
+7737001070017 169022               SCOTT PAPEL HIG 30MT SHJ EXTR ALG 12X4UN                               7798038157430 N               12 
+7737001070017 169023               SCOTT PAP HIG MEGA SHJ EXT ALG 90M12X4UN                               7798038157485 N               12 
+7737001070017 169031               SCOTT P H PLUS DOB HOJA 20MT 12X4UN+ABS                                7798038157515 N               12 
+7737001070017 169224               NEVEX LV VAJ PODER NATURALEZA 15X750ML                                 7730165319183 N               15 
+7737001070017 169226               NEVEX LV VAJ ALOE VERA 15X750ML                                        7730165317486 N               15 
+7737001070017 169227               NEVEX LV VAJ LIMON 15X750ML                                            7730165317479 N               15 
+7737001070017 169228               NEVEX LV VAJ LIMON 12X1250ML                                           7730165317424 N               12 
+7737001070017 169230               NEVEX LV VAJ ALOE VERA 12X1250ML                                       7730165317448 N               12 
+7737001070017 169231               NEVEX LV VAJ CLASICO 12X1250ML                                         7730165318087 N               12 
+7737001070017 169232               NEVEX LV VAJ COLAGENO GLIC 12X1250ML                                   7730165318094 N               12 
+7737001070017 169233               NEVEX LV VAJ PODER NATURALEZA 12X1250ML                                7730165319190 N               12 
+7737001070017 169234               NEVEX LV VAJ LIMON 6X2LT                                               7730165317493 N                6 
+7737001070017 169788               SUAVE SH PALTA Y OLIVA 8X930ML                                         7791293973173 N                8 
+7737001070017 169789               SUAVE SH MIEL Y ALMENDRAS 8X930ML                                      7791293973197 N                8 
+7737001070017 169790               SUAVE SH COCO Y LECHE 8X930ML                                          7791293973210 N                8 
+7737001070017 169792               SUAVE SH VAINILLA Y CANELA 8X930ML                                     7791293973234 N                8 
+7737001070017 169803               SUAVE AC PALTA Y OLIVA 8X930ML                                         7791293973180 N                8 
+7737001070017 169804               SUAVE AC MIEL Y ALMENDRAS 8X930ML                                      7791293973203 N                8 
+7737001070017 169806               SUAVE AC COCO Y LECHE 8X930ML                                          7791293973227 N                8 
+7737001070017 169810               SUAVE AC VAINILLA Y CANELA 8X930ML                                     7791293973241 N                8 
+7737001070017 169820               PATRICHS DEO AER AIR 12X105GR                                          7791293689104 N               12 
+7737001070017 169822               PATRICHS DEO AER TERRA 12X105GR                                        7791293689128 N               12 
+7737001070017 169824               PATRICHS DEO AER LUOMO 12X105GR                                        7791293689111 N               12 
+7737001070017 169828               LUX JAB BRILLA 72X125GR                                                7791293983806 N               72 
+7737001070017 169829               LUX JAB EXFOLIACION DELICADA 72X125GR                                  7791293983851 N               72 
+7737001070017 169922               LUX JAB EXFOLIACION DELICADA 24X3X125GR                                7791293983899 N               24 
+7737001070017 169923               DOVE DEO AER AP PRO AGE 12X100GR                                       7791293067049 N               12 
+7737001070017 170179               SKIP POLVO GLICERYN COMPLEX 24X800GR                                   7791290783089 N               24 
+7737001070017 170182               SKIP POLVO SISTEMA ULTRA BLACK 24X800GR                                7791290783133 N               24 
+7737001070017 170183               SKIP POLVO SISTEMA UV COLOR 24X800GR                                   7791290783140 N               24 
+7737001070017 170219               SKIP POLVO GLICERYN COMPLEX 24X400GR                                   7791290783072 N               24 
+7737001070017 170221               SKIP POLVO GLICERYN COMPLEX 4X4KG                                      7791290783119 N                4 
+7737001070017 170222               SKIP POLVO GLICERYN COMPLEX 6X3KG                                      7791290783102 N                6 
+7737001070017 170223               SKIP POLVO GLICERYN COMPLEX 15X1,5KG                                   7791290783096 N               15 
+7737001070017 170469               SCOTT P HIG PLUS DOB HOJA 20MT 8X6UN+ABS                               7798038157522 N                8 
+7737001070017 170503               AXE SHOWER GEL CLICK 6X250ML PRM ESPJ                                  7791293528205 N                6 
+7737001070017 170742               REXONA TEENS AER AP DANCE 12X60G ED LTDA                               7791293357669 N               12 
+7737001070017 171460               HUGGIES ACTIVE SEC SPONGE GDE 10X10UN                                  7794626922886 N               10 
+7737001070017 171463               HUGGIES ACTIVE SEC SPONGE XGDE 16X8UN                                  7794626922893 N               16 
+7737001070017 171468               NEVEX MATIC POLVO C/VIVERE CLAS 24X800GR                               7791290783294 N               24 
+7737001070017 171473               HUGGIES ACTIVE SEC SPONGE XXGDE 10X24UN                                7794626922992 N               10 
+7737001070017 171477               HUGGIES ACTIVE SEC SPONGE MED 10X18UN                                  7794626922923 N               10 
+7737001070017 171478               HUGGIES ACTIVE SEC SPONGE GDE 5X30UN                                   7794626922978 N                5 
+7737001070017 171480               HUGGIES ACTIVE SEC SPONGE XG 10X24UN                                   7794626922985 N               10 
+7737001070017 171497               HUGGIES ACTIVE SEC SPONGE GDE 10X16UN                                  7794626922930 N               10 
+7737001070017 171499               HUGGIES ACTIVE SEC SPONGE XGDE 16X14UN                                 7794626922947 N               16 
+7737001070017 171502               HUGGIES ACTIVE SEC SPONGE XXGDE 16X14UN                                7794626922954 N               16 
+7737001070017 171503               HUGGIES ACTIVE SEC SPONGE MED 5X36UN                                   7794626922961 N                5 
+7737001070017 171578               PONDS TOALLAS DESMAQ EXF 12X30UN                                        305210119345 S               12 
+7737001070017 171581               PONDS TOALLA DESMAQ P NORM/SECA 12X30UN                                 305210119338 S               12 
+7737001070017 172276               PATRICHS DEO AER AIR12X105G+COLONIA+DESC                               7730165321957 N               12 
+7737001070017 172913               HUGGIES CLASSIC WAVE MED 3X72UN                                        7794626923449 N                3 
+7737001070017 172916               HUGGIES CLASSIC WAVE GDE 4X60UN                                        7794626923456 N                4 
+7737001070017 172917               HUGGIES CLASSIC WAVE XGDE 4X48UN                                       7794626923463 N                4 
+7737001070017 172919               HUGGIES CLASSIC WAVE XXGDE 4X48UN                                      7794626923470 N                4 
+7737001070017 172953               AXE AER DEO DARK TEMPT 12X113GR/160ML                                  7791293995755 N               12 
+7737001070017 173127               HUGGIES ACTIVE SEC SPONGE GDE 4X60UN                                   7794626923395 N                4 
+7737001070017 173130               HUGGIES ACTIVE SEC SPONGE XGDE 4X48UN                                  7794626923425 N                4 
+7737001070017 173135               HUGGIES ACTIVE SEC SPONGE XXGDE 4X48UN                                 7794626923432 N                4 
+7737001070017 173152               HUGGIES ACTIVE SEC SPONGE MED 3X72UN                                   7794626923388 N                3 
+7737001070017 173180               CIF VIDRIOS MULTIUSO REP 12X500ML                                      7791290771611 N               12 
+7737001070017 173181               CIF BANOS MULTIUSO REP 12X500ML                                        7791290771635 N               12 
+7737001070017 173189               CIF ANTIG RFL 12X500ML                                                 7791290771598 N               12 
+7737001070017 173329               DOVE CR P/ MANOS PRO AGE 6X75ML                                        7898422751210 N                6 
+7737001070017 173330               DOVE CR CORPORAL BELLE PRO AGE 12X200ML                                7898422751227 N               12 
+7737001070017 173465               DOVE JAB PRO AGE 48X90GR                                               7898422750572 N               48 
+7737001070017 174277               VIVERE CLASICO AC P/ROPA DOYP 12X900ML                                 7791290783478 N               12 
+7737001070017 174283               PONDS CR REJUV 6X100GR+CR C 50G PRM DESC                               7730165322077 S                6 
+7737001070017 174483               AXE DEO ROLLON DARK TEMP 12X53GR/50ML                                       78922631 N               12 
+7737001070017 174876               DRIVE POLVO REG UN DIA EN PARQUE 24X400G                               7791290783348 N               24 
+7737001070017 174881               DRIVE POLVO REG BANO DE BLANCURA 24X400G                               7791290783355 N               24 
+7737001070017 174882               DOVE JAB MIXTO 8X6X90GR PRM 6X5                                        7730165322305 N                8 
+7737001070017 174884               DRIVE MATIC POLVO UN DIA EN PARQ 24X400G                               7791290783409 N               24 
+7737001070017 174886               DRIVE MATIC POLVO BANO DE BLANC 24X400GR                               7791290783416 N               24 
+7737001070017 174887               DRIVE MATIC POLVO BAIL BAJO LLUV 24X400G                               7791290783423 N               24 
+7737001070017 174894               DRIVE POLVO REG UN DIA EN PARQUE 24X800G                               7791290783379 N               24 
+7737001070017 174899               DRIVE POLVO REG BANO DE BLANCURA 24X800G                               7791290783386 N               24 
+7737001070017 174907               DRIVE MATIC POLVO UN DIA EN PARQ 24X800G                               7791290783430 N               24 
+7737001070017 174911               DRIVE MATIC POLVO BAIL BAJO LLUV 24X800G                               7791290783454 N               24 
+7737001070017 174915               DRIVE MATIC POLVO BANO DE BLANC 24X800GR                               7791290783447 N               24 
+7737001070017 175046               DRIVE POLVO REG UN DIA EN PARQUE 6X3KG                                 7791290783577 N                6 
+7737001070017 175048               DRIVE MATIC POLVO BANO DE BLANCURA 6X3KG                               7791290783584 N                6 
+7737001070017 175051               VIVERE SUAVIZ P/ROPA CLASICO 4X4LT                                     7791290192263 N                4 
+7737001070017 175155               HUGGIES GOODNITES UNISEX MED 6X11UN                                      36000180800 N                6 
+7737001070017 175158               HUGGIES GOODNITES UNISEX GDE 6X9UN                                       36000180855 N                6 
+7737001070017 175218               VIVERE SUAVIZ DIA A DIA DOYP 12X900ML                                  7791290783485 N               12 
+7737001070017 175385               AXE SHOWER GEL DARK TEMPT 12X250ML/258GR                               7791293747217 N               12 
+7737001070017 175434               CIF LIMP UNIV CREM C/CLORO ACT 12X500ML                                7791290008205 N               12 
+7737001070017 175509               CIF LIMP UNIV C/CLORO ACT GTL 12X500ML                                 7791290008182 N               12 
+7737001070017 175511               CIF LIMP UNIV C/CLORO ACT DOYP 12X500ML                                7791290008199 N               12 
+7737001070017 175634               NEVEX LV VAJ MIEL Y ALMENDRAS 12X1,25LT                                7730165322558 N               12 
+7737001070017 175688               DOVE AC ESSENT CARE4X24X10M+BDOG JAB300G                               7730165322404 N                4 
+7737001070017 175689               DOVE AC THERAPY 4X24X10ML+BDOG JAB 300GR                               7730165322398 N                4 
+7737001070017 175690               DOVE SH ESSENT CARE4X24X10M+BDOG JAB300G                               7730165322381 N                4 
+7737001070017 175691               DOVE SH THERAPY 4X24X10ML+BDOG JAB 300GR                               7730165322374 N                4 
+7737001070017 176051               AXE DEO STICK DARK TEMPTATION 12X54GR                                       75025939 N               12 
+7737001070017 176241               HUGGIES TOALLA ACT FRESH FLIPTOP 24X48UN                               7896018700628 N               24 
+7737001070017 176245               DOVE DEO STICK AP PRO AGE 12X50GR                                           75025953 N               12 
+7737001070017 176249               HUGGIES TOALLA HUM RNAC FLIPTOP 24X48UN                                7896018700642 N               24 
+7737001070017 176678               DOVE SHOWER CLASICO 12X250ML                                           7898422751746 N               12 
+7737001070017 176995               DOVE SHOWER ROSAS Y CACAO 12X250ML                                     7898422751753 N               12 
+7737001070017 176998               DOVE SHOWER FLORES CEREZO ALMEND12X250ML                               7898422751722 N               12 
+7737001070017 177000               DOVE SHOWER JASMIN Y MIEL 12X250ML                                     7898422751739 N               12 
+7737001070017 177135               REXONA SKIN CARE DEO AER AP CALM 12X105G                               7791293848259 N               12 
+7737001070017 177144               REXONA SKIN CARE DEO AER AP NEUT 12X105G                               7791293848266 N               12 
+7737001070017 177171               DAYS TOALLA FEM SUPREME C/ALAS 40X8UN                                  7793620923554 N               40 
+7737001070017 177175               DAYS TOAL FEM U PROT UF E SUAV C/A40X8UN                               7793620923660 N               40 
+7737001070017 177184               DAYS TOAL FEM U PROT SSEC C/ALAS 40X8UN                                7793620923677 N               40 
+7737001070017 177186               DAYS TOALLA FEM U PROT NORM C/ALAS48X8UN                               7793620923950 N               48 
+7737001070017 177189               DAYS TOAL FEM U PROT NORM SSEC C/ALA48X8                               7793620923967 N               48 
+7737001070017 177196               DAYS TOAL FEM SENSIT NORM C/ALAS 36X12UN                               7793620923783 N               36 
+7737001070017 177198               DAYS TOAL FEM ESENC NORM C/ALAS 36X12UN                                7793620923790 N               36 
+7737001070017 177201               DAYS TOALLA FEMENINA LONG C/ALAS 40X8UN                                7793620923974 N               40 
+7737001070017 177204               DAYS TOAL FEM SENSIT U FINA C/ALAS40X8UN                               7793620923981 N               40 
+7737001070017 177207               DAYS TOAL FEM SENSIT NORM C/ALAS 48X8UN                                7793620923998 N               48 
+7737001070017 177212               DAYS TOAL FEM TEENS NORM C/ALAS 48X8UN                                 7793620924001 N               48 
+7737001070017 177215               DAYS TOAL FEM ESENC NORM C/ALAS 48X8UN                                 7793620924018 N               48 
+7737001070017 177218               DAYS TOAL FEM ESENC NORM S/ALAS 48X8UN                                 7793620924025 N               48 
+7737001070017 177223               DAYS TOALLA FEM SUP SSEC C/ALAS 40X8UN                                 7793620923561 N               40 
+7737001070017 177300               MAGIC SCOTT ROL COCINA ABS RES 40P8X3UN                                7798038157546 N                8 
+7737001070017 177302               SCOTT ROLLO COCINA ALIMENTOS 60P 12X2UN                                7798038157560 N               12 
+7737001070017 178020               REXONA DEO AER AP SC NUTR 12X105G/175ML                                7791293848341 N               12 
+7737001070017 178263               HUGGIES TOALLA NAT CARE FLTOP ALG24X48UN                               7896018700604 N               24 
+7737001070017 178416               DAYS TOALLA FEM ESENC ES U FIN ALA40X8UN                               7793620924032 N               40 
+7737001070017 178649               DOVE DEO AER AP INVISIBLE DRY 12X100GR                                 7791293008868 N               12 
+7737001070017 178658               DOVE DEO AER AP ORIGINAL 12X100GR                                      7791293008141 N               12 
+7737001070017 178662               DOVE DEO AER AP SILK 12X100GR                                          7791293008080 N               12 
+7737001070017 178725               REXONA JAB HAPPY 72X125GR                                              7791293995847 N               72 
+7737001070017 178738               REXONA JAB HAPPY 24X3X125GR                                            7791293995854 N               24 
+7737001070017 179222               KLEENEX PAPEL HIG U SOFT D HOJA 8X6X30MT                               7798038157591 N                8 
+7737001070017 179229               KLEENEX PAPEL HIG SIMPLE HOJA 12X4X30MT                                7798038157607 N               12 
+7737001070017 179248               KLEENEX PAP HIG ABSOR SIMPLE HJ4X12X30MT                               7798038157638 N                4 
+7737001070017 179256               KLEENEX PAPEL HIG SIMPLE HOJA 8X6X30MT                                 7798038157614 N                8 
+7737001070017 179498               HUGGIES NAT CARE BENETTON PEQ 10X14UN                                  7794626923890 N               10 
+7737001070017 179503               HUGGIES NAT CARE BENETTON MED 15X12UN                                  7794626923906 N               15 
+7737001070017 179506               HUGGIES NAT CARE BENETTON GDE 10X10UN                                  7794626923913 N               10 
+7737001070017 179510               HUGGIES NAT CARE BENETTON XGDE 10X8UN                                  7794626923920 N               16 
+7737001070017 179514               HUGGIES NAT CARE BENET MAXI GDE 10X20UN                                7794626923968 N               10 
+7737001070017 179517               HUGGIES NAT CARE BENET MAXI XGDE 12X16UN                               7794626923975 N               12 
+7737001070017 179520               HUGGIES NAT CARE BENET MAXI XXGDE12X16UN                               7794626923982 N               12 
+7737001070017 179522               HUGGIES NAT CARE BENET MEGA GDE 5X30UN                                 7794626924002 N                5 
+7737001070017 179542               HUGGIES NAT CARE BENET MEGA XGDE 10X24UN                               7794626924019 N               10 
+7737001070017 179546               HUGGIES NAT CARE BENET MEGA XXGDE10X24UN                               7794626924026 N               10 
+7737001070017 179547               HUGGIES NAT CARE BENET JUMBO MED 3X48UN                                7794626922695 N                3 
+7737001070017 179549               SEDAL CR PEIN CAPAS DESTACADAS 12X300ML                                7898422752408 N               12 
+7737001070017 179553               HUGGIES NAT CARE BENET JUMBO GDE 5X40UN                                7794626910685 N                5 
+7737001070017 179560               HUGGIES NAT CARE BENET JUMBO XGDE 6X32UN                               7794626910692 N                6 
+7737001070017 179563               HUGGIES NAT CARE BENET JUMBO XXGDE6X32UN                               7794626910708 N                6 
+7737001070017 179577               LUX JAB SEDUCEME 72X125GR                                              7791293995908 N               72 
+7737001070017 180443               PONDS CR REJUVENESS NOCHE 6X100GR                                      7501056332075 S                6 
+7737001070017 180447               PONDS CR REJUVENESS NOCHE 6X50GR                                       7501056332068 S                6 
+7737001070017 180561               REXONA DEO AER AP COBALT 12X105GR/175ML                                7791293990576 N               12 
+7737001070017 180565               REXONA DEO AER AP QUANTUM 12X105GR/175ML                               7791293990651 N               12 
+7737001070017 180862               REXONA DEO AER AP SPORTFAN 12X105G/175ML                               7791293990620 N               12 
+7737001070017 180903               SEDAL AC CAPAS DESTACADAS 12X200ML                                     7791293995922 N               12 
+7737001070017 180923               SEDAL AC CAPAS DESTACADAS 12X350ML                                     7791293995939 N               12 
+7737001070017 180929               SEDAL SH CAPAS DESTACADAS 12X200ML                                     7791293995960 N               12 
+7737001070017 180934               SEDAL SH CAPAS DESTACADAS 12X350ML                                     7791293995977 N               12 
+7737001070017 181003               REXONA DEO STI AP CALMING 12X50GR                                           75026462 N               12 
+7737001070017 181016               REXONA DEO STI AP NEUTRAL 12X50GR                                           75026448 N               12 
+7737001070017 181092               SEDAL SH SOS CASPA 12X200ML                                            7791293990965 N               12 
+7737001070017 181095               SEDAL SH SOS CASPA 12X350ML                                            7791293990972 N               12 
+7737001070017 181097               SEDAL AC SOS CASPA 12X350ML                                            7791293990958 N               12 
+7737001070017 181277               DOVE SH BRILLO THERAPY 12X250ML                                        7898422752354 N               12 
+7737001070017 181279               DOVE AC BRILLO THERAPY 12X250ML                                        7898422752309 N               12 
+7737001070017 181329               SEDAL AC ONDAS DEFINIDAS 12X200ML                                      7791293008295 N               12 
+7737001070017 181330               SEDAL SH ONDAS DEFINIDAS 12X200ML                                      7791293008271 N               12 
+7737001070017 181332               SEDAL AC ONDAS DEFINIDAS 12X350ML                                      7791293008301 N               12 
+7737001070017 181338               SEDAL SH SOS CAIDA 12X200ML                                            7791293007090 N               12 
+7737001070017 181339               SEDAL AC SOS CAIDA 12X200ML                                            7791293007106 N               12 
+7737001070017 181341               SEDAL AC SOS CAIDA 12X350ML                                            7791293007120 N               12 
+7737001070017 181383               SEDAL CR TRAT SOS CERAMIDAS 6X450GR                                    7898422748265 N                6 
+7737001070017 181384               SEDAL CR TRAT SOS REPARACION 6X450GR                                   7898422748432 N                6 
+7737001070017 181451               SEDAL SH SOS CAIDA 12X350ML                                            7791293007113 N               12 
+7737001070017 181538               SEDAL AC BRILLO GLOSS 12X350ML                                         7791293995748 N               12 
+7737001070017 181544               SEDAL AC CASTANOS INTENSOS 12X350ML                                    7791293004495 N               12 
+7737001070017 181549               SEDAL AC BRILLO GLOSS 12X200ML                                         7791293995731 N               12 
+7737001070017 181552               SEDAL AC LISO PERFECTO 12X350ML                                        7791293008677 N               12 
+7737001070017 181554               SEDAL AC LISO PERFECTO 12X200ML                                        7791293008653 N               12 
+7737001070017 181558               SEDAL AC NEGROS LUMINOSOS 12X350ML                                     7791293006741 N               12 
+7737001070017 181560               SEDAL AC RIZOS OBEDIENTES 12X350ML                                     7791293008660 N               12 
+7737001070017 181564               DOVE CR PEIN BRILHO THERAPY 12X200ML                                   7898422752293 N               12 
+7737001070017 181565               SEDAL AC SOS CERAMIDAS 12X350ML                                        7791293019826 N               12 
+7737001070017 181566               DOVE AC BRILLO THERAPY 12X400ML                                        7898422752323 N               12 
+7737001070017 181569               DOVE SH BRILLO THERAPY 12X400ML                                        7898422752330 N               12 
+7737001070017 181570               SEDAL AC RUBIOS RADIANTES 12X350ML                                     7791293004501 N               12 
+7737001070017 181572               SEDAL AC SOS REPARACION 12X350ML                                       7791293990033 N               12 
+7737001070017 181578               SEDAL AC RIZOS OBEDIENTES 12X200ML                                     7791293008646 N               12 
+7737001070017 181592               SEDAL AC SOS CERAMIDAS 12X200ML                                        7791293019840 N               12 
+7737001070017 181611               SEDAL AC SOS REPARACION 12X200ML                                       7791293990019 N               12 
+7737001070017 181633               SEDAL CR PEINAR LISO PERFECTO 12X300ML                                 7898422746063 N               12 
+7737001070017 181634               SEDAL SH ONDAS DEFINIDAS 12X350ML                                      7791293008288 N               12 
+7737001070017 181652               SEDAL SH RIZOS OBEDIENTES 12X350ML                                     7791293008622 N               12 
+7737001070017 181653               SEDAL SH BRILLO GLOSS 12X350ML                                         7791293995724 N               12 
+7737001070017 181654               SEDAL SH CASTANOS INTENSOS 12X350ML                                    7791293004464 N               12 
+7737001070017 181655               SEDAL SH CITRIC FRESH 12X350ML                                         7791293003429 N               12 
+7737001070017 181656               SEDAL SH LISO PERFECTO 12X350ML                                        7791293008639 N               12 
+7737001070017 181657               SEDAL SH NEGROS LUMINOSOS 12X350ML                                     7791293006765 N               12 
+7737001070017 181659               SEDAL SH RUBIOS RADIANTES 12X350ML                                     7791293004471 N               12 
+7737001070017 181661               SEDAL SH SOS CERAMIDAS 12X350ML                                        7791293019819 N               12 
+7737001070017 181663               SEDAL SH SOS REPARACION 12X350ML                                       7791293990026 N               12 
+7737001070017 181664               SEDAL SH BRILLO GLOSS 12X200ML                                         7791293433837 N               12 
+7737001070017 181666               SEDAL SH CITRIC FRESH 12X200ML                                         7791293003412 N               12 
+7737001070017 181667               SEDAL SH LISO PERFECTO 12X200ML                                        7791293008615 N               12 
+7737001070017 181668               SEDAL SH RIZOS OBEDIENTES 12X200ML                                     7791293008608 N               12 
+7737001070017 181671               SEDAL SH SOS CERAMIDAS 12X200ML                                        7791293019833 N               12 
+7737001070017 181673               SEDAL CR PEIN ONDAS DEFINIDAS 12X300ML                                 7898422746070 N               12 
+7737001070017 181674               SEDAL SH SOS REPARACION 12X200ML                                       7791293990002 N               12 
+7737001070017 181719               KOTEX DAYS TOAL FEM MULT ULTF C/A 40X8UN                               7793620923912 N               40 
+7737001070017 181726               SEDAL AC BRILLO GLOSS SCH 4X24X10ML                                    7791293786520 N               96 
+7737001070017 181727               SEDAL SH BRILLO GLOSS SCH 4X24X15ML                                    7791293786513 N               96 
+7737001070017 181728               SEDAL AC LISO PERFECTO 96X10ML                                         7791293999043 N               96 
+7737001070017 181730               SEDAL SH LISO PERFECTO SCH 96X15ML                                     7791293999029 N               96 
+7737001070017 181731               SEDAL SH ONDAS DEFINIDAS SCH 12X24X15ML                                7791293009353 N              288 
+7737001070017 181733               SEDAL AC SOS CERAMIDAS SCH 4X24X10ML                                   7791293417080 N               96 
+7737001070017 181755               SEDAL CR PEIN RIZOS OBEDIENTES 12X300ML                                7898422746032 N               12 
+7737001070017 181758               SEDAL SH SOS CERAMIDAS SCH 4X24X15ML                                   7791293016085 N               96 
+7737001070017 181781               SEDAL AC SOS CERAMIDAS 12X300ML                                        7791293019888 N               12 
+7737001070017 181810               SEDAL SH SOS CERAMIDAS 12X300ML                                        7791293019871 N               12 
+7737001070017 181978               SEDAL SH RIZOS OBEDIENTES MEST12X24X15ML                               7791293009360 N              288 
+7737001070017 182203               SEDAL SH 2EN1 DUO 12X350ML                                             7791293003382 N               12 
+7737001070017 182401               SEDAL CR PEINAR BRILLO GLOSS 12X300ML                                  7898422750374 N               12 
+7737001070017 182703               LUX JAB SORPRENDEME 72X125GR                                           7791293990705 N               72 
+7737001070017 182779               LUX JAB REFRESCATE 24X3X125GR                                          7791293990750 N               24 
+7737001070017 183019               REXONA DEO STICK AP SPORTFAN 12X50GR                                        75026608 N               12 
+7737001070017 183063               REXONA DEO ROLLON CALMING 12X50ML                                           78923348 N               12 
+7737001070017 183065               REXONA DEO ROLLON NUTRITIVE 12X50ML                                         78923355 N               12 
+7737001070017 183068               REXONA DEO ROLLON NEUTRAL 12X50ML                                           78923362 N               12 
+7737001070017 183072               REXONA DEO ROLLON QUANTUM 12X50ML                                           78923416 N               12 
+7737001070017 183740               SUAVE JAB MIEL & ALMENDRAS 60X150GR                                    7791293991313 N               60 
+7737001070017 183747               SUAVE JAB ALOE VERA 60X150GR                                           7791293991368 N               60 
+7737001070017 183749               SUAVE JAB COCO & LECHE 60X150GR                                        7791293991337 N               60 
+7737001070017 183752               SUAVE JAB COCO & LECHE 35X3X90GR                                       7791293991344 N               35 
+7737001070017 183755               SUAVE JAB VARIEDADES 35X3X90GR                                         7791293991351 N               35 
+7737001070017 184303               REXONA DEO ROLLON SPORTFAN 12X50ML                                          78923379 N               12 
+7737001070017 184756               SKIP POLVO GLICERYN 4X4KG PRM 15%DESC                                  7730165323555 N                4 
+7737001070017 186550               VIVERE AROMA FRU BOSQ DOYP C/MAN12X900ML                               7791290784475 N               12 
+7737001070017 186590               VIVERE LIRIO & BAMBU DOYP C/MAN 12X900ML                               7791290784482 N               12 
+7737001070017 186591               VIVERE H FRESC & JASM DOYP C/MAN 12X900M                               7791290784406 N               12 
+7737001070017 186593               VIVERE VIOL & F BCA DOYP C/MAN 12X900ML                                7791290784499 N               12 
+7737001070017 186985               CIF ACTIVE GEL LIMON 12X300ML                                          7791290784673 N               12 
+7737001070017 186990               CIF ACTIVE GEL POMELO 12X300ML                                         7791290784734 N               12 
+7737001070017 186996               CIF ACTIVE GEL POMELO 12X600ML                                         7791290784741 N               12 
+7737001070017 186999               CIF ACTIVE GEL LIMON 12X600ML                                          7791290784680 N               12 
+7737001070017 187006               CIF ACTIVE GEL NARANJA 12X600ML                                        7791290784727 N               12 
+7737001070017 187061               VIVERE BOUQ F SILV DOYP C/MAN 12X900ML                                 7791290784468 N               12 
+7737001070017 187062               DRIVE POLVO B E ORQUIDEAS & LAV 24X400GR                               7791290784420 N               24 
+7737001070017 187063               DRIVE POLVO B E ORQUIDEAS & LAV 24X800GR                               7791290784444 N               24 
+7737001070017 187065               DRIVE POLVO A E ORQUIDEAS & LAV 24X800GR                               7791290784437 N               24 
+7737001070017 187066               DRIVE POLVO A E ORQUIDEAS & LAV 24X400GR                               7791290784413 N               24 
+7737001070017 187315               PONDS CR CLARANT ACTIV 6X50GR                                          7501056331573 S                6 
+7737001070017 187606               NEVEX MATIC POLVO SOL 6X3KG                                            7791290000254 N                6 
+7737001070017 187609               NEVEX MATIC POLVO FRESH 6X3KG                                          7791290205321 N                6 
+7737001070017 187614               NEVEX MATIC POLVO C/VIVERE CLASICO 6X3KG                               7791290783287 N                6 
+7737001070017 187898               DOVE DEO ROLLON PRO AGE 12X50ML                                             78924536 N               12 
+7737001070017 188004               HUGGIES TOALLA HUM RNAC FLIPTOP 12X48UN                                7896018700642 N               12 
+7737001070017 188005               HUGGIES TOALLA NAT CARE FLIPTOP 12X48UN                                7896018700604 N               12 
+7737001070017 188073               PLENITUD PANALES ADULTO MED C/BAR 10X8UN                               7809604013569 N               10 
+7737001070017 188075               PLENITUD PANALES ADULTO GDE C/BAR 10X8UN                               7809604013576 N               10 
+7737001070017 188076               PLENITUD PANALES AD MED CLAS C/BAR10X8UN                               7793620922649 N               10 
+7737001070017 188077               PLENITUD PANALES AD CLAS MED C/BAR6X14UN                               7794626924309 N                6 
+7737001070017 188078               PLENITUD PANALES AD CLAS GDE C/BAR6X14UN                               7794626924316 N                6 
+7737001070017 188081               PLENITUD PANALES AD CLAS GDE C/BAR10X8UN                               7793620922656 N               10 
+7737001070017 188157               AXE SHOWER GEL DARK TEMP6X250ML PRM ESPJ                               7791293007403 N                6 
+7737001070017 188353               NEVEX MATIC POLVO BLS 6X3KG                                            7791290205314 N                6 
+7737001070017 188926               DAYS TAMPONES NUEVO DIS FEM MINI 24X16UN                               7793620923929 N               24 
+7737001070017 188928               DAYS TAMPONES NUEVO DIS FEM MED 24X16UN                                7793620923936 N               24 
+7737001070017 189039               CIF CR LIMP UNIVERSAL 8X750GR+BALLERINA                                7730165323869 N                8 
+7737001070017 189092               AXE DEO AER BODY SPRAY NIGHT 7PM 12X113G                               7791293016931 N               12 
+7737001070017 189096               AXE DEO AER BODY SPRAY DAY 7AM 12X113GR                                7791293016924 N               12 
+7737001070017 189647               SCOTT ROLLO COCINA DURAMAX REG 24X1UN                                  7702425679207 N               24 
+7737001070017 189670               DOVE DEO ROLLON ORIGINAL 12X50ML                                            78924468 N               12 
+7737001070017 189671               DOVE DEO ROLLON INVISIBLE DRY 12X50ML                                       78924529 N               12 
+7737001070017 189673               DOVE DEO ROLLON CLEAR TONE 12X50ML                                          78924482 N               12 
+7737001070017 190798               NEVEX HURRA MIEL ALMEND9X1,25L+NEVEX100G                               7730165323876 N                9 
+7737001070017 191297               CIF CREMOSO BLANCO 12X750GR                                            7791290785144 N               12 
+7737001070017 191361               AXE DEO AER BSPR CLICK6X113G+SHOW PRM20%                               7730165324125 N                6 
+7737001070017 191363               AXE DEO AER BS D TEMPT6X113G+SHOW PRM20%                               7730165324118 N                6 
+7737001070017 191365               AXE DEO AER BSPR VICE6X113GR+SHOW PRM20%                               7730165324095 N                6 
+7737001070017 191368               AXE DEO AER BSPR MAR 6X113GR+SHOW PRM20%                               7730165324101 N                6 
+7737001070017 191931               SCOTT ROLLO DE COCINA MULTIUSO 80P 8X3UN                               7798038157850 N                8 
+7737001070017 192632               PLENITUD TOAL ADUL ROPA INTERIOR 10X8UN                                7702425532687 N               10 
+7737001070017 192799               LUX JAB MIX SEDUCEME 24X3X125GR PRM 15%                                7730165324187 N               24 
+7737001070017 192808               HUGGIES PANALES RNAC BENET MAXI 10X20UN                                7794626922701 N               10 
+7737001070017 193925               HUGGIES PANALES CLASSIC JUMBO MED 3X48UN                               7794626924392 N                3 
+7737001070017 28910                CLOSE UP MENTA VERDE 12X90GR                                           7891037009844 N               12 
+7737001070017 28912                CLOSE UP MENTA FRESCA 12X90GR                                          7891037009820 N               12 
+7737001070017 31712                CIF BALLERINA MULTIUSO 24X1UN                                          7791290647176 N               24 
+7737001070017 52729                DOVE DEO CR TUBO 12X55GR                                               7891037002517 N               12 
+7737001070017 53129                REXONA DEO STICK FRESH COBALT 12X45GR                                       78005976 N               12 
+7737001070017 53130                REXONA DEO ROLLON SENSIVE NEUT 12X53GR                                      78916609 N               12 
+7737001070017 53302                REXONA DEO CR SENSIVE NEUTRAL 12X55GR                                  7891037012455 N               12 
+7737001070017 53313                SUAVE SH.ALOE VERA 8X930ML                                             7791293999913 N                8 
+7737001070017 53314                SUAVE AC.ALOE VERA 8X930ML                                             7791293999890 N                8 
+7737001070017 53705                REXONA DEO ROLLON AP SENSIVE CR 12X53GR                                     78917033 N               12 
+7737001070017 5590                 CIF CREMOSO LIMON 12X750GR                                             7791290000889 N               12 
+7737001070017 5598                 CIF BANO GAT.12X500ML                                                  7791290006263 N               12 
+7737001070017 5600                 CIF VIDRIO Y MULTIUSO GAT.12X500ML                                     7791290003507 N               12 
+7737001070017 5603                 CIF CREMOSO BLANCO 12X375GR                                            7791290006218 N               12 
+7737001070017 5611                 CIF BANO C/LVDINA GTL 12X500ML                                         7791290005280 N               12 
+7737001070017 5612                 CIF BANO C/LVDINA REP 12X500ML                                         7791290005297 N               12 
+7737001070017 5615                 CIF GEL C/LVDINA 12X500ML                                              7791290005136 N               12 
+7737001070017 56214                NEVEX MATIC POLVO SOL 24X800GR                                         7791290000193 N               24 
+7737001070017 5624                 COMFORT CLASSIC 4X4000CC                                               7791290007420 N                4 
+7737001070017 5692                 SUN PROGRESS ABRILLANTADOR 16X500CC                                    8711700045902 N               16 
+7737001070017 5693                 SUN PROGRESS SAL 7X1KG                                                 7805000459185 N                7 
+7737001070017 5768                 LORD CHESELINE CLASIC POMO 12X150GR                                    7791293041223 N               12 
+7737001070017 5771                 LORD CHESELINE EXPLOIT POMO 12X150GR                                   7791293041322 N               12 
+7737001070017 5845                 IMPULSE DEO AER DYNAMIQUE 12X53GR/82ML                                 7791293020303 N               12 
+7737001070017 5846                 IMPULSE DEO AER MUSK 12X53GR                                           7791293020402 N               12 
+7737001070017 5855                 REXONA DEO ODORONO POTE 12X60GR                                             77923424 N               12 
+7737001070017 5859                 REXONA EFFICIENT TALCO 12X100GR                                        7791293051123 N               12 
+7737001070017 58638                CIF CREMOSO 8X750GR PRM BALLERINA                                      7730165312306 N                8 
+7737001070017 59232                REXONA DEO CR SENSIVE 12X55GR                                          7891037012653 N               12 
+7737001070017 61510                REXONA DEO STICK AP SENSITIVE 12X50GR                                       78006805 N               12 
+7737001070017 6163                 KLEENEX PANUELO FACIAL BOX 24X100UN                                    7798038150165 N               24 
+7737001070017 6164                 KLEENEX PANUELO FACIAL BOX 48X75UN                                     7798038150158 N               48 
+7737001070017 62941                KLEENEX PANUELO FACIAL CUBO 24X75UN                                    7798038151308 N               24 
+7737001070017 63668                REXONA DEO ROLLON SENSITIVE 12X53GR                                         78917309 N               12 
+7737001070017 73882                DOVE JAB BLANCO 48X135GR                                                 67238891190 N               48 
+7737001070017 8737                 NEVEX REGULAR BLS.24X400GR                                             7791290204997 N               24 
+7737001070017 8738                 NEVEX MATIC BLS.24X400GR                                               7791290204980 N               24 
+7737001070017 87421                BULL DOG JAB 48X300GR                                                  7791290677951 N               48 
+7737001070017 87426                REXONA DEO AP AIR PETALS 12X60GR                                       7791293002088 N               12 
+7737001070017 87428                REXONA DEO AP TROPICAL ENERGY 12X60GR                                  7791293002071 N               12 
+7737001070017 87438                NEVEX FRESH JAB 84X1X200GR                                             7791290677944 N               84 
+7737001070017 87586                DOVE LOC NUTRICARE 12X200ML                                            7891037008434 S               12 
+7737001070017 87593                DOVE LOC FIRM INTENSE 12X200ML                                         7891037011786 S               12 
+7737001070017 87596                DOVE LOC NUTRISUPREME 12X200ML                                         7891037619609 S               12 
+7737001070017 93151                REXONA ACTR DEO ROLLON A PET 12X53GR/50M                                    78918092 N               12 
+7737001070017 93155                REXONA ACTR DEO ROL TROP ENERG12X53G/50M                                    78918115 N               12 
+7737001070017 9564                 CIF ANTIGRASA GAT.12X500ML                                             7791290002852 N               12 
+7737001070017 98248                DOVE DEO ROLLON SILK DRY 12X55GR/50ML                                       78918436 N               12 
+7737001070017 9907                 NEVEX MATIC BLS.24X800GR                                               7791290205284 N               24 
+7737001070017 9909                 NEVEX REGULAR BLS.24X800GR                                             7791290205260 N               24 
+7737001070017 99314                KIMBIES BASICO JUMBO XGDE 6X32UN                                       7794626008528 N                6 
+7737001070017 99315                KIMBIES BASICO GDE 10X20UN                                             7794626908675 N               10 
+7737001070017 99318                KIMBIES BASICO JUMBO MED 6X48UN                                        7794626008504 N                6 
+7737001070017 99319                KIMBIES BASICO MED 10X24UN                                             7794626908668 N               10 
+7737001070017 99320                KIMBIES BASICO MED 14X12UN                                             7794626908446 N               14 
+7737001070017 99321                KIMBIES BASICO PEQ 14X14UN                                             7794626908439 N               14 
+7737001070017 99322                KIMBIES BASICO XGDE 10X16UN                                            7794626908682 N               10 
+7737001070017 99354                MIMOSA P D 20X60UN PRM 20UN GRATIS                                     7736550003903 N               20 
+7737001070017 99369                SCOTT GOURMET SERVILLETA 12X140UN                                      7798038151223 N               12 
+7737001070017 99370                SCOTT GOURMET SERVILLETA 24X70UN                                       7798038151230 N               24 
+7737001070017 99371                SCOTT GOURMET SERVILLETA COPETIN 80X50UN                               7798038150592 N               80 
+7737001070017 99375                SCOTT GOURMET SERVILLETA 40X40UN                                       7798038151247 N               40 
+7737001070017 99379                DAYS TOAL FEM NOR SS C/ALAS12X24U PRM3X2                               7736550709911 N               12 
+7737001070017 99381                MIMOSA TOALLA FEM CLASICA C/ALAS 60X8UN                                7793620400017 N               60 
+7737001070017 99384                MIMOSA TOALLA FEM NOCTURNA C/ALAS 40X8UN                               7736550002739 N               40 
+7737001070017 99388                MIMOSA TOALLA FEM U FINA C/ALAS 60X8UN                                 7793620400048 N               60 
+7737001070017 99396                MIMOSA TOAL FEM CLAS C/ALAS 30X16UN+20%                                7736550727205 N               30 
+7737001070017 99397                MIMOSA TOAL FEM CLAS S/ALA30X16UN+25%DES                               7736550727717 N               30 

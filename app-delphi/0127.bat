@@ -1,0 +1,1 @@
+CatalogoBatch l=0127:fiorell g=7737001060018 f=TXT
