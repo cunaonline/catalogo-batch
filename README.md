@@ -5,17 +5,16 @@ Al ejecutarse con los parámetros correspondientes, el programa crea automaticam
 Subcarpeta con el nro de usuario (nnnn).
 Dentro de esa carpeta:
   Subcarpeta "Logs" (donde genera registros de ejecución)
-  Subcarpeta "Recibido" (Quedan los archivos recibidos con nombre
-           ProveedorDelFicheroIni.xxx donde xxx depende del formato)
+  Subcarpeta "Recibido" (Quedan los archivos generados con nombre **proveedor.xxx** donde ***xxx*** depende del formato y ***proveedor*** son los parametrizados en el fichero Catalogobatch.ini)
 
-La estructura sería así (donde nnnn es el nro usuario):
-C:\Catalogo\nnnn\Logs
-C:\Catalogo\nnnn\Recibido
-C:\Catalogo\nnnn\AEnviar
+### La estructura sería así (donde nnnn es el nro usuario):
+- C:\Catalogo\nnnn\Logs
+- C:\Catalogo\nnnn\Recibido
+- C:\Catalogo\nnnn\AEnviar
 
-Al Catalogobatch.exe se le pueden pasar los siguientes parametros:
+Al jar generado catalogo-batch-0.0.1 se le pueden pasar los siguientes parametros:
 
-CatalogoBatch.exe l=user:pwd g=GLN [f=CSV]
+***catalogo-batch-0.0.1.jar l=user:pwd g=GLN [f=CSV]***
 
 Los parametros entre [] son opcionales.
 
@@ -32,11 +31,13 @@ f=CSV ---> formato en que se reciben los catálogos.
              DBF (archivo compatible con DBase/FoxPro)
 
 
-Ejemplo: usuario: 0000 contraseña: test, gln=7737001000010 formato Excel
-Catalogobatch.exe l=0000:test g=7737001000010 f=XLS
+- Ejemplo: usuario: 0000 contraseña: test, gln=7737001000010 formato DBF.
 
-Ejemplo: dados de alta desde de enero del 2005, formato texto delimitado
-Catalogobatch.exe l=0000:test  g=7737001000010  f=CSV  
+***catalogo-batch-0.0.1.jar l=0000:test g=7737001000010 f=DBF***
+
+- Ejemplo: usuario: 0000 contraseña: test, gln=7737001000010 formato CSV.
+
+***catalogo-batch-0.0.1.jar l=0000:test  g=7737001000010  f=CSV***
 
 
 Bajar catálogos
