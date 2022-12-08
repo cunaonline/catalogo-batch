@@ -73,8 +73,8 @@ public class RestManager {
 			empresaGln = (String) businesses.get(0).get("gln");
 
 		} catch (Exception e) {
-			System.out.println("No se pudo obtener el token, se intentara nuevamente. ");
-			throw new ServiceException("No se pudo obtener el token");
+			System.out.println("No se pudo loguear el Usuario, se intentara nuevamente. ");
+			throw new ServiceException("No se pudo loguear el Usuario");
 		}
 	}
 
@@ -91,8 +91,8 @@ public class RestManager {
 			Map data = (LinkedHashMap) loginResponse.get("data");
 			return (String) data.get("token");
 		} catch (Exception e) {
-			System.out.println("No se pudo obtener el token empresa, se intentara nuevamente. ");
-			throw new ServiceException("No se pudo obener el token empresa");
+			System.out.println("No se pudo loguear la empresa, se intentara nuevamente. ");
+			throw new ServiceException("No se pudo loguear la empresa");
 		}
 	}
 
@@ -208,15 +208,14 @@ public class RestManager {
 	}
 
 	private static ProductoBatchDTO convertirNuevoProducto(LinkedHashMap data) {
-		String gtin14, empaques, camadas, estado, esPromo;
-		Integer unidades = 0;
+	try {	String gtin14, unidades,empaques, camadas, estado, esPromo;
 		Boolean esPromoBool;
 
 		ArrayList<LinkedHashMap> dataIntermedia = (ArrayList<LinkedHashMap>) data.get("empaques");
 
 		gtin14 = dataIntermedia.size() > 0 ? (String) dataIntermedia.get(0).get("gtin") : "";
 
-		unidades = dataIntermedia.size() > 0 ? (Integer) dataIntermedia.get(0).get("cantidad") : 0;
+		unidades = dataIntermedia.size() > 0 ? (String) dataIntermedia.get(0).get("cantidad").toString() : "";
 
 		LinkedHashMap dataIntermedia1 = (LinkedHashMap) data.get("pallet");
 
@@ -269,7 +268,11 @@ public class RestManager {
 				null, // PRCONDTO
 				null, // PRTOTAL
 				null // PRSUGERIDO
-		);
+		);}
+	catch (Exception e) {
+			e.printStackTrace();
+		}
+	return new ProductoBatchDTO(null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null);
 	}
 
 	private List<ProductoBatchDTO> mapProductos(ArrayList<LinkedHashMap> data) {

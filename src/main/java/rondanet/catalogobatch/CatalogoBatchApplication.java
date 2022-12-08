@@ -18,7 +18,6 @@ public class CatalogoBatchApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-
     // Ejecucion batch 
      this.ejecucion.runProgram(args);
 	}

@@ -10,6 +10,7 @@ public class Directorio {
 	private String urlbase;
 
 	public void crearDirectorio(String empresa) {
+		System.out.println("Generando directorio de carpeta ");
 		String urlPath = new File("").getAbsolutePath();
 
 		String downloadPath = urlPath + "/" + empresa;
@@ -21,7 +22,7 @@ public class Directorio {
 		newFolder.mkdir();
 		newFolder = new File(downloadPath + "/AEnviar");
 		newFolder.mkdir();
-		System.out.println("Directorio de Carpetas " + downloadPath);
+		System.out.println("Directorio de carpetas " + downloadPath);
 		urlbase = downloadPath;
 	}
 
