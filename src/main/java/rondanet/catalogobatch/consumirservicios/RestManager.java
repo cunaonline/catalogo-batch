@@ -113,13 +113,13 @@ public class RestManager {
 	}
 
 	@Retryable(value = { ServiceException.class }, maxAttempts = 5)
-	public LinkedHashMap getProveedores(String token, Integer page) throws Exception {
+	public LinkedHashMap getProveedoresDeCatalogo(String token, Integer page) throws Exception {
 		headers.setContentType(MediaType.APPLICATION_JSON);
 		headers.setBearerAuth(token);
 
 		try {
 			HttpEntity request = new HttpEntity<>(headers);
-			ResponseEntity response = restTemplate.exchange(urlApiRest + "/api/acciones/proveedores?limit=" + page,
+			ResponseEntity response = restTemplate.exchange(urlApiRest + "/api/acciones/empresasCatalogo?limit=" + page,
 					HttpMethod.GET, request, Object.class);
 
 			return (LinkedHashMap) response.getBody();
@@ -131,10 +131,10 @@ public class RestManager {
 
 	public List<EmpresaDTO> proveedoresByEmpresa(String token) throws ProveedorException {
 		// Realizo la primera peticion
-		System.out.println("Obtener proveedores");
-		logEjecucion.adicionarLogEjecucion("Obtener proveedores");
+		System.out.println("Obtener proveedores de Catalogo");
+		logEjecucion.adicionarLogEjecucion("Obtener proveedores de Catalogo");
 		try {
-			LinkedHashMap empresaProveedorasResponse = getProveedores(token, 1);
+			LinkedHashMap empresaProveedorasResponse = getProveedoresDeCatalogo(token, 1);
 			// Obtengo las empresas
 			ArrayList<LinkedHashMap> data = (ArrayList<LinkedHashMap>) empresaProveedorasResponse.get("data");
 			// Mapeo a empresas
@@ -144,12 +144,12 @@ public class RestManager {
 			total = (Integer) empresaProveedorasResponse.get("total");
 			limit = (Integer) empresaProveedorasResponse.get("limit");
 			page = (Integer) empresaProveedorasResponse.get("page");
-			System.out.println("Cantidad de proveedores: " + total);
-			logEjecucion.adicionarLogEjecucion("Cantidad de proveedores: " + total);
+			System.out.println("Cantidad de proveedores de Catalogo disponibles: " + total);
+			logEjecucion.adicionarLogEjecucion("Cantidad de proveedores de Catalogo disponibles: " + total);
 			paginasFaltantes = ((Integer) total / limit) + 1;
 			while (paginasFaltantes > page) {
 				// consulto para otras paginas
-				empresaProveedorasResponse = getProveedores(token, page + 1);
+				empresaProveedorasResponse = getProveedoresDeCatalogo(token, page + 1);
 				// Actualizo el numero de pagina
 				page = (Integer) empresaProveedorasResponse.get("page");
 				// Obtengo la informacion de los provvedores

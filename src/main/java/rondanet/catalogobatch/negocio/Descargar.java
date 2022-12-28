@@ -29,38 +29,33 @@ public class Descargar {
 		this.restManager = restManager;
 	}
 
-	public List<ProductoBatchDTO> descargarProductos(String empresasProveedoras, Map<String, String> parametros) {
+	public List<ProductoBatchDTO> descargarProductos(EmpresaDTO empresaDTO, Map<String, String> parametros) {
 
 		String token;
 		List<ProductoBatchDTO> listaProductos = new ArrayList<ProductoBatchDTO>();
-		List<EmpresaDTO> listaProveedores = new ArrayList<EmpresaDTO>();
-		List<EmpresaDTO> listaProveedoresFiltrada = new ArrayList<EmpresaDTO>();
-		System.out.println("=======================================================================\n"+"Iniciando descarga de productos del catálogo para la empresa: "+empresasProveedoras);
+		System.out.println("=======================================================================\n"+"Iniciando descarga de productos del catálogo para la empresa: "+empresaDTO.getGln());
 		logEjecucion.adicionarLogEjecucion("=======================================================================");		
-		logEjecucion.adicionarLogEjecucion("Iniciando descarga de productos del catálogo para la empresa: "+empresasProveedoras);
+		logEjecucion.adicionarLogEjecucion("Iniciando descarga de productos del catálogo para la empresa: "+empresaDTO.getGln());
 		try {
 			// Obtengo token para Login
 			token = this.restManager.getLogin(parametros.get("usuario"), parametros.get("password"),
 					parametros.get("empresa"));
-			// Obtengo los proveedores mediante servicios
-			listaProveedores = this.restManager.proveedoresByEmpresa(token);
-			// Filtro Porveedores obtenidos por servicos con el obtenido del fichero
-			listaProveedoresFiltrada = checkProveedores(listaProveedores, empresasProveedoras);
+		
 			// Obtengo productos por empresas
-			for (EmpresaDTO empresaDTO : listaProveedoresFiltrada) {	
+		
 				listaProductos.addAll(this.restManager.productosByEmpresa(token, empresaDTO));
-			}
-			logEjecucion.adicionarLogEjecucion("Finaliza descarga de productos del catálogo  para la empresa: "+empresasProveedoras+", se obtuvieron : " + listaProductos.size()+" productos");
+			
+			logEjecucion.adicionarLogEjecucion("Finaliza descarga de productos del catálogo  para la empresa: "+empresaDTO.getGln()+", se obtuvieron : " + listaProductos.size()+" productos");
 			logEjecucion.adicionarLogEjecucion("=======================================================================");		
-			System.out.println("Finaliza descarga de productos del catálogo  para la empresa: "+empresasProveedoras+", se obtuvieron : " + listaProductos.size()+" productos\n=======================================================================");
+			System.out.println("Finaliza descarga de productos del catálogo  para la empresa: "+empresaDTO.getGln()+", se obtuvieron : " + listaProductos.size()+" productos\n=======================================================================");
 			return listaProductos;
 
 		} catch (ProveedorException e) {
-			System.out.println("No se pudo obtener los productos para la empresa: "+empresasProveedoras);
+			System.out.println("No se pudo obtener los productos para la empresa: "+empresaDTO.getGln());
 			e.printStackTrace();
 		}
 		 catch (ProductoException e) {
-				System.out.println("No se pudo obtener los productos para la empresa: "+empresasProveedoras);
+				System.out.println("No se pudo obtener los productos para la empresa: "+empresaDTO.getGln());
 				e.printStackTrace();
 			}
 		catch (Exception e) {
@@ -71,16 +66,44 @@ public class Descargar {
 
 	}
 
+	public List<EmpresaDTO> verificarProveedoresCatalogo(List<String> empresasFicheroConfiguracion, Map<String, String> parametros) {
+
+		String token;
+		List<ProductoBatchDTO> listaProductos = new ArrayList<ProductoBatchDTO>();
+		List<EmpresaDTO> listaProveedores = new ArrayList<EmpresaDTO>();
+		List<EmpresaDTO> listaProveedoresFiltrada = new ArrayList<EmpresaDTO>();
+		try {
+			// Obtengo token para Login
+			token = this.restManager.getLogin(parametros.get("usuario"), parametros.get("password"),
+					parametros.get("empresa"));
+			// Obtengo los proveedores mediante servicios
+			listaProveedores = this.restManager.proveedoresByEmpresa(token);
+			// Filtro Porveedores obtenidos por servicos con el obtenido del fichero
+			System.out.println("Verificar proveedores obtenidos de configuracion");
+			logEjecucion.adicionarLogEjecucion("Verificar proveedores obtenidos de configuracion");
+			for (String empresaFicheroConfiguracion : empresasFicheroConfiguracion) {
+				listaProveedoresFiltrada.addAll(checkProveedores(listaProveedores, empresaFicheroConfiguracion));
+			}
+			System.out.println("Cantidad proveedores verificados: "+listaProveedoresFiltrada.size());
+			logEjecucion.adicionarLogEjecucion("Cantidad proveedores verificados: "+listaProveedoresFiltrada.size());	
+		return listaProveedoresFiltrada;
+
+		} 
+		catch (Exception e) {
+			System.out.println("Se produjo un error inesperado");
+			e.printStackTrace();
+		}
+		return listaProveedoresFiltrada;
+
+	}
 	private List<EmpresaDTO> checkProveedores(List<EmpresaDTO> listaProveedoresServicio,
 			String empresasProveedorasFichero) {
-		System.out.println("Verificar  proveedores");
-		logEjecucion.adicionarLogEjecucion("Verificar  proveedores");
-	
+
 			List<EmpresaDTO> empresaValida = listaProveedoresServicio.stream().filter(t -> t.getGln().equals(empresasProveedorasFichero))
 					.collect(Collectors.toList());
 
-		System.out.println("Proveedores verificados: " + empresaValida.size());
-		logEjecucion.adicionarLogEjecucion("Proveedores verificados: " + empresaValida.size());
+		System.out.println("Proveedor: "+ empresasProveedorasFichero + (empresaValida.size()>0 ? " Valido": " No Valido"));
+		logEjecucion.adicionarLogEjecucion("Proveedor: "+ empresasProveedorasFichero + (empresaValida.size()>0 ? " Valido": " No Valido"));
 		return empresaValida;
 	}
 

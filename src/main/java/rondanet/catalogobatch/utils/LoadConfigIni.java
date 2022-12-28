@@ -24,14 +24,14 @@ public class LoadConfigIni {
 	private boolean lineasColumnas;
 
 	public LoadConfigIni() {
-		
+
 		empresas = new ArrayList<String>();
 		columnas = new ArrayList<String>();
 	}
 
 	public void readFicheroIni() throws ColumnasException, EmpresaException {
 		System.out.println("Leer empresas y columnas del fichero CatalogoBatch.ini");
-		String linea;	
+		String linea;
 	    String urlPath = new File("").getAbsolutePath();
 		initEmpresasYColumnasPath = urlPath+ "/CatalogoBatch.ini";
 		FileReader archivo;

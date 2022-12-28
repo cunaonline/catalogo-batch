@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>rondanet</groupId>
 	<artifactId>catalogo-batch</artifactId>
-	<version>0.0.1</version>
+	<version>1.0.2</version>
 	<name>catalogo-batch</name>
 	<description>Catalogo Batch</description>
 	<properties>
